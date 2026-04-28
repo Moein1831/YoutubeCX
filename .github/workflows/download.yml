@@ -1,0 +1,96 @@
+name: YouTube Premium Downloader
+
+on:
+  workflow_dispatch:
+    inputs:
+      video_url:
+        description: '🔗 لینک ویدیو یوتیوب'
+        required: true
+        placeholder: 'https://youtu.be/... یا https://www.youtube.com/watch?v=...'
+      quality:
+        description: '🎬 کیفیت مورد نظر'
+        required: true
+        type: choice
+        options:
+          - 'best (بالاترین کیفیت ممکن)'
+          - '2160p (4K)'
+          - '1440p (2K)'
+          - '1080p (Full HD)'
+          - '720p (HD)'
+          - '480p'
+
+jobs:
+  download:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 1️⃣ دریافت کدهای مخزن (برای دسترسی به فایل‌های کمکی)
+        uses: actions/checkout@v4
+
+      - name: 2️⃣ نصب ابزارهای لازم (ffmpeg و yt-dlp)
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y ffmpeg
+          pip install yt-dlp
+
+      - name: 3️⃣ ساخت فایل کوکی از Secret (در صورت وجود)
+        env:
+          COOKIES_SECRET: ${{ secrets.YOUTUBE_COOKIES }}
+        run: |
+          if [ -n "$COOKIES_SECRET" ]; then
+            echo "$COOKIES_SECRET" > cookies.txt
+            echo "✅ فایل کوکی ایجاد شد"
+          else
+            echo "⚠️ کوکی وجود ندارد، ممکن است برای برخی ویدیوها خطای ربات بدهد"
+          fi
+
+      - name: 4️⃣ تعیین فرمت بر اساس کیفیت انتخاب شده
+        id: format
+        run: |
+          QUALITY="${{ github.event.inputs.quality }}"
+          case "$QUALITY" in
+            "best (بالاترین کیفیت ممکن)")
+              FORMAT="bestvideo+bestaudio/best"
+              ;;
+            "2160p (4K)")
+              FORMAT="bestvideo[height<=2160]+bestaudio/best[height<=2160]"
+              ;;
+            "1440p (2K)")
+              FORMAT="bestvideo[height<=1440]+bestaudio/best[height<=1440]"
+              ;;
+            "1080p (Full HD)")
+              FORMAT="bestvideo[height<=1080]+bestaudio/best[height<=1080]"
+              ;;
+            "720p (HD)")
+              FORMAT="bestvideo[height<=720]+bestaudio/best[height<=720]"
+              ;;
+            "480p")
+              FORMAT="bestvideo[height<=480]+bestaudio/best[height<=480]"
+              ;;
+            *)
+              FORMAT="bestvideo+bestaudio/best"
+              ;;
+          esac
+          echo "FORMAT=$FORMAT" >> $GITHUB_ENV
+
+      - name: 5️⃣ دانلود ویدیو با yt-dlp (روی سرور گیت‌هاب)
+        run: |
+          mkdir -p downloads
+          CMD="yt-dlp -f '${{ env.FORMAT }}' --merge-output-format mp4 -o 'downloads/%(title)s.%(ext)s' '${{ github.event.inputs.video_url }}'"
+          if [ -f cookies.txt ]; then
+            CMD="$CMD --cookies cookies.txt"
+          fi
+          echo "در حال اجرا: $CMD"
+          eval $CMD
+
+      - name: 6️⃣ ایجاد Release و آپلود ویدیوها
+        uses: softprops/action-gh-release@v1
+        with:
+          tag_name: video-${{ github.run_number }}
+          name: "🎥 ویدیو شماره ${{ github.run_number }}"
+          files: downloads/*
+          body: |
+            لینک درخواستی: ${{ github.event.inputs.video_url }}
+            کیفیت: ${{ github.event.inputs.quality }}
+            تاریخ: $(date)
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} 
