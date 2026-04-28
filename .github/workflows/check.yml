@@ -1,0 +1,70 @@
+name: 🔍 Check Video Sizes (No Download)
+
+on:
+  workflow_dispatch:
+    inputs:
+      video_url:
+        description: 'YouTube Video URL'
+        required: true
+        type: string
+
+jobs:
+  check-sizes:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Setup yt-dlp
+        uses: AnimMouse/setup-yt-dlp@v3
+        with:
+          ejs-node: true
+
+      - name: Create cookies (optional)
+        env:
+          COOKIES_SECRET: ${{ secrets.YOUTUBE_COOKIES }}
+        run: |
+          if [ -n "$COOKIES_SECRET" ]; then
+            echo "$COOKIES_SECRET" > cookies.txt
+          fi
+
+      - name: Fetch and display sizes for common qualities
+        run: |
+          URL="${{ github.event.inputs.video_url }}"
+          echo "📊 Fetching video info for: $URL"
+          echo ""
+          
+          # تعریف کیفیت‌های مورد نظر
+          qualities=(
+            "best:bestvideo+bestaudio/best"
+            "2160p:bestvideo[height<=2160]+bestaudio/best[height<=2160]"
+            "1440p:bestvideo[height<=1440]+bestaudio/best[height<=1440]"
+            "1080p:bestvideo[height<=1080][ext=mp4][vcodec^=avc1]+bestaudio[ext=m4a]/best[height<=1080]"
+            "720p:bestvideo[height<=720][ext=mp4][vcodec^=avc1]+bestaudio[ext=m4a]/best[height<=720]"
+            "480p:bestvideo[height<=480][ext=mp4][vcodec^=avc1]+bestaudio[ext=m4a]/best[height<=480]"
+            "360p:bestvideo[height<=360][ext=mp4][vcodec^=avc1]+bestaudio[ext=m4a]/best[height<=360]"
+          )
+          
+          echo "+------------+--------------+------------------------+"
+          echo "| Quality    | Size (MB)    | Will be split? (>95MB) |"
+          echo "+------------+--------------+------------------------+"
+          
+          for q in "${qualities[@]}"; do
+            name="${q%%:*}"
+            format="${q#*:}"
+            CMD="yt-dlp --print-json -f '$format' --skip-download '$URL'"
+            [ -f cookies.txt ] && CMD="$CMD --cookies cookies.txt"
+            
+            FILESIZE_BYTES=$(eval $CMD 2>/dev/null | jq -r '.filesize // .filesize_approx // 0')
+            if [ "$FILESIZE_BYTES" -gt 0 ]; then
+              SIZE_MB=$(echo "scale=1; $FILESIZE_BYTES / 1024 / 1024" | bc)
+              if (( $(echo "$SIZE_MB > 95" | bc -l) )); then
+                SPLIT="Yes (into parts)"
+              else
+                SPLIT="No (single file)"
+              fi
+              printf "| %-10s | %-12s | %-22s |\n" "$name" "${SIZE_MB} MB" "$SPLIT"
+            else
+              printf "| %-10s | %-12s | %-22s |\n" "$name" "N/A" "N/A"
+            fi
+          done
+          echo "+------------+--------------+------------------------+"
+          echo ""
+          echo "✅ Now run the 'download.yml' workflow with your chosen quality."
