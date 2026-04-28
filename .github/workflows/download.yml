@@ -1,11 +1,11 @@
 # .github/workflows/download.yml
-name: YouTube Premium Downloader
+name: YouTube Downloader (Save to Repo)
 
 on:
   workflow_dispatch:
     inputs:
       video_url:
-        description: '🔗 لینک ویدیو یوتیوب (مثال: https://youtu.be/... یا https://www.youtube.com/watch?v=...)'
+        description: '🔗 لینک ویدیو یوتیوب'
         required: true
         type: string
         default: 'https://youtu.be/dQw4w9WgXcQ'
@@ -14,56 +14,52 @@ on:
         required: true
         type: choice
         options:
-          - 'best (بالاترین کیفیت ممکن - ممکن است کدک AV1 باشد)'
-          - '2160p (4K)'
-          - '1440p (2K)'
-          - '1080p (Full HD - ترجیحا H.264)'
+          - 'best (بالاترین کیفیت)'
+          - '1080p (Full HD)'
           - '720p (HD)'
           - '480p'
           - '360p'
 
+# اجازه دسترسی به مخزن برای push
+permissions:
+  contents: write
+
 jobs:
-  download-and-upload:
+  download-and-save:
     runs-on: ubuntu-latest
     timeout-minutes: 60
 
     steps:
-      - name: Checkout repository
+      - name: 1️⃣ دریافت کدهای مخزن
         uses: actions/checkout@v4
 
-      - name: Setup yt-dlp with EJS, aria2 and ffmpeg
+      - name: 2️⃣ نصب yt-dlp با قابلیت EJS و aria2 و ffmpeg
         uses: AnimMouse/setup-yt-dlp@v3
         with:
-          ejs-node: true
-          aria2: true
-          ffmpeg: true
+          ejs-node: true   # حل مشکل n-sig یوتیوب
+          aria2: true      # دانلود چندبخشی سریع
+          ffmpeg: true     # ادغام ویدیو و صدا
 
-      - name: Create cookies file from secret (if exists)
+      - name: 3️⃣ ایجاد فایل کوکی (در صورت وجود secret)
         env:
           COOKIES_SECRET: ${{ secrets.YOUTUBE_COOKIES }}
         run: |
           if [ -n "$COOKIES_SECRET" ]; then
             echo "$COOKIES_SECRET" > cookies.txt
-            echo "✅ Cookies file created"
+            echo "✅ کوکی با موفقیت ایجاد شد"
           else
-            echo "⚠️ No cookies secret found. If you get a bot error, add YOUTUBE_COOKIES secret."
+            echo "⚠️ کوکی یافت نشد (در صورت بروز خطا، secret را اضافه کنید)"
           fi
 
-      - name: Set format based on quality
+      - name: 4️⃣ تعیین فرمت بر اساس کیفیت انتخابی
         id: set_format
         run: |
           QUALITY="${{ github.event.inputs.quality }}"
           case "$QUALITY" in
-            "best (بالاترین کیفیت ممکن - ممکن است کدک AV1 باشد)")
+            "best (بالاترین کیفیت)")
               FORMAT="bestvideo+bestaudio/best"
               ;;
-            "2160p (4K)")
-              FORMAT="bestvideo[height<=2160]+bestaudio/best[height<=2160]"
-              ;;
-            "1440p (2K)")
-              FORMAT="bestvideo[height<=1440]+bestaudio/best[height<=1440]"
-              ;;
-            "1080p (Full HD - ترجیحا H.264)")
+            "1080p (Full HD)")
               FORMAT="bestvideo[height<=1080][ext=mp4][vcodec^=avc1]+bestaudio[ext=m4a]/best[height<=1080][ext=mp4]"
               ;;
             "720p (HD)")
@@ -80,42 +76,38 @@ jobs:
               ;;
           esac
           echo "FORMAT=$FORMAT" >> $GITHUB_ENV
-          echo "✅ Format set: $FORMAT"
+          echo "✅ فرمت انتخاب شد: $FORMAT"
 
-      - name: Download video from YouTube
+      - name: 5️⃣ دانلود ویدیو از یوتیوب
         run: |
-          mkdir -p downloads
+          mkdir -p videos
           DOWNLOAD_CMD="yt-dlp -f '${{ env.FORMAT }}' \
             --merge-output-format mp4 \
             --downloader aria2c \
             --downloader-args 'aria2c:-x 16 -s 16 -k 1M' \
-            -o 'downloads/%(title)s.%(ext)s' \
+            -o 'videos/%(title)s.%(ext)s' \
             '${{ github.event.inputs.video_url }}'"
           
           if [ -f cookies.txt ]; then
             DOWNLOAD_CMD="$DOWNLOAD_CMD --cookies cookies.txt"
-            echo "✅ Using cookies"
           fi
           
-          echo "Running: $DOWNLOAD_CMD"
+          echo "در حال اجرا: $DOWNLOAD_CMD"
           eval $DOWNLOAD_CMD
           
-          if [ -z "$(ls -A downloads 2>/dev/null)" ]; then
-            echo "❌ No files downloaded. Try a different quality or add cookies."
+          # بررسی اینکه فایلی دانلود شده است
+          if [ -z "$(ls -A videos 2>/dev/null)" ]; then
+            echo "❌ خطا: هیچ فایلی دانلود نشد. کیفیت دیگری را امتحان کنید یا کوکی اضافه کنید."
             exit 1
           fi
-          echo "✅ Download completed"
+          
+          echo "✅ دانلود با موفقیت انجام شد"
+          echo "VIDEO_FILE=$(ls videos/*.mp4 | head -1)" >> $GITHUB_ENV
 
-      - name: Upload video to GitHub Release
-        uses: softprops/action-gh-release@v1
-        with:
-          tag_name: video-${{ github.run_number }}
-          name: "🎥 Video ${{ github.run_number }}"
-          body: |
-            **Requested URL:** ${{ github.event.inputs.video_url }}
-            **Quality:** ${{ github.event.inputs.quality }}
-            **Time:** $(date -u '+%Y-%m-%d %H:%M:%S UTC')
-          files: downloads/*
-          fail_on_unmatched_files: true
-        env:
-          GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+      - name: 6️⃣ ذخیره ویدیو در مخزن (commit & push)
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add videos/
+          git commit -m "Add video from ${{ github.event.inputs.video_url }}" || echo "هیچ تغییری برای commit وجود ندارد"
+          git push
