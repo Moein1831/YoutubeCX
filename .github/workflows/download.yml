@@ -25,34 +25,30 @@ on:
 jobs:
   download-and-upload:
     runs-on: ubuntu-latest
-    timeout-minutes: 60  # حداکثر زمان اجرا 60 دقیقه
+    timeout-minutes: 60
 
     steps:
-      # مرحله 1: دریافت کدهای مخزن (برای دسترسی به فایل‌های کمکی در آینده)
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      # مرحله 2: نصب yt-dlp با تمام امکانات (Node.js برای حل n-sig، aria2 برای دانلود چندبخشی، ffmpeg)
       - name: Setup yt-dlp with EJS, aria2 and ffmpeg
         uses: AnimMouse/setup-yt-dlp@v3
         with:
-          ejs-node: true      # نصب Node.js برای حل چالش‌های جاوااسکریپت یوتیوب (n-sig)
-          aria2: true         # نصب aria2 برای دانلود سریع‌تر چندبخشی
-          ffmpeg: true        # نصب ffmpeg برای ادغام ویدیو و صدا
+          ejs-node: true
+          aria2: true
+          ffmpeg: true
 
-      # مرحله 3: ایجاد فایل کوکی از Secret (در صورت وجود)
-      - name: Create cookies file from secret
+      - name: Create cookies file from secret (if exists)
         env:
           COOKIES_SECRET: ${{ secrets.YOUTUBE_COOKIES }}
         run: |
           if [ -n "$COOKIES_SECRET" ]; then
             echo "$COOKIES_SECRET" > cookies.txt
-            echo "✅ فایل کوکی با موفقیت ایجاد شد"
+            echo "✅ Cookies file created"
           else
-            echo "⚠️ هیچ کوکی یافت نشد. اگر با خطای ربات مواجه شدید، یک secret به نام YOUTUBE_COOKIES اضافه کنید"
+            echo "⚠️ No cookies secret found. If you get a bot error, add YOUTUBE_COOKIES secret."
           fi
 
-      # مرحله 4: تعیین فرمت بر اساس کیفیت انتخابی کاربر
       - name: Set format based on quality
         id: set_format
         run: |
@@ -68,7 +64,6 @@ jobs:
               FORMAT="bestvideo[height<=1440]+bestaudio/best[height<=1440]"
               ;;
             "1080p (Full HD - ترجیحا H.264)")
-              # فرمت‌های H.264 با وضوح 1080p یا کمتر
               FORMAT="bestvideo[height<=1080][ext=mp4][vcodec^=avc1]+bestaudio[ext=m4a]/best[height<=1080][ext=mp4]"
               ;;
             "720p (HD)")
@@ -85,9 +80,8 @@ jobs:
               ;;
           esac
           echo "FORMAT=$FORMAT" >> $GITHUB_ENV
-          echo "✅ فرمت انتخاب شد: $FORMAT"
+          echo "✅ Format set: $FORMAT"
 
-      # مرحله 5: دانلود ویدیو با yt-dlp (استفاده از aria2 و کوکی در صورت وجود)
       - name: Download video from YouTube
         run: |
           mkdir -p downloads
@@ -98,34 +92,30 @@ jobs:
             -o 'downloads/%(title)s.%(ext)s' \
             '${{ github.event.inputs.video_url }}'"
           
-          # اگر فایل کوکی وجود دارد، به دستور اضافه کن
           if [ -f cookies.txt ]; then
             DOWNLOAD_CMD="$DOWNLOAD_CMD --cookies cookies.txt"
-            echo "✅ استفاده از کوکی فعال شد"
+            echo "✅ Using cookies"
           fi
           
-          echo "در حال اجرا: $DOWNLOAD_CMD"
+          echo "Running: $DOWNLOAD_CMD"
           eval $DOWNLOAD_CMD
           
-          # بررسی اینکه آیا فایلی دانلود شده است
           if [ -z "$(ls -A downloads 2>/dev/null)" ]; then
-            echo "❌ خطا: هیچ فایلی دانلود نشد. لطفا کیفیت دیگری را امتحان کنید یا از کوکی استفاده نمایید."
+            echo "❌ No files downloaded. Try a different quality or add cookies."
             exit 1
           fi
-          echo "✅ دانلود با موفقیت انجام شد"
+          echo "✅ Download completed"
 
-      # مرحله 6: آپلود ویدیو به GitHub Release
       - name: Upload video to GitHub Release
         uses: softprops/action-gh-release@v1
         with:
           tag_name: video-${{ github.run_number }}
-          name: "🎥 ویدیو دانلود شده - شماره ${{ github.run_number }}"
+          name: "🎥 Video ${{ github.run_number }}"
           body: |
-            **لینک درخواستی:** ${{ github.event.inputs.video_url }}
-            **کیفیت انتخاب شده:** ${{ github.event.inputs.quality }}
-            **زمان دانلود:** $(date -u '+%Y-%m-%d %H:%M:%S UTC')
-            **شماره اجرا:** ${{ github.run_number }}
+            **Requested URL:** ${{ github.event.inputs.video_url }}
+            **Quality:** ${{ github.event.inputs.quality }}
+            **Time:** $(date -u '+%Y-%m-%d %H:%M:%S UTC')
           files: downloads/*
-          fail_on_unmatched_files: true  # اگر فایلی نبود، fail کند
+          fail_on_unmatched_files: true
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
