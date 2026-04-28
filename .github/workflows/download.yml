@@ -1,113 +1,137 @@
 # .github/workflows/download.yml
-name: YouTube Downloader (Save to Repo)
+name: YouTube Downloader - Partitioned ZIP (bypass 100MB limit)
 
 on:
   workflow_dispatch:
     inputs:
       video_url:
-        description: '🔗 لینک ویدیو یوتیوب'
+        description: '🔗 YouTube video URL'
         required: true
         type: string
         default: 'https://youtu.be/dQw4w9WgXcQ'
       quality:
-        description: '🎬 کیفیت مورد نظر'
+        description: '🎬 Quality (affects final size)'
         required: true
         type: choice
         options:
-          - 'best (بالاترین کیفیت)'
-          - '1080p (Full HD)'
-          - '720p (HD)'
+          - 'best (original quality, may be large)'
+          - '1080p'
+          - '720p'
           - '480p'
-          - '360p'
 
-# اجازه دسترسی به مخزن برای push
+# Allow push to repository
 permissions:
   contents: write
 
 jobs:
-  download-and-save:
+  download-partition-upload:
     runs-on: ubuntu-latest
-    timeout-minutes: 60
+    timeout-minutes: 90
 
     steps:
-      - name: 1️⃣ دریافت کدهای مخزن
+      - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: 2️⃣ نصب yt-dlp با قابلیت EJS و aria2 و ffmpeg
+      - name: Setup yt-dlp with EJS, aria2, ffmpeg
         uses: AnimMouse/setup-yt-dlp@v3
         with:
-          ejs-node: true   # حل مشکل n-sig یوتیوب
-          aria2: true      # دانلود چندبخشی سریع
-          ffmpeg: true     # ادغام ویدیو و صدا
+          ejs-node: true       # Fix n-sig challenge
+          aria2: true          # Multi‑segment downloader
+          ffmpeg: true         # Merge audio/video
 
-      - name: 3️⃣ ایجاد فایل کوکی (در صورت وجود secret)
+      - name: Create cookies file (if secret exists)
         env:
           COOKIES_SECRET: ${{ secrets.YOUTUBE_COOKIES }}
         run: |
           if [ -n "$COOKIES_SECRET" ]; then
             echo "$COOKIES_SECRET" > cookies.txt
-            echo "✅ کوکی با موفقیت ایجاد شد"
+            echo "✅ cookies.txt created"
           else
-            echo "⚠️ کوکی یافت نشد (در صورت بروز خطا، secret را اضافه کنید)"
+            echo "⚠️ No cookies secret – you may encounter bot errors"
           fi
 
-      - name: 4️⃣ تعیین فرمت بر اساس کیفیت انتخابی
+      - name: Determine yt-dlp format based on chosen quality
         id: set_format
         run: |
           QUALITY="${{ github.event.inputs.quality }}"
           case "$QUALITY" in
-            "best (بالاترین کیفیت)")
+            "best (original quality, may be large)")
               FORMAT="bestvideo+bestaudio/best"
               ;;
-            "1080p (Full HD)")
-              FORMAT="bestvideo[height<=1080][ext=mp4][vcodec^=avc1]+bestaudio[ext=m4a]/best[height<=1080][ext=mp4]"
+            "1080p")
+              FORMAT="bestvideo[height<=1080][ext=mp4][vcodec^=avc1]+bestaudio[ext=m4a]/best[height<=1080]"
               ;;
-            "720p (HD)")
-              FORMAT="bestvideo[height<=720][ext=mp4][vcodec^=avc1]+bestaudio[ext=m4a]/best[height<=720][ext=mp4]"
+            "720p")
+              FORMAT="bestvideo[height<=720][ext=mp4][vcodec^=avc1]+bestaudio[ext=m4a]/best[height<=720]"
               ;;
             "480p")
-              FORMAT="bestvideo[height<=480][ext=mp4][vcodec^=avc1]+bestaudio[ext=m4a]/best[height<=480][ext=mp4]"
-              ;;
-            "360p")
-              FORMAT="bestvideo[height<=360][ext=mp4][vcodec^=avc1]+bestaudio[ext=m4a]/best[height<=360][ext=mp4]"
+              FORMAT="bestvideo[height<=480][ext=mp4][vcodec^=avc1]+bestaudio[ext=m4a]/best[height<=480]"
               ;;
             *)
               FORMAT="bestvideo+bestaudio/best"
               ;;
           esac
           echo "FORMAT=$FORMAT" >> $GITHUB_ENV
-          echo "✅ فرمت انتخاب شد: $FORMAT"
+          echo "✅ Using format: $FORMAT"
 
-      - name: 5️⃣ دانلود ویدیو از یوتیوب
+      - name: Download video from YouTube
         run: |
-          mkdir -p videos
+          mkdir -p original_videos
           DOWNLOAD_CMD="yt-dlp -f '${{ env.FORMAT }}' \
             --merge-output-format mp4 \
             --downloader aria2c \
             --downloader-args 'aria2c:-x 16 -s 16 -k 1M' \
-            -o 'videos/%(title)s.%(ext)s' \
+            -o 'original_videos/%(title)s.%(ext)s' \
             '${{ github.event.inputs.video_url }}'"
+          [ -f cookies.txt ] && DOWNLOAD_CMD="$DOWNLOAD_CMD --cookies cookies.txt"
           
-          if [ -f cookies.txt ]; then
-            DOWNLOAD_CMD="$DOWNLOAD_CMD --cookies cookies.txt"
-          fi
-          
-          echo "در حال اجرا: $DOWNLOAD_CMD"
+          echo "Running: $DOWNLOAD_CMD"
           eval $DOWNLOAD_CMD
           
-          # بررسی اینکه فایلی دانلود شده است
-          if [ -z "$(ls -A videos 2>/dev/null)" ]; then
-            echo "❌ خطا: هیچ فایلی دانلود نشد. کیفیت دیگری را امتحان کنید یا کوکی اضافه کنید."
+          # Get downloaded file path and name
+          VIDEO_FILE=$(ls original_videos/*.mp4 | head -1)
+          if [ -z "$VIDEO_FILE" ]; then
+            echo "❌ No video file downloaded. Aborting."
             exit 1
           fi
-          
-          echo "✅ دانلود با موفقیت انجام شد"
-          echo "VIDEO_FILE=$(ls videos/*.mp4 | head -1)" >> $GITHUB_ENV
+          echo "VIDEO_FILE=$VIDEO_FILE" >> $GITHUB_ENV
+          VIDEO_TITLE=$(basename "$VIDEO_FILE" .mp4)
+          echo "VIDEO_TITLE=$VIDEO_TITLE" >> $GITHUB_ENV
+          echo "✅ Downloaded: $VIDEO_FILE"
 
-      - name: 6️⃣ ذخیره ویدیو در مخزن (commit & push)
+      - name: Split video into 95MB parts using zip
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          # Create a safe folder name (remove/replace problematic characters)
+          SAFE_NAME=$(echo "${{ env.VIDEO_TITLE }}" | sed 's/[^a-zA-Z0-9\u0600-\u06FF\u0750-\u077F\u08A0-\u08FF\uFB50-\uFDFF\uFE70-\uFEFF\-_]//g' | sed 's/ /_/g')
+          # Fallback if name becomes empty
+          if [ -z "$SAFE_NAME" ]; then
+            SAFE_NAME="video_$(date +%s)"
+          fi
+          
+          FINAL_DIR="videos/${SAFE_NAME}"
+          mkdir -p "$FINAL_DIR"
+          
+          # Copy original video to the directory as input.mp4
+          cp "${{ env.VIDEO_FILE }}" "$FINAL_DIR/input.mp4"
+          
+          # Create split zip archive (95MB per part)
+          cd "$FINAL_DIR"
+          zip -s 95m "${SAFE_NAME}.zip" input.mp4
+          
+          # Remove the temporary input.mp4 (only split archives remain)
+          rm input.mp4
+          
+          echo "✅ Partitioned files created in $FINAL_DIR:"
+          ls -lh
+          cd ../..
+          
+          # Save the folder name for commit message
+          echo "FOLDER_NAME=$SAFE_NAME" >> $GITHUB_ENV
+
+      - name: Commit and push partitioned folders to repository
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
           git add videos/
-          git commit -m "Add video from ${{ github.event.inputs.video_url }}" || echo "هیچ تغییری برای commit وجود ندارد"
+          git commit -m "Add partitioned video: ${{ env.FOLDER_NAME }} (original title: ${{ env.VIDEO_TITLE }})" || echo "No changes to commit"
           git push
