@@ -1,54 +1,64 @@
+# .github/workflows/download.yml
 name: YouTube Premium Downloader
 
 on:
   workflow_dispatch:
     inputs:
       video_url:
-        description: '🔗 لینک ویدیو یوتیوب'
+        description: '🔗 لینک ویدیو یوتیوب (مثال: https://youtu.be/... یا https://www.youtube.com/watch?v=...)'
         required: true
-        placeholder: 'https://youtu.be/... یا https://www.youtube.com/watch?v=...'
+        type: string
+        default: 'https://youtu.be/dQw4w9WgXcQ'
       quality:
         description: '🎬 کیفیت مورد نظر'
         required: true
         type: choice
         options:
-          - 'best (بالاترین کیفیت ممکن)'
+          - 'best (بالاترین کیفیت ممکن - ممکن است کدک AV1 باشد)'
           - '2160p (4K)'
           - '1440p (2K)'
-          - '1080p (Full HD)'
+          - '1080p (Full HD - ترجیحا H.264)'
           - '720p (HD)'
           - '480p'
+          - '360p'
 
 jobs:
-  download:
+  download-and-upload:
     runs-on: ubuntu-latest
+    timeout-minutes: 60  # حداکثر زمان اجرا 60 دقیقه
+
     steps:
-      - name: 1️⃣ دریافت کدهای مخزن (برای دسترسی به فایل‌های کمکی)
+      # مرحله 1: دریافت کدهای مخزن (برای دسترسی به فایل‌های کمکی در آینده)
+      - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: 2️⃣ نصب ابزارهای لازم (ffmpeg و yt-dlp)
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y ffmpeg
-          pip install yt-dlp
+      # مرحله 2: نصب yt-dlp با تمام امکانات (Node.js برای حل n-sig، aria2 برای دانلود چندبخشی، ffmpeg)
+      - name: Setup yt-dlp with EJS, aria2 and ffmpeg
+        uses: AnimMouse/setup-yt-dlp@v3
+        with:
+          ejs-node: true      # نصب Node.js برای حل چالش‌های جاوااسکریپت یوتیوب (n-sig)
+          aria2: true         # نصب aria2 برای دانلود سریع‌تر چندبخشی
+          ffmpeg: true        # نصب ffmpeg برای ادغام ویدیو و صدا
 
-      - name: 3️⃣ ساخت فایل کوکی از Secret (در صورت وجود)
+      # مرحله 3: ایجاد فایل کوکی از Secret (در صورت وجود)
+      - name: Create cookies file from secret
         env:
           COOKIES_SECRET: ${{ secrets.YOUTUBE_COOKIES }}
         run: |
           if [ -n "$COOKIES_SECRET" ]; then
             echo "$COOKIES_SECRET" > cookies.txt
-            echo "✅ فایل کوکی ایجاد شد"
+            echo "✅ فایل کوکی با موفقیت ایجاد شد"
           else
-            echo "⚠️ کوکی وجود ندارد، ممکن است برای برخی ویدیوها خطای ربات بدهد"
+            echo "⚠️ هیچ کوکی یافت نشد. اگر با خطای ربات مواجه شدید، یک secret به نام YOUTUBE_COOKIES اضافه کنید"
           fi
 
-      - name: 4️⃣ تعیین فرمت بر اساس کیفیت انتخاب شده
-        id: format
+      # مرحله 4: تعیین فرمت بر اساس کیفیت انتخابی کاربر
+      - name: Set format based on quality
+        id: set_format
         run: |
           QUALITY="${{ github.event.inputs.quality }}"
           case "$QUALITY" in
-            "best (بالاترین کیفیت ممکن)")
+            "best (بالاترین کیفیت ممکن - ممکن است کدک AV1 باشد)")
               FORMAT="bestvideo+bestaudio/best"
               ;;
             "2160p (4K)")
@@ -57,40 +67,65 @@ jobs:
             "1440p (2K)")
               FORMAT="bestvideo[height<=1440]+bestaudio/best[height<=1440]"
               ;;
-            "1080p (Full HD)")
-              FORMAT="bestvideo[height<=1080]+bestaudio/best[height<=1080]"
+            "1080p (Full HD - ترجیحا H.264)")
+              # فرمت‌های H.264 با وضوح 1080p یا کمتر
+              FORMAT="bestvideo[height<=1080][ext=mp4][vcodec^=avc1]+bestaudio[ext=m4a]/best[height<=1080][ext=mp4]"
               ;;
             "720p (HD)")
-              FORMAT="bestvideo[height<=720]+bestaudio/best[height<=720]"
+              FORMAT="bestvideo[height<=720][ext=mp4][vcodec^=avc1]+bestaudio[ext=m4a]/best[height<=720][ext=mp4]"
               ;;
             "480p")
-              FORMAT="bestvideo[height<=480]+bestaudio/best[height<=480]"
+              FORMAT="bestvideo[height<=480][ext=mp4][vcodec^=avc1]+bestaudio[ext=m4a]/best[height<=480][ext=mp4]"
+              ;;
+            "360p")
+              FORMAT="bestvideo[height<=360][ext=mp4][vcodec^=avc1]+bestaudio[ext=m4a]/best[height<=360][ext=mp4]"
               ;;
             *)
               FORMAT="bestvideo+bestaudio/best"
               ;;
           esac
           echo "FORMAT=$FORMAT" >> $GITHUB_ENV
+          echo "✅ فرمت انتخاب شد: $FORMAT"
 
-      - name: 5️⃣ دانلود ویدیو با yt-dlp (روی سرور گیت‌هاب)
+      # مرحله 5: دانلود ویدیو با yt-dlp (استفاده از aria2 و کوکی در صورت وجود)
+      - name: Download video from YouTube
         run: |
           mkdir -p downloads
-          CMD="yt-dlp -f '${{ env.FORMAT }}' --merge-output-format mp4 -o 'downloads/%(title)s.%(ext)s' '${{ github.event.inputs.video_url }}'"
+          DOWNLOAD_CMD="yt-dlp -f '${{ env.FORMAT }}' \
+            --merge-output-format mp4 \
+            --downloader aria2c \
+            --downloader-args 'aria2c:-x 16 -s 16 -k 1M' \
+            -o 'downloads/%(title)s.%(ext)s' \
+            '${{ github.event.inputs.video_url }}'"
+          
+          # اگر فایل کوکی وجود دارد، به دستور اضافه کن
           if [ -f cookies.txt ]; then
-            CMD="$CMD --cookies cookies.txt"
+            DOWNLOAD_CMD="$DOWNLOAD_CMD --cookies cookies.txt"
+            echo "✅ استفاده از کوکی فعال شد"
           fi
-          echo "در حال اجرا: $CMD"
-          eval $CMD
+          
+          echo "در حال اجرا: $DOWNLOAD_CMD"
+          eval $DOWNLOAD_CMD
+          
+          # بررسی اینکه آیا فایلی دانلود شده است
+          if [ -z "$(ls -A downloads 2>/dev/null)" ]; then
+            echo "❌ خطا: هیچ فایلی دانلود نشد. لطفا کیفیت دیگری را امتحان کنید یا از کوکی استفاده نمایید."
+            exit 1
+          fi
+          echo "✅ دانلود با موفقیت انجام شد"
 
-      - name: 6️⃣ ایجاد Release و آپلود ویدیوها
+      # مرحله 6: آپلود ویدیو به GitHub Release
+      - name: Upload video to GitHub Release
         uses: softprops/action-gh-release@v1
         with:
           tag_name: video-${{ github.run_number }}
-          name: "🎥 ویدیو شماره ${{ github.run_number }}"
-          files: downloads/*
+          name: "🎥 ویدیو دانلود شده - شماره ${{ github.run_number }}"
           body: |
-            لینک درخواستی: ${{ github.event.inputs.video_url }}
-            کیفیت: ${{ github.event.inputs.quality }}
-            تاریخ: $(date)
+            **لینک درخواستی:** ${{ github.event.inputs.video_url }}
+            **کیفیت انتخاب شده:** ${{ github.event.inputs.quality }}
+            **زمان دانلود:** $(date -u '+%Y-%m-%d %H:%M:%S UTC')
+            **شماره اجرا:** ${{ github.run_number }}
+          files: downloads/*
+          fail_on_unmatched_files: true  # اگر فایلی نبود، fail کند
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} 
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
