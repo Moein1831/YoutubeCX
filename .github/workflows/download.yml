@@ -1,5 +1,5 @@
 # .github/workflows/download.yml
-name: 🎬 YouTube Downloader - Final Pro Version
+name: 🎬 YouTube Downloader - Professional Edition
 
 on:
   workflow_dispatch:
@@ -10,11 +10,11 @@ on:
         type: string
         default: 'https://youtu.be/dQw4w9WgXcQ'
       quality:
-        description: '🎬 Select quality (subtitles will be embedded)'
+        description: '🎬 Select quality (Persian & English subs will be embedded)'
         required: true
         type: choice
         options:
-          - 'best (original quality, may be large)'
+          - 'best (original quality)'
           - '2160p (4K)'
           - '1440p (2K)'
           - '1080p'
@@ -26,25 +26,22 @@ permissions:
   contents: write
 
 jobs:
-  download-and-embed-subs:
+  download-and-upload:
     runs-on: ubuntu-latest
     timeout-minutes: 90
 
     steps:
-      # مرحله 1: دریافت کدهای مخزن
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      # مرحله 2: نصب ابزارهای مورد نیاز با قابلیت EJS (حل مشکل n-sig یوتیوب)
-      - name: Setup yt-dlp with full features
+      - name: Setup yt-dlp with EJS, aria2, ffmpeg
         uses: AnimMouse/setup-yt-dlp@v3
         with:
-          ejs-node: true      # حل چالش جاوااسکریپت یوتیوب
-          aria2: true         # دانلود چندبخشی برای سرعت بالا
-          ffmpeg: true        # ضروری برای ادغام ویدیو، صدا و زیرنویس
+          ejs-node: true       # حل مشکل n-sig یوتیوب
+          aria2: true          # دانلود چندبخشی سریع
+          ffmpeg: true         # ادغام ویدیو، صدا و زیرنویس
 
-      # مرحله 3: ایجاد فایل کوکی (در صورت وجود Secret)
-      - name: Create cookies file (to avoid bot detection)
+      - name: Create cookies file (if secret YOUTUBE_COOKIES exists)
         env:
           COOKIES_SECRET: ${{ secrets.YOUTUBE_COOKIES }}
         run: |
@@ -52,16 +49,15 @@ jobs:
             echo "$COOKIES_SECRET" > cookies.txt
             echo "✅ Cookies loaded"
           else
-            echo "⚠️ No cookies – may encounter bot error for some videos"
+            echo "⚠️ No cookies – may encounter bot detection for some videos"
           fi
 
-      # مرحله 4: تعیین فرمت بر اساس کیفیت انتخابی (با اولویت H.264 برای سازگاری بیشتر)
-      - name: Determine yt-dlp format
+      - name: Determine yt-dlp format based on quality
         id: set_format
         run: |
           QUALITY="${{ github.event.inputs.quality }}"
           case "$QUALITY" in
-            "best (original quality, may be large)")
+            "best (original quality)")
               FORMAT="bestvideo+bestaudio/best"
               ;;
             "2160p (4K)")
@@ -89,10 +85,18 @@ jobs:
           echo "FORMAT=$FORMAT" >> $GITHUB_ENV
           echo "✅ Format set: $FORMAT"
 
-      # مرحله 5: دانلود ویدیو و جاسازی زیرنویس‌های فارسی و انگلیسی در قالب MKV
-      - name: Download video with Persian & English subtitles (embedded)
+      - name: Download video with embedded Persian & English subtitles (MKV)
+        id: download
         run: |
-          mkdir -p videos
+          # ایجاد نام یکتا با استفاده از timestamp و کیفیت برای جلوگیری از تداخل
+          TIMESTAMP=$(date +%Y%m%d_%H%M%S)
+          SAFE_TITLE=$(yt-dlp --get-filename -o '%(title)s' '${{ github.event.inputs.video_url }}' 2>/dev/null | sed 's/[^a-zA-Z0-9\u0600-\u06FF\-_]/_/g')
+          if [ -z "$SAFE_TITLE" ]; then
+            SAFE_TITLE="video"
+          fi
+          FINAL_NAME="${SAFE_TITLE}_${TIMESTAMP}_${{ github.event.inputs.quality }}"
+          mkdir -p "downloads/${FINAL_NAME}"
+          
           DOWNLOAD_CMD="yt-dlp -f '${{ env.FORMAT }}' \
             --merge-output-format mkv \
             --downloader aria2c \
@@ -105,25 +109,40 @@ jobs:
             --convert-subs srt \
             --embed-thumbnail \
             --add-metadata \
-            -o 'videos/%(title)s.%(ext)s' \
+            -o 'downloads/${FINAL_NAME}/video.mkv' \
             '${{ github.event.inputs.video_url }}'"
           [ -f cookies.txt ] && DOWNLOAD_CMD="$DOWNLOAD_CMD --cookies cookies.txt"
           
-          echo "🚀 Starting download with subtitle embedding..."
+          echo "🚀 Downloading with subtitle embedding..."
           eval $DOWNLOAD_CMD
           
-          # بررسی وجود فایل خروجی
-          if [ -z "$(ls videos/*.mkv 2>/dev/null)" ]; then
-            echo "❌ No MKV file created. Download failed."
+          if [ ! -f "downloads/${FINAL_NAME}/video.mkv" ]; then
+            echo "❌ Download failed – no MKV file created"
             exit 1
           fi
-          echo "✅ Successfully downloaded and embedded subtitles"
+          
+          echo "FINAL_NAME=$FINAL_NAME" >> $GITHUB_ENV
+          echo "✅ Download completed: downloads/${FINAL_NAME}/video.mkv"
 
-      # مرحله 6: commit و push به مخزن (بدون پارتیشن‌بندی برای حفظ سادگی و کیفیت)
-      - name: Commit and push final video
+      - name: Split video if larger than 95MB (using 7z)
+        run: |
+          VIDEO_PATH="downloads/${{ env.FINAL_NAME }}/video.mkv"
+          SIZE=$(stat -c%s "$VIDEO_PATH")
+          if [ $SIZE -gt $((95 * 1024 * 1024)) ]; then
+            echo "📦 Video size exceeds 95MB, splitting into 95MB parts with 7z..."
+            cd "downloads/${{ env.FINAL_NAME }}"
+            7z a -v95m "video.7z" "video.mkv"
+            rm video.mkv
+            cd ../..
+            echo "✅ Split into parts: downloads/${{ env.FINAL_NAME }}/video.7z.001, etc."
+          else
+            echo "📄 Video size is under 95MB, no splitting needed."
+          fi
+
+      - name: Commit and push to repository (only new files)
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add videos/
-          git commit -m "🎥 Add video with embedded Persian & English subs from ${{ github.event.inputs.video_url }}" || echo "No changes to commit"
+          git add "downloads/${{ env.FINAL_NAME }}"
+          git commit -m "🎥 Add video: ${{ env.FINAL_NAME }} from ${{ github.event.inputs.video_url }}" || echo "No new files to commit"
           git push
