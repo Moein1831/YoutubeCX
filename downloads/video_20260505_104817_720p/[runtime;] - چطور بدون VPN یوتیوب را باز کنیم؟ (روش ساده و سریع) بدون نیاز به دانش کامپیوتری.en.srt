@@ -1,0 +1,393 @@
+1
+00:00:15,960 --> 00:00:21,439
+Hello guys, good morning, I hope you are doing
+
+2
+00:00:18,359 --> 00:00:23,960
+well. In this video, I want to
+
+3
+00:00:21,439 --> 00:00:26,679
+teach you how to bypass the national network
+
+4
+00:00:23,960 --> 00:00:29,800
+and easily go to YouTube and
+
+5
+00:00:26,679 --> 00:00:32,399
+watch its videos. For this, we
+
+6
+00:00:29,800 --> 00:00:35,200
+need two files, the links to which I have included in the caption
+
+7
+00:00:32,399 --> 00:00:39,399
+.  If for any reason you couldn't download it, it
+
+8
+00:00:35,200 --> 00:00:42,559
+'s on our Telegram channel.
+
+9
+00:00:39,399 --> 00:00:45,120
+First of all, these files are zipped and we need to
+
+10
+00:00:42,559 --> 00:00:50,520
+unzip them.  Right-
+
+11
+00:00:45,120 --> 00:00:50,520
+click and select the Extract A option.
+
+12
+00:00:59,399 --> 00:01:06,400
+This is the same and this part is the
+
+13
+00:01:03,359 --> 00:01:09,920
+address that is the file itself and next to
+
+14
+00:01:06,400 --> 00:01:12,799
+your file this is the zipped file this is
+
+15
+00:01:09,920 --> 00:01:15,799
+actually where this file is that
+
+16
+00:01:12,799 --> 00:01:15,799
+came from
+
+17
+00:01:17,560 --> 00:01:23,680
+so these are the files that were extracted
+
+18
+00:01:21,360 --> 00:01:26,960
+actually from the zipped file
+
+19
+00:01:23,680 --> 00:01:31,240
+we have a file inside this file
+
+20
+00:01:26,960 --> 00:01:35,280
+in the xconfig folder
+
+21
+00:01:31,240 --> 00:01:38,399
+that we need to copy this to
+
+22
+00:01:35,280 --> 00:01:43,040
+create the certificate we copy this with control
+
+23
+00:01:38,399 --> 00:01:47,640
+c or we can also copy from this part
+
+24
+00:01:43,040 --> 00:01:50,640
+and paste it into the vita file
+
+25
+00:01:47,640 --> 00:01:50,640
+ 
+
+26
+00:01:51,200 --> 00:01:59,039
+with control v and sometimes you can
+
+27
+00:01:55,399 --> 00:02:01,759
+click this option
+
+28
+00:01:59,039 --> 00:02:04,719
+this option click ram it will be pasted it will be pasted with control v
+
+29
+00:02:01,759 --> 00:02:06,320
+
+30
+00:02:04,719 --> 00:02:09,720
+then what does the
+
+31
+00:02:06,320 --> 00:02:12,840
+certificate generator do it it will create
+
+32
+00:02:09,720 --> 00:02:15,920
+a personal certificate for you and be sure to be
+
+33
+00:02:12,840 --> 00:02:18,360
+careful and pay attention to this point
+
+34
+00:02:15,920 --> 00:02:21,000
+that you should not take someone else's certificate
+
+35
+00:02:18,360 --> 00:02:23,480
+or give your certificate to
+
+36
+00:02:21,000 --> 00:02:23,480
+someone else
+
+37
+00:02:23,680 --> 00:02:28,840
+twice when you click on it this will run press
+
+38
+00:02:25,879 --> 00:02:32,440
+any button on your keyboard
+
+39
+00:02:28,840 --> 00:02:35,680
+you want to press and this will come
+
+40
+00:02:32,440 --> 00:02:38,879
+out and d files i.e. d certificates will be
+
+41
+00:02:35,680 --> 00:02:44,040
+created for you these d  Now
+
+42
+00:02:38,879 --> 00:02:48,480
+automatically when I run the certificate generator,
+
+43
+00:02:44,040 --> 00:02:53,239
+this two files were automatically
+
+44
+00:02:48,480 --> 00:02:57,000
+added to this folder and you double-
+
+45
+00:02:53,239 --> 00:03:00,239
+click on the MySert file, you run it
+
+46
+00:02:57,000 --> 00:03:01,920
+and click on the Install Local Certificate Next button.
+
+47
+00:03:00,239 --> 00:03:04,239
+ 
+
+48
+00:03:01,920 --> 00:03:06,760
+ 
+
+49
+00:03:04,239 --> 00:03:10,720
+Then you select this section.
+
+50
+00:03:06,760 --> 00:03:13,239
+This section, when you select it, will
+
+51
+00:03:10,720 --> 00:03:15,879
+be activated for you. When
+
+52
+00:03:13,239 --> 00:03:19,920
+you click on the browser, it will show you a few options
+
+53
+00:03:15,879 --> 00:03:19,920
+that you have to click on the second option.
+
+54
+00:03:20,080 --> 00:03:27,879
+Click Next. Finish. And
+
+55
+00:03:25,159 --> 00:03:31,000
+when this message says full success, it means that it
+
+56
+00:03:27,879 --> 00:03:34,360
+was successful and you have done very well so far.
+
+57
+00:03:31,000 --> 00:03:38,080
+
+58
+00:03:34,360 --> 00:03:43,760
+Then it will come in. Now I'm behind, maybe you're
+
+59
+00:03:38,080 --> 00:03:47,799
+confused. Inside this same .exe file, you
+
+60
+00:03:43,760 --> 00:03:50,400
+run this .exe file.
+
+61
+00:03:47,799 --> 00:03:54,879
+ 
+
+62
+00:03:50,400 --> 00:03:54,879
+Double-click on it and it will run.
+
+63
+00:04:02,720 --> 00:04:10,200
+When it opens, you
+
+64
+00:04:06,840 --> 00:04:13,640
+
+65
+00:04:10,200 --> 00:04:16,479
+can write a name for it,
+
+66
+00:04:13,640 --> 00:04:21,239
+anything you want. Then
+
+67
+00:04:16,479 --> 00:04:23,919
+you select the address for the address and let me
+
+68
+00:04:21,239 --> 00:04:27,479
+tell you where to go. The same file that I
+
+69
+00:04:23,919 --> 00:04:32,560
+told you is config. And this is it.  We
+
+70
+00:04:27,479 --> 00:04:37,199
+unzipped it and inside the X-ray
+
+71
+00:04:32,560 --> 00:04:40,000
+config there is something with the extension json.
+
+72
+00:04:37,199 --> 00:04:43,080
+You select this and click open. When
+
+73
+00:04:40,000 --> 00:04:46,400
+you click open, this is what it will
+
+74
+00:04:43,080 --> 00:04:47,360
+enter and you will type the code on the X-
+
+75
+00:04:46,400 --> 00:04:53,000
+ray. You will
+
+76
+00:04:47,360 --> 00:04:53,000
+read this part and config.
+
+77
+00:04:53,240 --> 00:05:00,840
+When you click this, a config will
+
+78
+00:04:55,800 --> 00:05:03,280
+be added for you here so that you can turn on your filter breaker
+
+79
+00:05:00,840 --> 00:05:04,960
+or leave it on this config.
+
+80
+00:05:03,280 --> 00:05:07,039
+ 
+
+81
+00:05:04,960 --> 00:05:09,840
+You will set this to select mode. When
+
+82
+00:05:07,039 --> 00:05:12,960
+you set this to select mode, it will turn completely blue.
+
+83
+00:05:09,840 --> 00:05:15,320
+Then you right-click and click Set from Active.
+
+84
+00:05:12,960 --> 00:05:15,320
+ 
+
+85
+00:05:20,680 --> 00:05:24,400
+Then
+
+86
+00:05:27,120 --> 00:05:33,199
+after you click Set from Active, you will come to this
+
+87
+00:05:30,120 --> 00:05:37,080
+section. Click here. You will
+
+88
+00:05:33,199 --> 00:05:40,960
+see the Vtory file here.
+
+89
+00:05:37,080 --> 00:05:44,600
+Right-click. A few options will come to you. You
+
+90
+00:05:40,960 --> 00:05:48,160
+have to select the proxy system.
+
+91
+00:05:44,600 --> 00:05:52,600
+When you select this,
+
+92
+00:05:48,160 --> 00:05:56,600
+your configuration is now working. When this
+
+93
+00:05:52,600 --> 00:05:56,600
+turns red, it means that your
+
+94
+00:05:56,880 --> 00:06:05,759
+filter breaker is active and is now patched. For example,
+
+95
+00:06:01,800 --> 00:06:05,759
+let's go to YouTube and see if it opens or
+
+96
+00:06:34,599 --> 00:06:43,800
+you can safely watch
+
+97
+00:06:39,280 --> 00:06:48,160
+YouTube videos now and
+
+98
+00:06:43,800 --> 00:06:48,160
+the speed is very good.
+
+99
+00:06:48,880 --> 00:06:52,479
+Good luck.  God-fearing
+
