@@ -1,0 +1,2312 @@
+1
+00:00:00,040 --> 00:00:03,800
+there are two different price action
+
+2
+00:00:01,800 --> 00:00:05,960
+trading Concepts that when combined
+
+3
+00:00:03,800 --> 00:00:07,839
+create one of my personal favorite entry
+
+4
+00:00:05,960 --> 00:00:09,840
+models and these Concepts actually build
+
+5
+00:00:07,839 --> 00:00:12,440
+up the backbone of the majority of my
+
+6
+00:00:09,840 --> 00:00:14,320
+trading strategy they are liquidity and
+
+7
+00:00:12,440 --> 00:00:16,279
+Market structure in this class I want to
+
+8
+00:00:14,320 --> 00:00:17,880
+give you a deep understanding of both
+
+9
+00:00:16,279 --> 00:00:19,439
+and share with you an entry model and a
+
+10
+00:00:17,880 --> 00:00:21,600
+trading system that you can start to
+
+11
+00:00:19,439 --> 00:00:23,439
+apply to make some good trades and make
+
+12
+00:00:21,600 --> 00:00:24,880
+some profits so with that said and done
+
+13
+00:00:23,439 --> 00:00:26,760
+let's get into the learning Market
+
+14
+00:00:24,880 --> 00:00:30,000
+Structure Theory suggests that markets
+
+15
+00:00:26,760 --> 00:00:32,239
+move in three phases we have uptrends we
+
+16
+00:00:30,000 --> 00:00:34,760
+we have downtrends and we have
+
+17
+00:00:32,239 --> 00:00:36,680
+consolidation now an uptrend is simply a
+
+18
+00:00:34,760 --> 00:00:38,440
+phase where a market is continually
+
+19
+00:00:36,680 --> 00:00:40,800
+moving to the upside and through an
+
+20
+00:00:38,440 --> 00:00:42,280
+uptrend we only want to buy a market a
+
+21
+00:00:40,800 --> 00:00:44,160
+downtrend is the opposite where a market
+
+22
+00:00:42,280 --> 00:00:45,840
+is continually moving to the downside
+
+23
+00:00:44,160 --> 00:00:48,160
+and through these markets we only want
+
+24
+00:00:45,840 --> 00:00:49,840
+to sell now a consolidation is generally
+
+25
+00:00:48,160 --> 00:00:51,559
+where we just move sideways there's no
+
+26
+00:00:49,840 --> 00:00:53,480
+real trading opportunities most of the
+
+27
+00:00:51,559 --> 00:00:55,399
+time inside of consolidation ranges so
+
+28
+00:00:53,480 --> 00:00:57,399
+we pretty much want to eliminate this
+
+29
+00:00:55,399 --> 00:00:59,600
+and just focus on uptrends and
+
+30
+00:00:57,399 --> 00:01:02,359
+downtrends to determine whether a market
+
+31
+00:00:59,600 --> 00:01:04,199
+is in an uptrend or a downtrend we want
+
+32
+00:01:02,359 --> 00:01:06,840
+to look at the highs and the lows in
+
+33
+00:01:04,199 --> 00:01:10,200
+price so we can see in the uptrend we
+
+34
+00:01:06,840 --> 00:01:12,320
+form higher highs and higher lows a
+
+35
+00:01:10,200 --> 00:01:14,560
+market that is forming new highs and
+
+36
+00:01:12,320 --> 00:01:16,479
+lows higher than the previous highs and
+
+37
+00:01:14,560 --> 00:01:18,600
+lows is an uptrend okay we can see the
+
+38
+00:01:16,479 --> 00:01:20,040
+Market's clearly moving up but we Define
+
+39
+00:01:18,600 --> 00:01:22,880
+that by the fact that the market is
+
+40
+00:01:20,040 --> 00:01:25,960
+continuing to push past these previous
+
+41
+00:01:22,880 --> 00:01:28,320
+highs right so this here is what we call
+
+42
+00:01:25,960 --> 00:01:30,880
+a break of structure it's this push
+
+43
+00:01:28,320 --> 00:01:33,119
+upwards past the higher high high this
+
+44
+00:01:30,880 --> 00:01:35,000
+as well is a break of structure and the
+
+45
+00:01:33,119 --> 00:01:37,600
+actual break of structure we talk about
+
+46
+00:01:35,000 --> 00:01:39,040
+is taking place at these points because
+
+47
+00:01:37,600 --> 00:01:41,000
+we get these breaks in structure that
+
+48
+00:01:39,040 --> 00:01:43,280
+continue pushing the market higher this
+
+49
+00:01:41,000 --> 00:01:44,880
+is indeed an uptrend a downtrend is
+
+50
+00:01:43,280 --> 00:01:46,920
+pretty much the same but flipped upside
+
+51
+00:01:44,880 --> 00:01:49,719
+down so in a downtrend we are forming
+
+52
+00:01:46,920 --> 00:01:52,119
+lower lows and lower highs and what that
+
+53
+00:01:49,719 --> 00:01:54,040
+simply means is every low and every high
+
+54
+00:01:52,119 --> 00:01:56,240
+that forms in the market is lower than
+
+55
+00:01:54,040 --> 00:01:58,399
+the previous once again we indicate the
+
+56
+00:01:56,240 --> 00:02:00,240
+continuation of a downtrend with these
+
+57
+00:01:58,399 --> 00:02:03,320
+breaks of structure which is when the
+
+58
+00:02:00,240 --> 00:02:04,799
+market pushes past a previous low the
+
+59
+00:02:03,320 --> 00:02:07,200
+next thing you need to know is that a
+
+60
+00:02:04,799 --> 00:02:10,119
+trending movement is made up of two main
+
+61
+00:02:07,200 --> 00:02:12,560
+parts we have impulsive movements and we
+
+62
+00:02:10,119 --> 00:02:15,000
+have corrective movements so impulses
+
+63
+00:02:12,560 --> 00:02:16,720
+and Corrections now an Impulse is a prot
+
+64
+00:02:15,000 --> 00:02:19,640
+trend movement it's the movement that
+
+65
+00:02:16,720 --> 00:02:21,680
+breaks the structure so in an uptrend
+
+66
+00:02:19,640 --> 00:02:24,120
+after we form a higher high a corrective
+
+67
+00:02:21,680 --> 00:02:26,040
+move will pull down to form a higher low
+
+68
+00:02:24,120 --> 00:02:28,360
+and then the impulsive move is defined
+
+69
+00:02:26,040 --> 00:02:30,440
+by the movement that breaks through the
+
+70
+00:02:28,360 --> 00:02:32,480
+previous higher high forming a new
+
+71
+00:02:30,440 --> 00:02:34,160
+higher high so those are the impulsive
+
+72
+00:02:32,480 --> 00:02:36,239
+moves the prot trend larger movements
+
+73
+00:02:34,160 --> 00:02:37,879
+that break structure corrective moves
+
+74
+00:02:36,239 --> 00:02:40,159
+are just pullbacks that don't really
+
+75
+00:02:37,879 --> 00:02:42,319
+break any significant structure but they
+
+76
+00:02:40,159 --> 00:02:44,280
+allow the formation of new higher lows
+
+77
+00:02:42,319 --> 00:02:46,400
+to keep us understanding which way the
+
+78
+00:02:44,280 --> 00:02:48,480
+market is going now eventually Trends
+
+79
+00:02:46,400 --> 00:02:50,280
+come to an end we can Define when
+
+80
+00:02:48,480 --> 00:02:52,959
+they're coming to an end by looking at
+
+81
+00:02:50,280 --> 00:02:54,840
+the higher lows so here we have this
+
+82
+00:02:52,959 --> 00:02:56,800
+impulsive bullish Trend we have an
+
+83
+00:02:54,840 --> 00:02:59,519
+uptrend in this market we only want to
+
+84
+00:02:56,800 --> 00:03:02,159
+buy but what happens if the market comes
+
+85
+00:02:59,519 --> 00:03:04,360
+down and breaks through this low like
+
+86
+00:03:02,159 --> 00:03:07,280
+this well now we would get a new
+
+87
+00:03:04,360 --> 00:03:10,040
+impulsive move this movement here but
+
+88
+00:03:07,280 --> 00:03:11,560
+this would be a bearish impulse the
+
+89
+00:03:10,040 --> 00:03:13,200
+reason we know this is an Impulse is
+
+90
+00:03:11,560 --> 00:03:15,640
+because it's broken through the previous
+
+91
+00:03:13,200 --> 00:03:17,440
+higher low which breaks this higher high
+
+92
+00:03:15,640 --> 00:03:19,879
+higher low formation and breaks the
+
+93
+00:03:17,440 --> 00:03:21,760
+uptrend so from this point onwards we
+
+94
+00:03:19,879 --> 00:03:24,599
+would instead now be expecting the
+
+95
+00:03:21,760 --> 00:03:27,239
+market to make a lower high and then a
+
+96
+00:03:24,599 --> 00:03:29,480
+new lower low and then new lower highs
+
+97
+00:03:27,239 --> 00:03:31,360
+and lower lows to continue this Market
+
+98
+00:03:29,480 --> 00:03:34,080
+in downtrending fashion where we
+
+99
+00:03:31,360 --> 00:03:36,720
+basically shift from this bullish Trend
+
+100
+00:03:34,080 --> 00:03:38,879
+into a bearish one so here is a view of
+
+101
+00:03:36,720 --> 00:03:40,680
+that full piece of trending structure we
+
+102
+00:03:38,879 --> 00:03:42,280
+have bullish impulses and Corrections
+
+103
+00:03:40,680 --> 00:03:44,760
+where the market is continually breaking
+
+104
+00:03:42,280 --> 00:03:47,120
+through new higher highs and making new
+
+105
+00:03:44,760 --> 00:03:48,840
+structural higher highs and lows then we
+
+106
+00:03:47,120 --> 00:03:50,879
+have that break which is a bearish
+
+107
+00:03:48,840 --> 00:03:52,519
+impulse that pushes past the higher low
+
+108
+00:03:50,879 --> 00:03:54,480
+forming a lower low then we get a
+
+109
+00:03:52,519 --> 00:03:56,239
+pullback corrective move forming a lower
+
+110
+00:03:54,480 --> 00:03:58,319
+high then we break more structure into
+
+111
+00:03:56,239 --> 00:04:00,079
+new lower lows and lower highs and so on
+
+112
+00:03:58,319 --> 00:04:01,680
+so that is how a trend works and it
+
+113
+00:04:00,079 --> 00:04:03,040
+pretty much runs like this all of the
+
+114
+00:04:01,680 --> 00:04:04,519
+time the majority of the time in the
+
+115
+00:04:03,040 --> 00:04:06,360
+market the Market's going to be trending
+
+116
+00:04:04,519 --> 00:04:07,920
+one way or the other except for of
+
+117
+00:04:06,360 --> 00:04:09,480
+course those consolidation moves that we
+
+118
+00:04:07,920 --> 00:04:12,159
+said we don't want to trade now let's
+
+119
+00:04:09,480 --> 00:04:15,079
+talk about liquidity liquidity refers to
+
+120
+00:04:12,159 --> 00:04:17,359
+orders or money now markets move due to
+
+121
+00:04:15,079 --> 00:04:19,320
+orders and money and transactions taking
+
+122
+00:04:17,359 --> 00:04:21,000
+place and passing hands in the market
+
+123
+00:04:19,320 --> 00:04:22,720
+now to understand liquidity we just want
+
+124
+00:04:21,000 --> 00:04:24,560
+to think about where people are
+
+125
+00:04:22,720 --> 00:04:26,360
+generally buying and selling from so if
+
+126
+00:04:24,560 --> 00:04:29,400
+we know in this trending movement here
+
+127
+00:04:26,360 --> 00:04:31,400
+we have a low a swing low and we have a
+
+128
+00:04:29,400 --> 00:04:32,880
+s swing high and these have formed in
+
+129
+00:04:31,400 --> 00:04:35,840
+the market already we know there's going
+
+130
+00:04:32,880 --> 00:04:37,280
+to be some level of buyers down here we
+
+131
+00:04:35,840 --> 00:04:39,759
+know there's going to be some level of
+
+132
+00:04:37,280 --> 00:04:41,639
+sellers at the high okay people trade
+
+133
+00:04:39,759 --> 00:04:43,400
+different strategies generally once the
+
+134
+00:04:41,639 --> 00:04:45,199
+markets make highs and lows whether it's
+
+135
+00:04:43,400 --> 00:04:47,320
+based on supply and demand support and
+
+136
+00:04:45,199 --> 00:04:49,479
+resistance or any other concept people
+
+137
+00:04:47,320 --> 00:04:51,840
+will be buying above lows selling above
+
+138
+00:04:49,479 --> 00:04:54,120
+highs now these Traders generally follow
+
+139
+00:04:51,840 --> 00:04:57,199
+simple advice the majority of them do
+
+140
+00:04:54,120 --> 00:04:59,000
+any Trader who buys at a swing low or
+
+141
+00:04:57,199 --> 00:05:01,000
+just after a swing low is formed will
+
+142
+00:04:59,000 --> 00:05:02,960
+generally have stop- losses underneath
+
+143
+00:05:01,000 --> 00:05:04,919
+the low anyone who sells will generally
+
+144
+00:05:02,960 --> 00:05:07,000
+have stop losses just above the high
+
+145
+00:05:04,919 --> 00:05:08,639
+it's rare that you buy somewhere in a
+
+146
+00:05:07,000 --> 00:05:10,000
+trend and then just put your stop loss
+
+147
+00:05:08,639 --> 00:05:11,600
+in that trending movement as well
+
+148
+00:05:10,000 --> 00:05:14,280
+generally you want to clear highs and
+
+149
+00:05:11,600 --> 00:05:16,479
+lows it's common education yes it works
+
+150
+00:05:14,280 --> 00:05:18,160
+but it also creates a lot of liquidity
+
+151
+00:05:16,479 --> 00:05:20,840
+so these areas that we've just marked
+
+152
+00:05:18,160 --> 00:05:23,080
+become liquidity okay there's liquidity
+
+153
+00:05:20,840 --> 00:05:24,560
+here there's liquidity here now why is
+
+154
+00:05:23,080 --> 00:05:26,680
+that well that is because there's a
+
+155
+00:05:24,560 --> 00:05:29,039
+significant number of orders at either
+
+156
+00:05:26,680 --> 00:05:30,919
+of these levels and markets react to
+
+157
+00:05:29,039 --> 00:05:32,479
+orders the reason markets move is
+
+158
+00:05:30,919 --> 00:05:34,360
+because of injections of buying orders
+
+159
+00:05:32,479 --> 00:05:35,840
+and selling orders now if we know that
+
+160
+00:05:34,360 --> 00:05:37,479
+multiple Buys have been taking place
+
+161
+00:05:35,840 --> 00:05:39,000
+here potentially thousands by different
+
+162
+00:05:37,479 --> 00:05:40,800
+Traders well now we know there's a
+
+163
+00:05:39,000 --> 00:05:42,880
+collection of thousands of different
+
+164
+00:05:40,800 --> 00:05:45,280
+orders waiting here in the form of stop
+
+165
+00:05:42,880 --> 00:05:47,360
+losses as well as this we have breakout
+
+166
+00:05:45,280 --> 00:05:48,680
+traders who would have sell stop orders
+
+167
+00:05:47,360 --> 00:05:50,039
+here thinking if the market comes and
+
+168
+00:05:48,680 --> 00:05:52,000
+breaks through this low I want to be
+
+169
+00:05:50,039 --> 00:05:54,600
+triggered into a sell to take the market
+
+170
+00:05:52,000 --> 00:05:56,919
+lower so we have stop losses and we have
+
+171
+00:05:54,600 --> 00:05:58,880
+sell stop orders under here in the
+
+172
+00:05:56,919 --> 00:06:01,280
+thousands which creates liquidity we
+
+173
+00:05:58,880 --> 00:06:03,080
+have the same up here at the top but we
+
+174
+00:06:01,280 --> 00:06:04,639
+have stop losses for Sellers and then we
+
+175
+00:06:03,080 --> 00:06:06,560
+have buy stops as well so there's a
+
+176
+00:06:04,639 --> 00:06:08,639
+whole lot of orders transactions
+
+177
+00:06:06,560 --> 00:06:10,160
+awaiting at the highs and the lows now
+
+178
+00:06:08,639 --> 00:06:12,000
+because we know that markets react to
+
+179
+00:06:10,160 --> 00:06:14,080
+orders where is the market most likely
+
+180
+00:06:12,000 --> 00:06:16,880
+to react now somewhere randomly in the
+
+181
+00:06:14,080 --> 00:06:18,560
+middle of this area well probably not
+
+182
+00:06:16,880 --> 00:06:20,560
+it's more likely to see significant
+
+183
+00:06:18,560 --> 00:06:22,080
+reactions once highs or lows have been
+
+184
+00:06:20,560 --> 00:06:23,840
+taken because that is where the orders
+
+185
+00:06:22,080 --> 00:06:26,400
+are going to be that could potentially
+
+186
+00:06:23,840 --> 00:06:28,800
+Drive the new movements in the market so
+
+187
+00:06:26,400 --> 00:06:31,280
+we may hit the swing high and then see a
+
+188
+00:06:28,800 --> 00:06:33,800
+significant sell lower hit the swing low
+
+189
+00:06:31,280 --> 00:06:35,639
+see a significant move higher that is
+
+190
+00:06:33,800 --> 00:06:37,639
+the kind of premise of liquidity forming
+
+191
+00:06:35,639 --> 00:06:39,720
+above swing highs and swing lows it's
+
+192
+00:06:37,639 --> 00:06:41,440
+simply the market reacting to areas
+
+193
+00:06:39,720 --> 00:06:44,080
+where the majority of the orders are
+
+194
+00:06:41,440 --> 00:06:45,960
+situated okay now as we discussed there
+
+195
+00:06:44,080 --> 00:06:47,720
+are ways to understand where this is
+
+196
+00:06:45,960 --> 00:06:49,360
+likely to take place so looking over
+
+197
+00:06:47,720 --> 00:06:52,280
+here now we have a market that's formed
+
+198
+00:06:49,360 --> 00:06:54,360
+a bearish impulse then we have two highs
+
+199
+00:06:52,280 --> 00:06:56,800
+which are level with one another and we
+
+200
+00:06:54,360 --> 00:06:58,720
+have two almost three lows which are
+
+201
+00:06:56,800 --> 00:07:01,199
+level with one another now from a
+
+202
+00:06:58,720 --> 00:07:03,520
+support and resistance approach which
+
+203
+00:07:01,199 --> 00:07:05,479
+the majority of Traders or beginners are
+
+204
+00:07:03,520 --> 00:07:07,919
+actually looking at we have a support
+
+205
+00:07:05,479 --> 00:07:10,240
+and a resistance okay what are Traders
+
+206
+00:07:07,919 --> 00:07:12,199
+looking to do at support and resistance
+
+207
+00:07:10,240 --> 00:07:14,440
+well generally what we've just discussed
+
+208
+00:07:12,199 --> 00:07:16,639
+right Traders want to buy Above support
+
+209
+00:07:14,440 --> 00:07:18,000
+so there will be buy orders placed here
+
+210
+00:07:16,639 --> 00:07:20,000
+hoping the market moves higher and
+
+211
+00:07:18,000 --> 00:07:22,479
+Traders want to sell below resistance so
+
+212
+00:07:20,000 --> 00:07:24,360
+we know from this there are going to be
+
+213
+00:07:22,479 --> 00:07:27,440
+stop losses down here there are going to
+
+214
+00:07:24,360 --> 00:07:29,160
+be stop losses up here and we also get
+
+215
+00:07:27,440 --> 00:07:31,680
+those sell stops and buy stops as we
+
+216
+00:07:29,160 --> 00:07:33,720
+discussed okay so up here we have stop
+
+217
+00:07:31,680 --> 00:07:35,440
+losses from buyers but we also have buy
+
+218
+00:07:33,720 --> 00:07:37,919
+stops from breakout traders who are
+
+219
+00:07:35,440 --> 00:07:39,520
+looking for a new high to form down here
+
+220
+00:07:37,919 --> 00:07:41,000
+we have the stop losses and the sell
+
+221
+00:07:39,520 --> 00:07:42,720
+stops from Traders looking for the
+
+222
+00:07:41,000 --> 00:07:44,800
+opposite we have these stop- losses for
+
+223
+00:07:42,720 --> 00:07:46,199
+buyers but we also have sell stops for
+
+224
+00:07:44,800 --> 00:07:48,199
+breakout traders who are expecting to
+
+225
+00:07:46,199 --> 00:07:49,919
+see a kind of break retest scenario in
+
+226
+00:07:48,199 --> 00:07:52,120
+the market and remember these are very
+
+227
+00:07:49,919 --> 00:07:53,840
+very common Concepts to trade sometimes
+
+228
+00:07:52,120 --> 00:07:55,479
+you get stuck in the bubble of kind of
+
+229
+00:07:53,840 --> 00:07:57,960
+price action Concepts on YouTube but
+
+230
+00:07:55,479 --> 00:07:59,080
+you'd be underestimating how many people
+
+231
+00:07:57,960 --> 00:08:01,039
+around the world are trading with
+
+232
+00:07:59,080 --> 00:08:03,280
+support resistance and these basic
+
+233
+00:08:01,039 --> 00:08:05,319
+similar Concepts where is the liquidity
+
+234
+00:08:03,280 --> 00:08:07,800
+then is it sitting in the middle of this
+
+235
+00:08:05,319 --> 00:08:10,720
+slow moving range no it's at the highs
+
+236
+00:08:07,800 --> 00:08:12,800
+and the lows it's above here it's below
+
+237
+00:08:10,720 --> 00:08:14,479
+here this is where the liquidity is this
+
+238
+00:08:12,800 --> 00:08:16,639
+is where those major reactions are
+
+239
+00:08:14,479 --> 00:08:18,960
+likely to take place so what we would be
+
+240
+00:08:16,639 --> 00:08:20,560
+looking for as Traders is for the low to
+
+241
+00:08:18,960 --> 00:08:22,759
+go and then to look for some opportunity
+
+242
+00:08:20,560 --> 00:08:25,039
+to trade higher or for the market to
+
+243
+00:08:22,759 --> 00:08:26,560
+trade Above This high and then this is
+
+244
+00:08:25,039 --> 00:08:28,479
+where we would look for opportunities to
+
+245
+00:08:26,560 --> 00:08:30,520
+trade lower so when we understand the
+
+246
+00:08:28,479 --> 00:08:32,839
+liquidity here what we actually do is
+
+247
+00:08:30,520 --> 00:08:35,039
+get two beneficial things we get
+
+248
+00:08:32,839 --> 00:08:36,680
+potential targets at these highs and
+
+249
+00:08:35,039 --> 00:08:38,680
+lows because if we know that the market
+
+250
+00:08:36,680 --> 00:08:40,440
+is likely to attack these highs and lows
+
+251
+00:08:38,680 --> 00:08:42,719
+well then we can find opportunity to
+
+252
+00:08:40,440 --> 00:08:45,279
+trade towards those levels for example
+
+253
+00:08:42,719 --> 00:08:47,440
+if the market swept this low well now if
+
+254
+00:08:45,279 --> 00:08:48,720
+we saw a reaction a reversal in the
+
+255
+00:08:47,440 --> 00:08:50,600
+price we could look for a long
+
+256
+00:08:48,720 --> 00:08:52,080
+opportunity back up towards this High
+
+257
+00:08:50,600 --> 00:08:53,800
+because we know it's likely the Market's
+
+258
+00:08:52,080 --> 00:08:55,560
+going to come and attack this liquidity
+
+259
+00:08:53,800 --> 00:08:57,040
+as well and if the structure then agrees
+
+260
+00:08:55,560 --> 00:08:58,440
+with us the structure being what we've
+
+261
+00:08:57,040 --> 00:09:00,600
+just discussed and don't worry we'll
+
+262
+00:08:58,440 --> 00:09:02,920
+elaborate on this more then we have good
+
+263
+00:09:00,600 --> 00:09:05,000
+means for getting into a position and
+
+264
+00:09:02,920 --> 00:09:06,600
+tackling the other points of liquidity
+
+265
+00:09:05,000 --> 00:09:08,320
+now as you can imagine the other thing
+
+266
+00:09:06,600 --> 00:09:10,000
+it's good for is entries as I've just
+
+267
+00:09:08,320 --> 00:09:11,839
+highlighted if the market was to come
+
+268
+00:09:10,000 --> 00:09:14,519
+all the way up here and we know there's
+
+269
+00:09:11,839 --> 00:09:17,120
+more liquidity down here we can use this
+
+270
+00:09:14,519 --> 00:09:19,680
+area now that it's been swept to find an
+
+271
+00:09:17,120 --> 00:09:22,200
+opportunity to sell down so we would
+
+272
+00:09:19,680 --> 00:09:24,279
+actually look for that structural change
+
+273
+00:09:22,200 --> 00:09:25,839
+so just like this a market that's
+
+274
+00:09:24,279 --> 00:09:28,120
+changing from higher highs and higher
+
+275
+00:09:25,839 --> 00:09:29,720
+lows into lower lows and lower highs we
+
+276
+00:09:28,120 --> 00:09:32,399
+could sell there and we could look to
+
+277
+00:09:29,720 --> 00:09:34,200
+tackle the next point of liquidity and
+
+278
+00:09:32,399 --> 00:09:36,920
+probably now you can see how we're
+
+279
+00:09:34,200 --> 00:09:38,760
+starting to formulate a trading setup so
+
+280
+00:09:36,920 --> 00:09:41,120
+this is the entry model that I want to
+
+281
+00:09:38,760 --> 00:09:43,120
+show you in this video using structure
+
+282
+00:09:41,120 --> 00:09:45,680
+and liquidity together let me break it
+
+283
+00:09:43,120 --> 00:09:47,720
+down what we've got is a bearish market
+
+284
+00:09:45,680 --> 00:09:49,720
+we have bearish impulses and then we
+
+285
+00:09:47,720 --> 00:09:52,519
+have the small corrective moves as
+
+286
+00:09:49,720 --> 00:09:54,120
+discussed now in a bearish market we are
+
+287
+00:09:52,519 --> 00:09:56,720
+seeing these lower lows and lower highs
+
+288
+00:09:54,120 --> 00:09:58,560
+form we then want to identify points of
+
+289
+00:09:56,720 --> 00:10:00,760
+liquidity in the form of those equal
+
+290
+00:09:58,560 --> 00:10:02,680
+highs as we just discussed so where we
+
+291
+00:10:00,760 --> 00:10:04,959
+saw the resistance level we know there's
+
+292
+00:10:02,680 --> 00:10:07,079
+stop losses and buy stops Above This
+
+293
+00:10:04,959 --> 00:10:09,000
+level that's what we want to identify
+
+294
+00:10:07,079 --> 00:10:11,079
+now sometimes this is going to formulate
+
+295
+00:10:09,000 --> 00:10:13,519
+inside of a bearish movement and when
+
+296
+00:10:11,079 --> 00:10:15,480
+you see this this becomes a very high
+
+297
+00:10:13,519 --> 00:10:17,760
+probability setup so we are looking for
+
+298
+00:10:15,480 --> 00:10:19,720
+a market that is bearish forming a
+
+299
+00:10:17,760 --> 00:10:22,320
+notable trend of lower lows and lower
+
+300
+00:10:19,720 --> 00:10:24,640
+highs then we want to identify that
+
+301
+00:10:22,320 --> 00:10:27,480
+liquidity in the form of equal highs or
+
+302
+00:10:24,640 --> 00:10:29,560
+a resistance and then once the market
+
+303
+00:10:27,480 --> 00:10:31,240
+breaks those equal highs or break breaks
+
+304
+00:10:29,560 --> 00:10:33,480
+that resistance level comes into the
+
+305
+00:10:31,240 --> 00:10:36,079
+area where the liquidity is we will use
+
+306
+00:10:33,480 --> 00:10:38,959
+a final tip called supply and demand to
+
+307
+00:10:36,079 --> 00:10:42,240
+find our entry now this Zone here is a
+
+308
+00:10:38,959 --> 00:10:44,079
+supply zone so it is basically a area
+
+309
+00:10:42,240 --> 00:10:46,200
+just before a large bearish impulsive
+
+310
+00:10:44,079 --> 00:10:48,079
+movement down and the concept is once
+
+311
+00:10:46,200 --> 00:10:49,920
+the market comes into this level again
+
+312
+00:10:48,079 --> 00:10:52,200
+we would then look to sell so after we
+
+313
+00:10:49,920 --> 00:10:54,240
+come up into it we see this as a high
+
+314
+00:10:52,200 --> 00:10:56,320
+probability area to sell from because
+
+315
+00:10:54,240 --> 00:10:58,079
+we've seen significant selling taking
+
+316
+00:10:56,320 --> 00:11:00,279
+place from this level before which shows
+
+317
+00:10:58,079 --> 00:11:02,760
+that this is a level that sellers accept
+
+318
+00:11:00,279 --> 00:11:04,680
+as a premium price to sell from it's a
+
+319
+00:11:02,760 --> 00:11:06,560
+good level to sell from the market gets
+
+320
+00:11:04,680 --> 00:11:08,720
+back here it's seen as a good premium to
+
+321
+00:11:06,560 --> 00:11:10,519
+sell from again so just to recap this
+
+322
+00:11:08,720 --> 00:11:12,760
+one more time before I show you an
+
+323
+00:11:10,519 --> 00:11:14,800
+actual example we are looking for a
+
+324
+00:11:12,760 --> 00:11:16,920
+bearish trend we want to make sure the
+
+325
+00:11:14,800 --> 00:11:18,880
+market is forming notable lower lows and
+
+326
+00:11:16,920 --> 00:11:20,800
+lower highs when it does we are then
+
+327
+00:11:18,880 --> 00:11:23,560
+looking for the formation of some equal
+
+328
+00:11:20,800 --> 00:11:25,760
+highs some resistance then once that
+
+329
+00:11:23,560 --> 00:11:28,279
+resistance is taken we are looking to
+
+330
+00:11:25,760 --> 00:11:30,560
+sell using that final tip the supply
+
+331
+00:11:28,279 --> 00:11:32,399
+Zone that we just discussed okay now
+
+332
+00:11:30,560 --> 00:11:33,720
+this can work on any time frame and
+
+333
+00:11:32,399 --> 00:11:35,519
+don't worry if this is a little bit
+
+334
+00:11:33,720 --> 00:11:38,000
+confusing now you will see it in real
+
+335
+00:11:35,519 --> 00:11:39,440
+markets in just one moment now one final
+
+336
+00:11:38,000 --> 00:11:41,560
+question you might have about this entry
+
+337
+00:11:39,440 --> 00:11:43,600
+model is how is this not a break of
+
+338
+00:11:41,560 --> 00:11:45,560
+structure right as we said when the
+
+339
+00:11:43,600 --> 00:11:47,240
+market breaks through a previous high or
+
+340
+00:11:45,560 --> 00:11:49,680
+low this should be seen as a break of
+
+341
+00:11:47,240 --> 00:11:51,680
+structure so why are we now looking to
+
+342
+00:11:49,680 --> 00:11:53,399
+sell even though we've had what we could
+
+343
+00:11:51,680 --> 00:11:56,440
+call a break of structure why don't we
+
+344
+00:11:53,399 --> 00:11:58,360
+look instead for a continuation into new
+
+345
+00:11:56,440 --> 00:12:00,399
+buys well the reason for that is because
+
+346
+00:11:58,360 --> 00:12:02,639
+of how the market re reacts to liquidity
+
+347
+00:12:00,399 --> 00:12:04,399
+right if this wasn't equal highs if this
+
+348
+00:12:02,639 --> 00:12:06,600
+wasn't a resistance and this didn't have
+
+349
+00:12:04,399 --> 00:12:08,959
+a significant amount of liquidity above
+
+350
+00:12:06,600 --> 00:12:11,200
+it then we would indeed see this break
+
+351
+00:12:08,959 --> 00:12:13,160
+as a breaking structure but because it's
+
+352
+00:12:11,200 --> 00:12:15,000
+equal highs because the resistance is
+
+353
+00:12:13,160 --> 00:12:17,040
+still here the stop loss is the buy
+
+354
+00:12:15,000 --> 00:12:18,600
+stops all of this stuff is here and the
+
+355
+00:12:17,040 --> 00:12:20,519
+remainder of this bearish trend is still
+
+356
+00:12:18,600 --> 00:12:23,360
+intact then it remains possible and
+
+357
+00:12:20,519 --> 00:12:25,240
+highly likely that this will be a false
+
+358
+00:12:23,360 --> 00:12:27,760
+break of structure where instead of
+
+359
+00:12:25,240 --> 00:12:29,839
+breaking and then continuing we break
+
+360
+00:12:27,760 --> 00:12:31,880
+just to sweep liquidity o the equal
+
+361
+00:12:29,839 --> 00:12:33,440
+highs so if there wasn't any equal highs
+
+362
+00:12:31,880 --> 00:12:35,639
+here and the market looked like this
+
+363
+00:12:33,440 --> 00:12:37,320
+instead then yes we would look to buy
+
+364
+00:12:35,639 --> 00:12:39,040
+but because we have that resistance
+
+365
+00:12:37,320 --> 00:12:40,959
+because we have those equal highs it
+
+366
+00:12:39,040 --> 00:12:42,600
+becomes high probability to sell so when
+
+367
+00:12:40,959 --> 00:12:44,240
+you're trying to work out whether it's a
+
+368
+00:12:42,600 --> 00:12:46,199
+Breakin structure or a sweep of
+
+369
+00:12:44,240 --> 00:12:48,120
+liquidity just consider that do we have
+
+370
+00:12:46,199 --> 00:12:51,079
+a point of significant liquidity like
+
+371
+00:12:48,120 --> 00:12:53,399
+equal highs or resistance level if we do
+
+372
+00:12:51,079 --> 00:12:55,600
+then it's likely the break will actually
+
+373
+00:12:53,399 --> 00:12:57,440
+fail and actually just sweep liquidity
+
+374
+00:12:55,600 --> 00:12:59,680
+before continuing the selloff now let's
+
+375
+00:12:57,440 --> 00:13:01,920
+get to an example of this on the chart
+
+376
+00:12:59,680 --> 00:13:04,120
+take a look at this price structure here
+
+377
+00:13:01,920 --> 00:13:06,360
+we have a large upward move forming a
+
+378
+00:13:04,120 --> 00:13:09,160
+higher high pull back to form a higher
+
+379
+00:13:06,360 --> 00:13:11,720
+low a push up to form a new higher high
+
+380
+00:13:09,160 --> 00:13:13,399
+then we have a higher low a higher high
+
+381
+00:13:11,720 --> 00:13:15,639
+and then we have this break-in structure
+
+382
+00:13:13,399 --> 00:13:18,240
+here which brings us into lower lows
+
+383
+00:13:15,639 --> 00:13:21,399
+Okay so we've just made that shift from
+
+384
+00:13:18,240 --> 00:13:24,120
+bullish into bearish right we've seen
+
+385
+00:13:21,399 --> 00:13:26,480
+this structure shifting down now we have
+
+386
+00:13:24,120 --> 00:13:28,519
+a bearish impulse this becomes a bearish
+
+387
+00:13:26,480 --> 00:13:30,800
+trend or bearish market so this is our
+
+388
+00:13:28,519 --> 00:13:34,079
+high this is is our low the market then
+
+389
+00:13:30,800 --> 00:13:36,320
+comes back and forms this lower high
+
+390
+00:13:34,079 --> 00:13:38,519
+before coming down to make this lower
+
+391
+00:13:36,320 --> 00:13:40,480
+low now the reason that we don't really
+
+392
+00:13:38,519 --> 00:13:41,959
+want to consider this intermediate
+
+393
+00:13:40,480 --> 00:13:43,959
+structure is because this is what we
+
+394
+00:13:41,959 --> 00:13:45,720
+call the consolidation that we looked at
+
+395
+00:13:43,959 --> 00:13:47,440
+right we said there's three phases
+
+396
+00:13:45,720 --> 00:13:49,680
+consolidations we don't really want to
+
+397
+00:13:47,440 --> 00:13:50,920
+trade but we can see that this area here
+
+398
+00:13:49,680 --> 00:13:53,680
+the market didn't really make any
+
+399
+00:13:50,920 --> 00:13:56,360
+movements other than sideways it's only
+
+400
+00:13:53,680 --> 00:13:58,160
+when we broke through into the next low
+
+401
+00:13:56,360 --> 00:13:59,720
+at this level here that we continued
+
+402
+00:13:58,160 --> 00:14:01,199
+with the bearish trend
+
+403
+00:13:59,720 --> 00:14:02,639
+so it's kind of just a pause in the
+
+404
+00:14:01,199 --> 00:14:05,079
+trend where the market does nothing but
+
+405
+00:14:02,639 --> 00:14:06,800
+go sideways so at this point we have a
+
+406
+00:14:05,079 --> 00:14:08,279
+bearish trend we've got the impulses
+
+407
+00:14:06,800 --> 00:14:10,079
+that we want to see we've got the
+
+408
+00:14:08,279 --> 00:14:12,399
+smaller Corrections and then we've got
+
+409
+00:14:10,079 --> 00:14:14,399
+this messy consolidation now what forms
+
+410
+00:14:12,399 --> 00:14:16,440
+during a consolidation well
+
+411
+00:14:14,399 --> 00:14:18,560
+consolidation areas is where we are
+
+412
+00:14:16,440 --> 00:14:21,279
+going to get these equal highs that we
+
+413
+00:14:18,560 --> 00:14:23,360
+just discussed so here we can see one
+
+414
+00:14:21,279 --> 00:14:24,600
+two pushes up and then a little bit
+
+415
+00:14:23,360 --> 00:14:26,560
+lower down we've got a bunch of other
+
+416
+00:14:24,600 --> 00:14:29,560
+pushes as well we could pretty safely
+
+417
+00:14:26,560 --> 00:14:32,040
+say that this area here as a
+
+418
+00:14:29,560 --> 00:14:33,839
+or if we wanted to get really refined it
+
+419
+00:14:32,040 --> 00:14:36,720
+would be this area that I've just marked
+
+420
+00:14:33,839 --> 00:14:38,759
+out is seen as a resistance in price so
+
+421
+00:14:36,720 --> 00:14:40,600
+there are going to be sellers somewhere
+
+422
+00:14:38,759 --> 00:14:42,560
+within this range there will be breakout
+
+423
+00:14:40,600 --> 00:14:44,880
+Traders at this point now looking for a
+
+424
+00:14:42,560 --> 00:14:47,120
+break Above This high so traders who are
+
+425
+00:14:44,880 --> 00:14:48,560
+expecting if this happens their buy
+
+426
+00:14:47,120 --> 00:14:50,600
+stops will trigger them into buys for a
+
+427
+00:14:48,560 --> 00:14:53,120
+break retest continuation and there will
+
+428
+00:14:50,600 --> 00:14:55,440
+also be sellers taking place anywhere
+
+429
+00:14:53,120 --> 00:14:57,360
+inside of this range could be here could
+
+430
+00:14:55,440 --> 00:14:59,160
+be even where we are now could have been
+
+431
+00:14:57,360 --> 00:15:01,839
+previous at this resistance retest
+
+432
+00:14:59,160 --> 00:15:04,240
+whatever but these sellers are going to
+
+433
+00:15:01,839 --> 00:15:06,399
+generally in Mass at least a lot of them
+
+434
+00:15:04,240 --> 00:15:08,279
+as a generalization have stop losses
+
+435
+00:15:06,399 --> 00:15:10,519
+above these equal highs and above this
+
+436
+00:15:08,279 --> 00:15:12,519
+high so this creates an area where there
+
+437
+00:15:10,519 --> 00:15:14,480
+is a significant amount of liquidity
+
+438
+00:15:12,519 --> 00:15:16,519
+orders or transactions which means if
+
+439
+00:15:14,480 --> 00:15:19,160
+the market reaches back into this point
+
+440
+00:15:16,519 --> 00:15:21,079
+such as a sweep above the swing High we
+
+441
+00:15:19,160 --> 00:15:23,000
+would then look for a continuation lower
+
+442
+00:15:21,079 --> 00:15:25,519
+that's what we would expect to see okay
+
+443
+00:15:23,000 --> 00:15:28,240
+if we then consider the final thing we
+
+444
+00:15:25,519 --> 00:15:30,639
+discussed which was a supply Zone I said
+
+445
+00:15:28,240 --> 00:15:33,079
+a supply Zone was a consolidation area
+
+446
+00:15:30,639 --> 00:15:35,160
+before a large downward move now this
+
+447
+00:15:33,079 --> 00:15:37,360
+candle here is a huge Wick where we
+
+448
+00:15:35,160 --> 00:15:38,720
+opened and closed at the same level so
+
+449
+00:15:37,360 --> 00:15:40,680
+this is what we consider as our
+
+450
+00:15:38,720 --> 00:15:42,759
+consolidation area we are looking for
+
+451
+00:15:40,680 --> 00:15:45,040
+what I call the last candle before the
+
+452
+00:15:42,759 --> 00:15:47,079
+impulse this is the last candle before
+
+453
+00:15:45,040 --> 00:15:49,079
+the bearish impulse that broke structure
+
+454
+00:15:47,079 --> 00:15:51,839
+so this here that large candle that
+
+455
+00:15:49,079 --> 00:15:53,880
+large bearish candle is our supply Zone
+
+456
+00:15:51,839 --> 00:15:56,360
+okay so now we've got a few things let
+
+457
+00:15:53,880 --> 00:15:59,120
+me annotate we've got our low which
+
+458
+00:15:56,360 --> 00:16:01,279
+indicates a new bearish trend we we've
+
+459
+00:15:59,120 --> 00:16:03,480
+got our supply Zone which indicates a
+
+460
+00:16:01,279 --> 00:16:05,040
+solid level to sell from Once the market
+
+461
+00:16:03,480 --> 00:16:07,680
+reacts to it once again because it was
+
+462
+00:16:05,040 --> 00:16:11,279
+seen as a premium to sell from before
+
+463
+00:16:07,680 --> 00:16:13,519
+and we've got uh equal High liquidity
+
+464
+00:16:11,279 --> 00:16:16,560
+just above the consolidation which is
+
+465
+00:16:13,519 --> 00:16:18,519
+going to be pretty much this level here
+
+466
+00:16:16,560 --> 00:16:20,000
+right we can draw this out it is
+
+467
+00:16:18,519 --> 00:16:22,120
+relative equal Highs at this time so
+
+468
+00:16:20,000 --> 00:16:23,959
+we're missing it by about one pip but we
+
+469
+00:16:22,120 --> 00:16:26,519
+can clearly see this is a resistance
+
+470
+00:16:23,959 --> 00:16:28,079
+level uh they don't have to be to the
+
+471
+00:16:26,519 --> 00:16:30,079
+PIP direct equal high stone but they
+
+472
+00:16:28,079 --> 00:16:31,560
+have to be very very very close to the
+
+473
+00:16:30,079 --> 00:16:33,240
+point that you know when we take a look
+
+474
+00:16:31,560 --> 00:16:35,480
+at this you can see how refined and how
+
+475
+00:16:33,240 --> 00:16:37,000
+close together these levels truly are so
+
+476
+00:16:35,480 --> 00:16:39,279
+with what we can see here on the chart
+
+477
+00:16:37,000 --> 00:16:41,319
+let me map out the entry model once
+
+478
+00:16:39,279 --> 00:16:44,279
+again that we just discussed so we have
+
+479
+00:16:41,319 --> 00:16:47,160
+our bearish Trend we have the formation
+
+480
+00:16:44,279 --> 00:16:49,800
+of equal highs within that bearish Trend
+
+481
+00:16:47,160 --> 00:16:52,639
+we then sweep above the equal highs and
+
+482
+00:16:49,800 --> 00:16:55,680
+then sell back below so the equal highs
+
+483
+00:16:52,639 --> 00:16:57,480
+just here the supply Zone just here and
+
+484
+00:16:55,680 --> 00:17:00,240
+this has to be taking place in a bearish
+
+485
+00:16:57,480 --> 00:17:02,800
+trend right so we see bearish so we see
+
+486
+00:17:00,240 --> 00:17:04,559
+bearish impulses equal highs sell from
+
+487
+00:17:02,800 --> 00:17:07,360
+Supply once equal highs have been swept
+
+488
+00:17:04,559 --> 00:17:09,720
+bearish impulse equal highs sell from
+
+489
+00:17:07,360 --> 00:17:11,240
+Supply once equal highs have been swept
+
+490
+00:17:09,720 --> 00:17:13,360
+so how do we approach this then for an
+
+491
+00:17:11,240 --> 00:17:15,079
+actual trade position well what we're
+
+492
+00:17:13,360 --> 00:17:16,679
+now looking for as Traders if you
+
+493
+00:17:15,079 --> 00:17:18,839
+haven't already guessed it is for the
+
+494
+00:17:16,679 --> 00:17:20,600
+market to sweep equal highs trade into
+
+495
+00:17:18,839 --> 00:17:23,000
+Supply and then we will be looking to
+
+496
+00:17:20,600 --> 00:17:24,799
+sell the market down from there so at
+
+497
+00:17:23,000 --> 00:17:27,559
+this point we can go ahead and place an
+
+498
+00:17:24,799 --> 00:17:29,160
+order so our sell limit would be at this
+
+499
+00:17:27,559 --> 00:17:30,720
+level here the best way to get these
+
+500
+00:17:29,160 --> 00:17:32,320
+trades it's going to be a sell limit
+
+501
+00:17:30,720 --> 00:17:34,000
+because a sell limit just triggers you
+
+502
+00:17:32,320 --> 00:17:36,039
+in once the market reaches that level
+
+503
+00:17:34,000 --> 00:17:37,799
+you get triggered into a sell and then
+
+504
+00:17:36,039 --> 00:17:39,840
+if the market reverses as we expect it
+
+505
+00:17:37,799 --> 00:17:41,720
+to you will then profit for the stop
+
+506
+00:17:39,840 --> 00:17:43,080
+loss I like to keep it above the high
+
+507
+00:17:41,720 --> 00:17:45,600
+right we can put it above the supply
+
+508
+00:17:43,080 --> 00:17:47,360
+Zone that would be fine simply because
+
+509
+00:17:45,600 --> 00:17:49,360
+we're so close to the high here I'd
+
+510
+00:17:47,360 --> 00:17:50,919
+actually put it just above the high just
+
+511
+00:17:49,360 --> 00:17:52,400
+in case the market decides to Wick or
+
+512
+00:17:50,919 --> 00:17:53,720
+anything that is going to make your
+
+513
+00:17:52,400 --> 00:17:55,880
+trade a little bit safer if you just
+
+514
+00:17:53,720 --> 00:17:57,760
+always clear the highs you don't need to
+
+515
+00:17:55,880 --> 00:17:59,600
+kind of push your luck for the biggest
+
+516
+00:17:57,760 --> 00:18:01,640
+possible risk reward that's going to be
+
+517
+00:17:59,600 --> 00:18:03,520
+fine now targets wise what we can do
+
+518
+00:18:01,640 --> 00:18:05,960
+because we are now in a bearish trend is
+
+519
+00:18:03,520 --> 00:18:07,919
+just look for open areas below for
+
+520
+00:18:05,960 --> 00:18:10,400
+targets I like to use once again either
+
+521
+00:18:07,919 --> 00:18:12,360
+points of liquidity so swing lows or
+
+522
+00:18:10,400 --> 00:18:14,120
+just areas of demand which would be
+
+523
+00:18:12,360 --> 00:18:16,039
+basically the opposite of a supply Zone
+
+524
+00:18:14,120 --> 00:18:17,360
+a consolidation before a large upward
+
+525
+00:18:16,039 --> 00:18:19,280
+move so if we go take a look at the
+
+526
+00:18:17,360 --> 00:18:21,159
+bottom of this Movement we have here our
+
+527
+00:18:19,280 --> 00:18:22,840
+area of consolidation before this large
+
+528
+00:18:21,159 --> 00:18:25,520
+upward move we could use this as a
+
+529
+00:18:22,840 --> 00:18:27,320
+Target okay that is our demand Zone
+
+530
+00:18:25,520 --> 00:18:28,919
+trade would look like this and that
+
+531
+00:18:27,320 --> 00:18:30,640
+would be the entry model pretty much
+
+532
+00:18:28,919 --> 00:18:32,559
+prepped out so this would be a solid
+
+533
+00:18:30,640 --> 00:18:34,320
+trade we now have this price range and
+
+534
+00:18:32,559 --> 00:18:35,919
+this demand that we can trade through so
+
+535
+00:18:34,320 --> 00:18:38,559
+what we would do at this point is simply
+
+536
+00:18:35,919 --> 00:18:40,799
+place a solit order and then allow the
+
+537
+00:18:38,559 --> 00:18:42,919
+market to run through what we're looking
+
+538
+00:18:40,799 --> 00:18:45,760
+for is for the market to trade into the
+
+539
+00:18:42,919 --> 00:18:47,919
+area of Supply as we've just seen happen
+
+540
+00:18:45,760 --> 00:18:50,360
+and then sell off from there towards
+
+541
+00:18:47,919 --> 00:18:52,000
+wherever our Target may be in this new
+
+542
+00:18:50,360 --> 00:18:54,039
+bearish trend now you would have been
+
+543
+00:18:52,000 --> 00:18:55,360
+safe with your stop above the Zone we
+
+544
+00:18:54,039 --> 00:18:57,320
+went a little bit higher and put it
+
+545
+00:18:55,360 --> 00:19:00,760
+above the high which is completely fine
+
+546
+00:18:57,320 --> 00:19:02,919
+this would be 4.6 9% return for every 1%
+
+547
+00:19:00,760 --> 00:19:05,799
+risked and it followed that entry model
+
+548
+00:19:02,919 --> 00:19:08,760
+perfectly we have bearish impulses equal
+
+549
+00:19:05,799 --> 00:19:11,159
+highs sweep equal highs sell from Supply
+
+550
+00:19:08,760 --> 00:19:13,120
+and Target further down in the trend and
+
+551
+00:19:11,159 --> 00:19:15,120
+by the way just to highlight it yes you
+
+552
+00:19:13,120 --> 00:19:17,280
+can trade this the other way if we were
+
+553
+00:19:15,120 --> 00:19:19,120
+in a bearish trend that shifted into a
+
+554
+00:19:17,280 --> 00:19:21,400
+bullish Trend we could actually trade
+
+555
+00:19:19,120 --> 00:19:24,200
+this using equal lows and demand it
+
+556
+00:19:21,400 --> 00:19:25,600
+works exactly the same both ways doesn't
+
+557
+00:19:24,200 --> 00:19:27,039
+matter if you're buying or selling you
+
+558
+00:19:25,600 --> 00:19:29,080
+just need to be following the correct
+
+559
+00:19:27,039 --> 00:19:31,120
+Trend so if we begin a new uptrend Trend
+
+560
+00:19:29,080 --> 00:19:33,440
+you can use equal lows and demand zones
+
+561
+00:19:31,120 --> 00:19:35,880
+to buy instead of sell using the exact
+
+562
+00:19:33,440 --> 00:19:37,640
+same entry model so that is a simplistic
+
+563
+00:19:35,880 --> 00:19:39,679
+entry model that you can use to start
+
+564
+00:19:37,640 --> 00:19:41,840
+putting liquidity and Market structure
+
+565
+00:19:39,679 --> 00:19:44,000
+together into action in the markets to
+
+566
+00:19:41,840 --> 00:19:46,000
+make profits from your trading what you
+
+567
+00:19:44,000 --> 00:19:47,720
+should do next is go to the top Link in
+
+568
+00:19:46,000 --> 00:19:49,880
+the description of this video and sign
+
+569
+00:19:47,720 --> 00:19:52,320
+up to my completely free system building
+
+570
+00:19:49,880 --> 00:19:54,640
+course I show you how to turn this into
+
+571
+00:19:52,320 --> 00:19:56,799
+a trading strategy then how to back test
+
+572
+00:19:54,640 --> 00:19:58,280
+it Journal it and validate it so you can
+
+573
+00:19:56,799 --> 00:20:00,480
+trade it live with an understanding of
+
+574
+00:19:58,280 --> 00:20:01,880
+the win Ates and other important metrics
+
+575
+00:20:00,480 --> 00:20:03,679
+if you don't have a system you won't win
+
+576
+00:20:01,880 --> 00:20:05,240
+it trading so take advantage of it it's
+
+577
+00:20:03,679 --> 00:20:09,320
+completely free and with that said and
+
+578
+00:20:05,240 --> 00:20:09,320
+done I'll see you in the next video
+
