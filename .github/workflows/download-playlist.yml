@@ -1,0 +1,123 @@
+# .github/workflows/download-playlist.yml
+name: 📥 YouTube Playlist Downloader
+
+on:
+  workflow_dispatch:
+    inputs:
+      playlist_url:
+        description: '🔗 YouTube Playlist URL'
+        required: true
+        type: string
+      quality:
+        description: '🎬 انتخاب کیفیت ویدیوها'
+        required: true
+        type: choice
+        options:
+          - 'best (original)'
+          - '2160p (4K)'
+          - '1440p (2K)'
+          - '1080p'
+          - '720p'
+          - '480p'
+          - '360p'
+      playlist_items:
+        description: 'محدوده آیتم‌ها (مثال: 1:4 , 1,3,5 , 5:10,15,20:25)'
+        required: false
+        type: string
+        default: ''
+
+permissions:
+  contents: write
+
+jobs:
+  download-playlist:
+    runs-on: ubuntu-latest
+    timeout-minutes: 360
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # نصب و تنظیمات دقیق yt-dlp
+      - name: Setup yt-dlp با تمام ویژگی‌ها
+        uses: AnimMouse/setup-yt-dlp@v3
+        with:
+          ejs-node: true    # برای حل مشکل n-sig یوتیوب
+          aria2: true       # دانلود چندبخشی سریع
+          ffmpeg: true      # ادغام ویدیو، صدا و زیرنویس
+
+      # استفاده از کوکی در صورت وجود
+      - name: Create cookies file (اختیاری)
+        env:
+          COOKIES_SECRET: ${{ secrets.YOUTUBE_COOKIES }}
+        run: |
+          if [ -n "$COOKIES_SECRET" ]; then
+            echo "$COOKIES_SECRET" > cookies.txt
+            echo "✅ کوکی اضافه شد"
+          fi
+
+      # تعیین فرمت بر اساس کیفیت انتخابی
+      - name: تعیین فرمت خروجی
+        id: set_format
+        run: |
+          QUALITY="${{ github.event.inputs.quality }}"
+          case "$QUALITY" in
+            "best (original)") FORMAT="bestvideo+bestaudio/best" ;;
+            "2160p (4K)") FORMAT="bestvideo[height<=2160]+bestaudio/best[height<=2160]" ;;
+            "1440p (2K)") FORMAT="bestvideo[height<=1440]+bestaudio/best[height<=1440]" ;;
+            "1080p") FORMAT="bestvideo[height<=1080][ext=mp4][vcodec^=avc1]+bestaudio[ext=m4a]/best[height<=1080]" ;;
+            "720p") FORMAT="bestvideo[height<=720][ext=mp4][vcodec^=avc1]+bestaudio[ext=m4a]/best[height<=720]" ;;
+            "480p") FORMAT="bestvideo[height<=480][ext=mp4][vcodec^=avc1]+bestaudio[ext=m4a]/best[height<=480]" ;;
+            "360p") FORMAT="bestvideo[height<=360][ext=mp4][vcodec^=avc1]+bestaudio[ext=m4a]/best[height<=360]" ;;
+            *) FORMAT="bestvideo+bestaudio/best" ;;
+          esac
+          echo "FORMAT=$FORMAT" >> $GITHUB_ENV
+
+      - name: دانلود پلی‌لیست و جاسازی زیرنویس
+        id: download
+        run: |
+          TIMESTAMP=$(date +%Y%m%d_%H%M%S)
+          PLAYLIST_TITLE=$(yt-dlp --get-filename -o '%(playlist_title)s' '${{ github.event.inputs.playlist_url }}' 2>/dev/null | sed 's/[^a-zA-Z0-9\u0600-\u06FF\-_]/_/g')
+          [ -z "$PLAYLIST_TITLE" ] && PLAYLIST_TITLE="playlist"
+          FINAL_NAME="${PLAYLIST_TITLE}_${TIMESTAMP}"
+          mkdir -p "downloads/${FINAL_NAME}"
+
+          # ساخت دستور دانلود با آرشیو و محدوده آیتم‌ها
+          CMD="yt-dlp -f '${{ env.FORMAT }}' \
+            --merge-output-format mkv \
+            --downloader aria2c \
+            --downloader-args 'aria2c:-x 16 -s 16 -k 1M' \
+            --write-subs \
+            --write-auto-subs \
+            --sub-langs "fa,en" \
+            --sub-format "srt/best" \
+            --embed-subs \
+            --convert-subs srt \
+            --embed-thumbnail \
+            --add-metadata \
+            --write-description \
+            --write-info-json \
+            --download-archive archive.txt \
+            -o 'downloads/${FINAL_NAME}/%(playlist_index)s - %(title)s.%(ext)s' \
+            '${{ github.event.inputs.playlist_url }}'"
+
+          # اعمال محدوده آیتم‌ها در صورت وجود
+          [ -n "${{ github.event.inputs.playlist_items }}" ] && CMD="$CMD --playlist-items '${{ github.event.inputs.playlist_items }}'"
+          [ -f cookies.txt ] && CMD="$CMD --cookies cookies.txt"
+
+          echo "در حال دانلود پلی‌لیست..."
+          eval $CMD
+          if [ $? -ne 0 ]; then
+            echo "⚠️ خطا در دانلود بعضی از ویدیوها، ادامه می‌دهد..."
+          fi
+
+          echo "FINAL_NAME=$FINAL_NAME" >> $GITHUB_ENV
+
+      - name: Commit و Push به مخزن (فقط فایل‌های جدید)
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add "downloads/${{ env.FINAL_NAME }}"
+          git add archive.txt
+          git commit -m "🎬 افزودن پلی‌لیست: ${{ env.FINAL_NAME }}" || echo "هیچ تغییر جدیدی وجود ندارد"
+          git push
