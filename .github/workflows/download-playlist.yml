@@ -1,5 +1,5 @@
 # .github/workflows/download-playlist.yml
-name: 📥 YouTube Playlist Downloader
+name: 📥 YouTube Playlist Downloader (Per‑video folders + auto split)
 
 on:
   workflow_dispatch:
@@ -9,7 +9,7 @@ on:
         required: true
         type: string
       quality:
-        description: '🎬 انتخاب کیفیت ویدیوها'
+        description: '🎬 Video quality'
         required: true
         type: choice
         options:
@@ -21,7 +21,7 @@ on:
           - '480p'
           - '360p'
       playlist_items:
-        description: 'محدوده آیتم‌ها (مثال: 1:4 , 1,3,5 , 5:10,15,20:25)'
+        description: 'Item range (e.g., 1:4 , 1,3,5 , 5:10,15,20:25) – leave empty for full playlist'
         required: false
         type: string
         default: ''
@@ -32,33 +32,32 @@ permissions:
 jobs:
   download-playlist:
     runs-on: ubuntu-latest
-    timeout-minutes: 360
+    timeout-minutes: 480
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      # نصب و تنظیمات دقیق yt-dlp
-      - name: Setup yt-dlp با تمام ویژگی‌ها
+      - name: Setup yt-dlp with EJS, aria2, ffmpeg
         uses: AnimMouse/setup-yt-dlp@v3
         with:
-          ejs-node: true    # برای حل مشکل n-sig یوتیوب
-          aria2: true       # دانلود چندبخشی سریع
-          ffmpeg: true      # ادغام ویدیو، صدا و زیرنویس
+          ejs-node: true
+          aria2: true
+          ffmpeg: true
 
-      # استفاده از کوکی در صورت وجود
-      - name: Create cookies file (اختیاری)
+      - name: Install p7zip-full for splitting
+        run: sudo apt-get update && sudo apt-get install -y p7zip-full
+
+      - name: Create cookies file (if secret exists)
         env:
           COOKIES_SECRET: ${{ secrets.YOUTUBE_COOKIES }}
         run: |
           if [ -n "$COOKIES_SECRET" ]; then
             echo "$COOKIES_SECRET" > cookies.txt
-            echo "✅ کوکی اضافه شد"
+            echo "✅ Cookies loaded"
           fi
 
-      # تعیین فرمت بر اساس کیفیت انتخابی
-      - name: تعیین فرمت خروجی
-        id: set_format
+      - name: Determine yt-dlp format
         run: |
           QUALITY="${{ github.event.inputs.quality }}"
           case "$QUALITY" in
@@ -73,7 +72,7 @@ jobs:
           esac
           echo "FORMAT=$FORMAT" >> $GITHUB_ENV
 
-      - name: دانلود پلی‌لیست و جاسازی زیرنویس
+      - name: Download playlist (each video into its own folder)
         id: download
         run: |
           TIMESTAMP=$(date +%Y%m%d_%H%M%S)
@@ -82,7 +81,6 @@ jobs:
           FINAL_NAME="${PLAYLIST_TITLE}_${TIMESTAMP}"
           mkdir -p "downloads/${FINAL_NAME}"
 
-          # ساخت دستور دانلود با آرشیو و محدوده آیتم‌ها
           CMD="yt-dlp -f '${{ env.FORMAT }}' \
             --merge-output-format mkv \
             --downloader aria2c \
@@ -98,26 +96,40 @@ jobs:
             --write-description \
             --write-info-json \
             --download-archive archive.txt \
-            -o 'downloads/${FINAL_NAME}/%(playlist_index)s - %(title)s.%(ext)s' \
+            -o 'downloads/${FINAL_NAME}/%(playlist_index)s - %(title)s/%(title)s.%(ext)s' \
             '${{ github.event.inputs.playlist_url }}'"
 
-          # اعمال محدوده آیتم‌ها در صورت وجود
           [ -n "${{ github.event.inputs.playlist_items }}" ] && CMD="$CMD --playlist-items '${{ github.event.inputs.playlist_items }}'"
           [ -f cookies.txt ] && CMD="$CMD --cookies cookies.txt"
 
-          echo "در حال دانلود پلی‌لیست..."
-          eval $CMD
-          if [ $? -ne 0 ]; then
-            echo "⚠️ خطا در دانلود بعضی از ویدیوها، ادامه می‌دهد..."
-          fi
-
+          echo "🚀 Downloading playlist..."
+          eval $CMD || echo "⚠️ Some videos failed, continuing..."
           echo "FINAL_NAME=$FINAL_NAME" >> $GITHUB_ENV
 
-      - name: Commit و Push به مخزن (فقط فایل‌های جدید)
+      - name: Split large videos (>95MB) inside their own folders
+        run: |
+          PLAYLIST_DIR="downloads/${{ env.FINAL_NAME }}"
+          find "$PLAYLIST_DIR" -mindepth 1 -maxdepth 1 -type d | while read folder; do
+            mkv_file=$(find "$folder" -maxdepth 1 -name "*.mkv" | head -1)
+            if [ -f "$mkv_file" ]; then
+              size=$(stat -c%s "$mkv_file")
+              if [ "$size" -gt $((95 * 1024 * 1024)) ]; then
+                echo "📦 Splitting $(basename "$mkv_file") (size: $((size/1024/1024)) MB)"
+                cd "$folder"
+                7z a -v95m "video.7z" "$(basename "$mkv_file")"
+                rm "$(basename "$mkv_file")"
+                cd - > /dev/null
+              else
+                echo "✅ $(basename "$mkv_file") under 95MB, no split."
+              fi
+            fi
+          done
+
+      - name: Commit and push
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add "downloads/${{ env.FINAL_NAME }}"
           git add archive.txt
-          git commit -m "🎬 افزودن پلی‌لیست: ${{ env.FINAL_NAME }}" || echo "هیچ تغییر جدیدی وجود ندارد"
+          git commit -m "🎬 Playlist: ${{ env.FINAL_NAME }}" || echo "No changes"
           git push
