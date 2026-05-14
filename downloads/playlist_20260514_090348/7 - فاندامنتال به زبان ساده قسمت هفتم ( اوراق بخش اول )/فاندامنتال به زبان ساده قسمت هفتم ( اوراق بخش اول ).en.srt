@@ -1,0 +1,5113 @@
+1
+00:00:00,199 --> 00:00:07,520
+Hello, the Fundamentals training set in
+
+2
+00:00:03,520 --> 00:00:10,759
+plain language has been made available to the Frachart site for public and free use.
+
+3
+00:00:07,520 --> 00:00:15,240
+
+4
+00:00:10,759 --> 00:00:15,240
+I hope it will be of interest to you.
+
+5
+00:00:15,960 --> 00:00:22,800
+Hello and greetings to you, dear friends. Good
+
+6
+00:00:20,119 --> 00:00:26,000
+time, I hope you are well. I
+
+7
+00:00:22,800 --> 00:00:28,240
+am Alireza. I am at your service with another part of the
+
+8
+00:00:26,000 --> 00:00:31,720
+Fundamentals training set in plain language. In
+
+9
+00:00:28,240 --> 00:00:34,960
+this part, we want to
+
+10
+00:00:31,720 --> 00:00:38,920
+talk about the stock market, and it
+
+11
+00:00:34,960 --> 00:00:42,719
+is an extremely important part. Follow this part carefully.
+
+12
+00:00:38,920 --> 00:00:47,680
+Before we get into our main topics,
+
+13
+00:00:42,719 --> 00:00:49,879
+I have two points to tell you. First, the
+
+14
+00:00:47,680 --> 00:00:53,120
+symbols that we have used so far,
+
+15
+00:00:49,879 --> 00:00:56,079
+for example, the balance sheet interest rate or anything you
+
+16
+00:00:53,120 --> 00:01:00,359
+
+17
+00:00:56,079 --> 00:01:03,480
+saw in the previous slides in the previous videos, I will prepare them in the group whose address is
+
+18
+00:01:00,359 --> 00:01:06,119
+below. You can
+
+19
+00:01:03,480 --> 00:01:09,159
+access the symbols there and do some practice.
+
+20
+00:01:06,119 --> 00:01:12,799
+For example, bring up the Federal Reserve interest rate
+
+21
+00:01:09,159 --> 00:01:15,680
+and put in the dollar index chart. This way,
+
+22
+00:01:12,799 --> 00:01:18,920
+you can see how changes in the US interest rate
+
+23
+00:01:15,680 --> 00:01:21,880
+affect the dollar index or the stock market
+
+24
+00:01:18,920 --> 00:01:23,720
+or anything else. One of the things
+
+25
+00:01:21,880 --> 00:01:25,119
+you can do in the fundamental field
+
+26
+00:01:23,720 --> 00:01:27,240
+is to
+
+27
+00:01:25,119 --> 00:01:30,360
+repeat and
+
+28
+00:01:27,240 --> 00:01:33,520
+practice events.  Which has happened in the past because, as I
+
+29
+00:01:30,360 --> 00:01:36,920
+told you, we
+
+30
+00:01:33,520 --> 00:01:39,399
+will definitely have new conditions in the economy. Like in 2020,
+
+31
+00:01:36,920 --> 00:01:42,720
+no one thought that Covid could
+
+32
+00:01:39,399 --> 00:01:45,640
+affect the economy so much. But economic cycles
+
+33
+00:01:42,720 --> 00:01:49,000
+
+34
+00:01:45,640 --> 00:01:52,759
+are and will remain the same as we have learned so far, that is, for example, growth or
+
+35
+00:01:49,000 --> 00:01:55,560
+recession, interest rate cuts, interest rate increases. This is something
+
+36
+00:01:52,759 --> 00:01:58,520
+that we always have. These always change in every
+
+37
+00:01:55,560 --> 00:02:00,840
+cycle and have
+
+38
+00:01:58,520 --> 00:02:02,719
+their own effects on the market and prices. And
+
+39
+00:02:00,840 --> 00:02:03,799
+one of the things you can do is to be
+
+40
+00:02:02,719 --> 00:02:08,080
+ 
+
+41
+00:02:03,799 --> 00:02:12,480
+able to progress in fundamental discussions
+
+42
+00:02:08,080 --> 00:02:15,000
+and to keep in mind
+
+43
+00:02:12,480 --> 00:02:17,959
+the effect that, for example, interest rates have on the dollar index. The
+
+44
+00:02:15,000 --> 00:02:20,440
+effect that, for example, we are
+
+45
+00:02:17,959 --> 00:02:23,200
+learning about the bond market today.
+
+46
+00:02:20,440 --> 00:02:25,640
+Today's symbol is added. The effect that bonds have
+
+47
+00:02:23,200 --> 00:02:28,480
+on different assets. If
+
+48
+00:02:25,640 --> 00:02:31,480
+you put these on a chart together and have a
+
+49
+00:02:28,480 --> 00:02:33,640
+practice yourself, and have a repetition, it
+
+50
+00:02:31,480 --> 00:02:36,440
+can help you a lot. For example, I
+
+51
+00:02:33,640 --> 00:02:39,599
+use every chart here. I will
+
+52
+00:02:36,440 --> 00:02:42,879
+bring you the chart myself.  I'll take a screenshot and
+
+53
+00:02:39,599 --> 00:02:45,440
+use it in my presentation. So do this.
+
+54
+00:02:42,879 --> 00:02:47,920
+
+55
+00:02:45,440 --> 00:02:51,519
+Use the fundamental symbols. Put them on
+
+56
+00:02:47,920 --> 00:02:55,200
+different charts. Create curiosity for yourself
+
+57
+00:02:51,519 --> 00:02:59,640
+in the field of fundamentals. And this can make the
+
+58
+00:02:55,200 --> 00:03:02,959
+topics we
+
+59
+00:02:59,640 --> 00:03:05,560
+'ve learned so far much better in your mind. And
+
+60
+00:03:02,959 --> 00:03:09,480
+with today's market events and market news, you
+
+61
+00:03:05,560 --> 00:03:11,959
+can predict future fluctuations.
+
+62
+00:03:09,480 --> 00:03:15,400
+That's fundamentals. We
+
+63
+00:03:11,959 --> 00:03:18,400
+learned, we researched, we sat down, we examined
+
+64
+00:03:15,400 --> 00:03:20,680
+what happened in the past in the economy,
+
+65
+00:03:18,400 --> 00:03:23,000
+what were the cycles like, what were their effects on
+
+66
+00:03:20,680 --> 00:03:25,200
+prices? We learned these things.
+
+67
+00:03:23,000 --> 00:03:28,920
+Then we want to close this with the future, that is,
+
+68
+00:03:25,200 --> 00:03:31,680
+we will see the future of these events that happen and
+
+69
+00:03:28,920 --> 00:03:34,239
+are repetitive. We won't have anything new,
+
+70
+00:03:31,680 --> 00:03:36,879
+as I told you, what impact can they have
+
+71
+00:03:34,239 --> 00:03:40,360
+on prices? We get these from the past,
+
+72
+00:03:36,879 --> 00:03:45,760
+but let's move on to
+
+73
+00:03:40,360 --> 00:03:49,599
+today. So I'll create a file that
+
+74
+00:03:45,760 --> 00:03:54,640
+contains the symbols we've used so far. In
+
+75
+00:03:49,599 --> 00:03:57,920
+this file, you can also say, terms
+
+76
+00:03:54,640 --> 00:04:01,280
+that  I will bring what we have used so far. I will
+
+77
+00:03:57,920 --> 00:04:05,000
+do this throughout this week
+
+78
+00:04:01,280 --> 00:04:09,799
+and you can have it in the group. I will
+
+79
+00:04:05,000 --> 00:04:11,360
+also put it on the Frachart site. If they bother to do it, they can bring
+
+80
+00:04:09,799 --> 00:04:14,799
+ 
+
+81
+00:04:11,360 --> 00:04:17,280
+down the period. Now I don't know
+
+82
+00:04:14,799 --> 00:04:20,359
+what their update is like every time. But
+
+83
+00:04:17,280 --> 00:04:23,600
+now we will try to put it on the Frachart site itself, where the
+
+84
+00:04:20,359 --> 00:04:26,800
+period is published there. But let's move on to
+
+85
+00:04:23,600 --> 00:04:31,360
+today, since we are working together a lot. My
+
+86
+00:04:26,800 --> 00:04:35,039
+pen is here. The only thing
+
+87
+00:04:31,360 --> 00:04:38,680
+left is for me to
+
+88
+00:04:35,039 --> 00:04:42,160
+use a highlighter.
+
+89
+00:04:38,680 --> 00:04:47,840
+Well, let's move on to
+
+90
+00:04:42,160 --> 00:04:50,199
+today, guys. Bonds are one of the most interesting
+
+91
+00:04:47,840 --> 00:04:52,400
+parts of our fundamentals. Everything we have learned so far, it can be
+
+92
+00:04:50,199 --> 00:04:55,680
+ 
+
+93
+00:04:52,400 --> 00:05:00,639
+said that bonds
+
+94
+00:04:55,680 --> 00:05:03,840
+have economic growth, inflation, employment, I know
+
+95
+00:05:00,639 --> 00:05:07,880
+economic cycles, predicting the
+
+96
+00:05:03,840 --> 00:05:09,639
+next cycle. Bonds
+
+97
+00:05:07,880 --> 00:05:12,600
+have all of this in their hearts. If I
+
+98
+00:05:09,639 --> 00:05:16,360
+wanted to, we have four parallel markets. Which one is the
+
+99
+00:05:12,600 --> 00:05:21,759
+parallel market? Commodity bonds,
+
+100
+00:05:16,360 --> 00:05:24,759
+Forex market, stock market, and equity market. If I wanted to
+
+101
+00:05:21,759 --> 00:05:27,800
+choose one of these markets to have a
+
+102
+00:05:24,759 --> 00:05:31,199
+fundamental analysis on
+
+103
+00:05:27,800 --> 00:05:36,600
+the other markets, it would be the bond market because it is a
+
+104
+00:05:31,199 --> 00:05:37,520
+very volatile market.  It is complete and gives us a lot of good signals
+
+105
+00:05:36,600 --> 00:05:41,880
+ 
+
+106
+00:05:37,520 --> 00:05:44,680
+that we can analyze other markets
+
+107
+00:05:41,880 --> 00:05:48,280
+with. Let's get to know each other about
+
+108
+00:05:44,680 --> 00:05:50,720
+bonds. This video
+
+109
+00:05:48,280 --> 00:05:53,639
+will have the most slides in this part. We
+
+110
+00:05:50,720 --> 00:05:56,080
+have about 220 slides. The topic is a bit
+
+111
+00:05:53,639 --> 00:05:59,160
+long. We have to see how long it takes.
+
+112
+00:05:56,080 --> 00:06:01,360
+If it is over an hour and a half, I will
+
+113
+00:05:59,160 --> 00:06:03,960
+probably divide the video into two parts, that is, the
+
+114
+00:06:01,360 --> 00:06:07,520
+bond section will be in two parts. Let's go ahead and
+
+115
+00:06:03,960 --> 00:06:12,240
+see what happens.
+
+116
+00:06:07,520 --> 00:06:16,520
+Well, guys, bonds. Let's see what my pen color is. Okay.
+
+117
+00:06:12,240 --> 00:06:20,560
+Bonds are a type of asset like any other
+
+118
+00:06:16,520 --> 00:06:22,840
+asset in the stock market. For example, when you
+
+119
+00:06:20,560 --> 00:06:26,319
+buy stocks, you have an asset.
+
+120
+00:06:22,840 --> 00:06:29,400
+Or, for example, commodities or global ounces are an asset. Bonds
+
+121
+00:06:26,319 --> 00:06:33,319
+
+122
+00:06:29,400 --> 00:06:35,960
+are a form of debt. Or, for example, I can say that
+
+123
+00:06:33,319 --> 00:06:38,080
+you do not receive a product in the form of
+
+124
+00:06:35,960 --> 00:06:40,560
+money that you pay. For example, you buy commodities, for
+
+125
+00:06:38,080 --> 00:06:44,120
+example, you buy gold. Now, let's leave the discussion of trading
+
+126
+00:06:40,560 --> 00:06:47,759
+aside. For example, you are working in the gold market.
+
+127
+00:06:44,120 --> 00:06:51,039
+Well, you have that gold as a physical thing.
+
+128
+00:06:47,759 --> 00:06:52,639
+Or, the stock market is a share of a
+
+129
+00:06:51,039 --> 00:06:57,120
+company
+
+130
+00:06:52,639 --> 00:07:02,039
+that you  You share in the profits and losses.
+
+131
+00:06:57,120 --> 00:07:07,919
+Bonds are a type of debt. What does debt mean?
+
+132
+00:07:02,039 --> 00:07:12,879
+We have a borrower and a
+
+133
+00:07:07,919 --> 00:07:16,240
+lender. The borrower issues debt. For example, let me
+
+134
+00:07:12,879 --> 00:07:19,120
+tell you
+
+135
+00:07:16,240 --> 00:07:21,240
+that I want to run a project,
+
+136
+00:07:19,120 --> 00:07:24,639
+start a project, I need a
+
+137
+00:07:21,240 --> 00:07:27,680
+billion dollars in capital, and I want to
+
+138
+00:07:24,639 --> 00:07:32,039
+finance it. I want to borrow a billion dollars,
+
+139
+00:07:27,680 --> 00:07:37,520
+and I give the people who lend me
+
+140
+00:07:32,039 --> 00:07:42,840
+interest, say, 5 percent a year. This is what I do, I issue
+
+141
+00:07:37,520 --> 00:07:45,680
+debt.
+
+142
+00:07:42,840 --> 00:07:49,240
+We call this contract a bond. The
+
+143
+00:07:45,680 --> 00:07:51,400
+contract, as I
+
+144
+00:07:49,240 --> 00:07:57,599
+told you, is between
+
+145
+00:07:51,400 --> 00:08:01,280
+a borrower, a borrower, and an
+
+146
+00:07:57,599 --> 00:08:07,240
+investor. Look at the picture here.
+
+147
+00:08:01,280 --> 00:08:10,919
+Here we have a bond auction for the purpose of financing liquidity.
+
+148
+00:08:07,240 --> 00:08:13,159
+
+149
+00:08:10,919 --> 00:08:16,520
+Here I wrote who can
+
+150
+00:08:13,159 --> 00:08:19,759
+auction bonds. Governments, companies, institutions,
+
+151
+00:08:16,520 --> 00:08:22,919
+banks, or anyone who has a little credit.
+
+152
+00:08:19,759 --> 00:08:25,840
+Businesses, startups, all of
+
+153
+00:08:22,919 --> 00:08:30,520
+these can issue bonds,
+
+154
+00:08:25,840 --> 00:08:34,360
+issue debt, debtors.  Let me do a financing
+
+155
+00:08:30,520 --> 00:08:38,080
+and a debt is created here, which we call the
+
+156
+00:08:34,360 --> 00:08:43,240
+name of that contract, bonds.
+
+157
+00:08:38,080 --> 00:08:47,000
+So these are issued on the left side among the bonds. There
+
+158
+00:08:43,240 --> 00:08:51,240
+is a sheet that says, "
+
+159
+00:08:47,000 --> 00:08:54,080
+Sir, you bought the debt of so-and-so."
+
+160
+00:08:51,240 --> 00:08:58,360
+They issue this. The investor pays money and
+
+161
+00:08:54,080 --> 00:09:00,640
+gets this sheet. For the investor, this is accompanied by a fixed interest.
+
+162
+00:08:58,360 --> 00:09:03,720
+This is accompanied by this contract.
+
+163
+00:09:00,640 --> 00:09:07,839
+And for the person who auctions the bonds,
+
+164
+00:09:03,720 --> 00:09:12,839
+for example, governments that
+
+165
+00:09:07,839 --> 00:09:16,200
+obtain their budget deficits through bond auctions.
+
+166
+00:09:12,839 --> 00:09:19,240
+
+167
+00:09:16,200 --> 00:09:22,560
+We also provide financing and liquidity for governments, companies, institutions,
+
+168
+00:09:19,240 --> 00:09:26,600
+that is, with the aim of financing and providing liquidity, they sell
+
+169
+00:09:22,560 --> 00:09:31,680
+their debt and issue bonds.
+
+170
+00:09:26,600 --> 00:09:35,320
+Investors also participate in this
+
+171
+00:09:31,680 --> 00:09:37,000
+investment with the aim of being
+
+172
+00:09:35,320 --> 00:09:41,360
+ 
+
+173
+00:09:37,000 --> 00:09:45,120
+able to get a fixed interest. So now, every sheet of bonds that
+
+174
+00:09:41,360 --> 00:09:47,600
+we mentioned is issued by governments, companies, institutions,
+
+175
+00:09:45,120 --> 00:09:49,720
+banks, or anyone who has credit in the economy.
+
+176
+00:09:47,600 --> 00:09:52,200
+
+177
+00:09:49,720 --> 00:09:55,760
+You know, you can trust them in some way.
+
+178
+00:09:52,200 --> 00:09:58,560
+For example, if you pass a person on the street, a
+
+179
+00:09:55,760 --> 00:10:00,720
+person comes up to you.  Say, "I want to issue bonds," no
+
+180
+00:09:58,560 --> 00:10:03,079
+one wants to because no one trusts them.
+
+181
+00:10:00,720 --> 00:10:06,680
+But when the government says, "I want to
+
+182
+00:10:03,079 --> 00:10:08,800
+auction or give bonds," come buy them. Well, it can do that
+
+183
+00:10:06,680 --> 00:10:12,480
+because it
+
+184
+00:10:08,800 --> 00:10:15,079
+has credibility. After all, it's the government. Now, each bond
+
+185
+00:10:12,480 --> 00:10:17,720
+that I brought here
+
+186
+00:10:15,079 --> 00:10:23,760
+
+187
+00:10:17,720 --> 00:10:23,760
+has several characteristics, or how many can you say, that
+
+188
+00:10:23,839 --> 00:10:34,079
+are in the identity card of the bond. It's kind of like a
+
+189
+00:10:28,040 --> 00:10:37,920
+face value, capon rate, cap rate, and
+
+190
+00:10:34,079 --> 00:10:40,760
+more. Now, I've explained the English terms, and I've brought you the
+
+191
+00:10:37,920 --> 00:10:44,040
+Persian terms here. Face
+
+192
+00:10:40,760 --> 00:10:47,720
+means nominal price. What does nominal price mean? It means
+
+193
+00:10:44,040 --> 00:10:51,079
+the value of the bond at the end of the maturity date.
+
+194
+00:10:47,720 --> 00:10:56,040
+For example, you say you have a bond.
+
+195
+00:10:51,079 --> 00:11:00,480
+Here, you get a thousand dollars from the US government. You
+
+196
+00:10:56,040 --> 00:11:03,040
+buy these bonds at the end of the maturity date.
+
+197
+00:11:00,480 --> 00:11:07,320
+Now, we need to explain the maturity date here. The
+
+198
+00:11:03,040 --> 00:11:11,320
+maturity date of the bond is the maturity date. It means that
+
+199
+00:11:07,320 --> 00:11:15,320
+the government is obligated to return the principal of your money on that date.
+
+200
+00:11:11,320 --> 00:11:18,800
+We have an interest rate. We have a
+
+201
+00:11:15,320 --> 00:11:20,320
+nominal price. The nominal price is the principal of the money.
+
+202
+00:11:18,800 --> 00:11:25,399
+That means it
+
+203
+00:11:20,320 --> 00:11:28,639
+can be said that it is the amount that the government
+
+204
+00:11:25,399 --> 00:11:32,160
+returns to you at the end. It takes your money and
+
+205
+00:11:28,639 --> 00:11:34,399
+gives it to you, for example.  After 10 years, it will give you
+
+206
+00:11:32,160 --> 00:11:38,800
+your money back. In these 10 years, it will give you interest. The
+
+207
+00:11:34,399 --> 00:11:41,680
+interest rate or capon rate is the annual interest rate of the
+
+208
+00:11:38,800 --> 00:11:44,720
+bond.
+
+209
+00:11:41,680 --> 00:11:47,800
+Usually, the interest rates that exist in the bond market
+
+210
+00:11:44,720 --> 00:11:52,760
+show the annual interest.
+
+211
+00:11:47,800 --> 00:11:57,120
+For example, if we have a 100% interest, this is the
+
+212
+00:11:52,760 --> 00:11:59,440
+annual interest, meaning that you make 3% profit per year.
+
+213
+00:11:57,120 --> 00:12:02,560
+Now you can divide by 12 to
+
+214
+00:11:59,440 --> 00:12:06,480
+get the monthly interest. For example, if a bond somewhere
+
+215
+00:12:02,560 --> 00:12:10,720
+has a 10% interest, this is the
+
+216
+00:12:06,480 --> 00:12:14,839
+10% interest for the year. The annual interest rate is also the
+
+217
+00:12:10,720 --> 00:12:18,639
+cap rate and the interest repayment date,
+
+218
+00:12:14,839 --> 00:12:22,519
+meaning when the government
+
+219
+00:12:18,639 --> 00:12:26,959
+will pay you the interest. For example, we said
+
+220
+00:12:22,519 --> 00:12:30,839
+30/5, which is the interest payment due date here. The
+
+221
+00:12:26,959 --> 00:12:35,480
+interest payment due date, which is usually
+
+222
+00:12:30,839 --> 00:12:40,240
+once every 6 months in developed economies, they
+
+223
+00:12:35,480 --> 00:12:42,839
+pay interest, meaning the annual interest.
+
+224
+00:12:40,240 --> 00:12:46,480
+Whatever it is, for example, they pay half of it in the first 6 months, and half in the
+
+225
+00:12:42,839 --> 00:12:50,760
+second 6 months. We have the bond maturity date, which we
+
+226
+00:12:46,480 --> 00:12:53,279
+said is the end of that date, for example, 10 years. So
+
+227
+00:12:50,760 --> 00:12:56,160
+the maturity of a 10-year bond means that you
+
+228
+00:12:53,279 --> 00:12:59,560
+give your money to the government today, 10 years later, you
+
+229
+00:12:56,160 --> 00:13:01,920
+will receive your principal, the principal, and
+
+230
+00:12:59,560 --> 00:13:04,760
+now, for example, this is the maturity date.  Bonds
+
+231
+00:13:01,920 --> 00:13:07,880
+mean that you will receive your principal after 2 years, let's say
+
+232
+00:13:04,760 --> 00:13:10,920
+one year, that is, after
+
+233
+00:13:07,880 --> 00:13:14,480
+one year you will receive your principal.
+
+234
+00:13:10,920 --> 00:13:17,680
+During this period, you will also receive your profit. The
+
+235
+00:13:14,480 --> 00:13:23,600
+auction price of bonds is the initial price that is
+
+236
+00:13:17,680 --> 00:13:27,320
+determined at the auction. Guys, there are different types. We
+
+237
+00:13:23,600 --> 00:13:31,399
+can say that we have this discussion of profitability in bonds,
+
+238
+00:13:27,320 --> 00:13:34,600
+meaning that interest is paid in different forms.
+
+239
+00:13:31,399 --> 00:13:37,560
+For example, one comes and pays in 6 months, and another
+
+240
+00:13:34,600 --> 00:13:40,560
+
+241
+00:13:37,560 --> 00:13:43,240
+sells the bonds at a discount to you on the bond itself. For example, in
+
+242
+00:13:40,560 --> 00:13:47,360
+Iran, for example, you buy a bond that is
+
+243
+00:13:43,240 --> 00:13:50,240
+worth 1 billion, the price is called the
+
+244
+00:13:47,360 --> 00:13:54,440
+price you pay at the auction,
+
+245
+00:13:50,240 --> 00:13:56,959
+for example, 920 million, and at the end of the period, for example,
+
+246
+00:13:54,440 --> 00:14:00,600
+after 3 years or 4 years, you will receive 1 billion. The
+
+247
+00:13:56,959 --> 00:14:03,279
+difference is this difference of 920 million
+
+248
+00:14:00,600 --> 00:14:05,720
+to 1 billion. Your profit amount, so it
+
+249
+00:14:03,279 --> 00:14:09,880
+has different forms, but it is not very different from each other.
+
+250
+00:14:05,720 --> 00:14:13,800
+We know the
+
+251
+00:14:09,880 --> 00:14:16,680
+annual interest rate of bonds with this capon rate.
+
+252
+00:14:13,800 --> 00:14:21,880
+So let's go to the
+
+253
+00:14:16,680 --> 00:14:23,360
+next slide. So, a bond from
+
+254
+00:14:21,880 --> 00:14:29,920
+ 
+
+255
+00:14:23,360 --> 00:14:32,399
+a government agency.  The company's institution is
+
+256
+00:14:29,920 --> 00:14:35,199
+put up for auction and investors
+
+257
+00:14:32,399 --> 00:14:38,240
+buy these bonds, which we said has a series of
+
+258
+00:14:35,199 --> 00:14:41,399
+features, it has a maturity, meaning that after a
+
+259
+00:14:38,240 --> 00:14:45,880
+few years I will give you your money, the annual interest rate is
+
+260
+00:14:41,399 --> 00:14:50,680
+specified, after which how
+
+261
+00:14:45,880 --> 00:14:56,000
+much interest will they give you every year and the price is specified.
+
+262
+00:14:50,680 --> 00:15:00,560
+Now you have this initial auction of bonds here, those
+
+263
+00:14:56,000 --> 00:15:05,320
+bonds are formed, this can be said to be a form
+
+264
+00:15:00,560 --> 00:15:09,279
+of debt, and it comes to the
+
+265
+00:15:05,320 --> 00:15:12,560
+secondary market. What does the secondary market mean? Who is
+
+266
+00:15:09,279 --> 00:15:15,880
+this market made up of? Those who
+
+267
+00:15:12,560 --> 00:15:19,680
+have bonds and are
+
+268
+00:15:15,880 --> 00:15:23,120
+buying and selling these bonds. Like stocks, you
+
+269
+00:15:19,680 --> 00:15:26,320
+have an initial offer in stocks, you see a certain amount of money, you buy the shares of
+
+270
+00:15:23,120 --> 00:15:30,600
+a company, then you can
+
+271
+00:15:26,320 --> 00:15:33,240
+buy and sell these shares in the stock market,
+
+272
+00:15:30,600 --> 00:15:35,560
+like our own market, the Iranian Stock Exchange.
+
+273
+00:15:33,240 --> 00:15:38,160
+You can buy and sell stocks,
+
+274
+00:15:35,560 --> 00:15:40,759
+meaning that one day you sell the shares for some reason and then
+
+275
+00:15:38,160 --> 00:15:42,680
+buy them again, for example, a month later. That's
+
+276
+00:15:40,759 --> 00:15:47,600
+how we call this market the
+
+277
+00:15:42,680 --> 00:15:52,040
+secondary market for bonds.  A market where
+
+278
+00:15:47,600 --> 00:15:56,480
+bondholders can buy and sell the
+
+279
+00:15:52,040 --> 00:15:59,880
+bonds they own. So
+
+280
+00:15:56,480 --> 00:16:05,720
+bonds come into the market
+
+281
+00:15:59,880 --> 00:16:09,600
+and in this market their price increases or decreases.
+
+282
+00:16:05,720 --> 00:16:12,720
+In the market, we have an increase in price with an increase in demand and a
+
+283
+00:16:09,600 --> 00:16:14,279
+
+284
+00:16:12,720 --> 00:16:17,720
+ 
+
+285
+00:16:14,279 --> 00:16:22,120
+decrease in price with a decrease in demand. And this
+
+286
+00:16:17,720 --> 00:16:27,399
+increase, increase or decrease in the price of bonds
+
+287
+00:16:22,120 --> 00:16:30,120
+causes the profit that the next person
+
+288
+00:16:27,399 --> 00:16:33,120
+gets to be different. Now let's go
+
+289
+00:16:30,120 --> 00:16:34,920
+ahead and explain to you how to see it. We
+
+290
+00:16:33,120 --> 00:16:39,240
+
+291
+00:16:34,920 --> 00:16:44,199
+said that each bond has a nominal price, an
+
+292
+00:16:39,240 --> 00:16:47,279
+annual interest rate and a maturity. For example,
+
+293
+00:16:44,199 --> 00:16:51,720
+here we have a bond that is $1,000. Its
+
+294
+00:16:47,279 --> 00:16:53,240
+nominal price gives you an annual interest of 6%. And
+
+295
+00:16:51,720 --> 00:16:57,800
+after 10 years,
+
+296
+00:16:53,240 --> 00:16:59,399
+you get your principal, that is, $1,000.
+
+297
+00:16:57,800 --> 00:17:02,880
+Now
+
+298
+00:16:59,399 --> 00:17:05,439
+this goes into the secondary market. These
+
+299
+00:17:02,880 --> 00:17:08,000
+bonds are, for example, put up for auction. This income,
+
+300
+00:17:05,439 --> 00:17:10,439
+these characteristics of these bonds, income,
+
+301
+00:17:08,000 --> 00:17:14,199
+this identity card of the bonds, this goes into the
+
+302
+00:17:10,439 --> 00:17:19,120
+secondary market and with the supply and demand that we
+
+303
+00:17:14,199 --> 00:17:23,160
+have for the bonds, its price changes.
+
+304
+00:17:19,120 --> 00:17:26,079
+We have the maturity.  Well, for
+
+305
+00:17:23,160 --> 00:17:29,120
+example, a person holds a bond for 5 years, then
+
+306
+00:17:26,079 --> 00:17:32,039
+sells it after 5 years. For example, if 5
+
+307
+00:17:29,120 --> 00:17:36,880
+years have passed since its maturity, this maturity will also
+
+308
+00:17:32,039 --> 00:17:41,240
+change. The interest rate that the next person, the
+
+309
+00:17:36,880 --> 00:17:44,600
+second buyer, the second holder of these bonds
+
+310
+00:17:41,240 --> 00:17:50,360
+receives, this is what changes, guys. Because
+
+311
+00:17:44,600 --> 00:17:53,480
+the price he paid is different from the first person, for
+
+312
+00:17:50,360 --> 00:17:56,799
+example, here
+
+313
+00:17:53,480 --> 00:17:59,799
+the price of the bonds has increased with the increase in demand, he paid $100 more,
+
+314
+00:17:56,799 --> 00:18:02,919
+and here, for example, he was able to
+
+315
+00:17:59,799 --> 00:18:06,640
+buy the bonds cheaper. Bonds with the same
+
+316
+00:18:02,919 --> 00:18:09,880
+characteristics that give him an annual interest of $6 on
+
+317
+00:18:06,640 --> 00:18:12,440
+$1,000, but you paid $9,000
+
+318
+00:18:09,880 --> 00:18:15,600
+for it. Here, you bought it cheaply.
+
+319
+00:18:12,440 --> 00:18:19,080
+This is a good option for
+
+320
+00:18:15,600 --> 00:18:23,760
+investors. Here, you bought it expensively and
+
+321
+00:18:19,080 --> 00:18:28,320
+paid $100 more, and since the
+
+322
+00:18:23,760 --> 00:18:30,760
+nominal price of the bonds is the same $1,000, it will
+
+323
+00:18:28,320 --> 00:18:35,400
+no longer give you more interest. For example,
+
+324
+00:18:30,760 --> 00:18:38,760
+the government will no longer calculate from $110, saying, "
+
+325
+00:18:35,400 --> 00:18:42,520
+I financed these bonds for $1,000, I will pay
+
+326
+00:18:38,760 --> 00:18:44,760
+interest on the $6,000, and I will calculate my interest on this $1,000.
+
+327
+00:18:42,520 --> 00:18:47,320
+You will not even consider this as 2,000."
+
+328
+00:18:44,760 --> 00:18:51,159
+Buy my dollar, it doesn't matter to the government, it
+
+329
+00:18:47,320 --> 00:18:55,400
+pays 6% interest annually, which is 660 dollars.
+
+330
+00:18:51,159 --> 00:18:59,360
+Where did the 60 dollars come from? 1000 dollars. So the
+
+331
+00:18:55,400 --> 00:19:03,480
+change in the price of bonds causes the
+
+332
+00:18:59,360 --> 00:19:08,280
+interest on bonds, which we call the YTD, to
+
+333
+00:19:03,480 --> 00:19:11,320
+change. YTD, kids, means the interest
+
+334
+00:19:08,280 --> 00:19:14,480
+you receive until maturity. Now
+
+335
+00:19:11,320 --> 00:19:18,000
+the formula is like this. How is YTD calculated? This is how we get it. We
+
+336
+00:19:14,480 --> 00:19:22,559
+
+337
+00:19:18,000 --> 00:19:27,159
+
+338
+00:19:22,559 --> 00:19:30,720
+add the annual interest plus the face value of the bond. The face value of the bond
+
+339
+00:19:27,159 --> 00:19:35,200
+is 1,000 dollars
+
+340
+00:19:30,720 --> 00:19:38,840
+minus the price, which is the price we paid for that
+
+341
+00:19:35,200 --> 00:19:41,360
+bond. Divide by the maturity, which means how
+
+342
+00:19:38,840 --> 00:19:44,720
+many years the bond has
+
+343
+00:19:41,360 --> 00:19:48,280
+left. We add this. Then
+
+344
+00:19:44,720 --> 00:19:52,120
+we add that interest, we add that interest rate, and divide
+
+345
+00:19:48,280 --> 00:19:55,799
+by the face value again plus the price. Divide
+
+346
+00:19:52,120 --> 00:19:59,159
+by two to get a single number.
+
+347
+00:19:55,799 --> 00:20:02,760
+Here, for example, look, in my example, I
+
+348
+00:19:59,159 --> 00:20:06,120
+brought 9900. I brought 900. For someone who
+
+349
+00:20:02,760 --> 00:20:09,520
+paid 900 dollars for these bonds, the
+
+350
+00:20:06,120 --> 00:20:14,200
+example is related to these calculations for
+
+351
+00:20:09,520 --> 00:20:18,480
+someone who paid 900 dollars for these bonds.
+
+352
+00:20:14,200 --> 00:20:23,320
+Finally, in the year of these bonds,  7 and
+
+353
+00:20:18,480 --> 00:20:26,640
+14ths has a profit and this is greater than 6 ten means the
+
+354
+00:20:23,320 --> 00:20:30,960
+first person why because this person bought the bonds cheaply
+
+355
+00:20:26,640 --> 00:20:35,159
+he bought the bonds in the foreign currency so
+
+356
+00:20:30,960 --> 00:20:39,360
+what happened guys because this person bought the bonds cheaply he has
+
+357
+00:20:35,159 --> 00:20:42,360
+more profit per year he has 7 and 14ths
+
+358
+00:20:39,360 --> 00:20:45,480
+has a profit and this is the calculation now I
+
+359
+00:20:42,360 --> 00:20:48,360
+don't want you to learn this formula or in any
+
+360
+00:20:45,480 --> 00:20:50,960
+way because we have interest rates per year on the
+
+361
+00:20:48,360 --> 00:20:54,000
+YTL in the market every day it is calculated I
+
+362
+00:20:50,960 --> 00:20:56,960
+just want you to see what is behind the story
+
+363
+00:20:54,000 --> 00:20:56,960
+and how
+
+364
+00:20:57,080 --> 00:21:04,840
+that YTL is obtained so what happened what happened the
+
+365
+00:21:01,240 --> 00:21:07,799
+person who bought the
+
+366
+00:21:04,840 --> 00:21:09,880
+bonds cheaply gets more profit and the person who
+
+367
+00:21:07,799 --> 00:21:13,640
+bought it expensive if we do these calculations for the
+
+368
+00:21:09,880 --> 00:21:15,200
+same his interest rate is lower than 6
+
+369
+00:21:13,640 --> 00:21:19,520
+ 
+
+370
+00:21:15,200 --> 00:21:22,000
+so if the price of the bonds increases
+
+371
+00:21:19,520 --> 00:21:24,799
+if the price of the bonds increases that is
+
+372
+00:21:22,000 --> 00:21:28,000
+this scenario means we have
+
+373
+00:21:24,799 --> 00:21:31,240
+$1000 Moon Face Value bonds in the
+
+374
+00:21:28,000 --> 00:21:35,400
+secondary market for $1100 someone paid for it if
+
+375
+00:21:31,240 --> 00:21:37,880
+the price increases the YTL in
+
+376
+00:21:35,400 --> 00:21:41,440
+Mauritius will get
+
+377
+00:21:37,880 --> 00:21:46,039
+less which here will be less than
+
+378
+00:21:41,440 --> 00:21:48,960
+6 so if the price of the bonds decreases for
+
+379
+00:21:46,039 --> 00:21:52,600
+example  The second is and the calculations we
+
+380
+00:21:48,960 --> 00:21:56,520
+have here are if the price of the bond decreases, the yield to
+
+381
+00:21:52,600 --> 00:21:58,960
+maturity increases or the annual interest rate of the
+
+382
+00:21:56,520 --> 00:22:01,120
+bond increases which is here and the
+
+383
+00:21:58,960 --> 00:22:08,559
+fourteenth is greater than
+
+384
+00:22:01,120 --> 00:22:11,799
+6. This is the relationship between the price and the interest rate of the bond. If the
+
+385
+00:22:08,559 --> 00:22:15,159
+price goes up, the interest rate
+
+386
+00:22:11,799 --> 00:22:19,080
+goes down, the interest rate of the bond increases. We have this relationship
+
+387
+00:22:15,159 --> 00:22:21,240
+here and we have understood
+
+388
+00:22:19,080 --> 00:22:25,480
+how it is obtained. Let me explain once again. The
+
+389
+00:22:21,240 --> 00:22:29,640
+price in the secondary market changes
+
+390
+00:22:25,480 --> 00:22:33,039
+if the price changes, it
+
+391
+00:22:29,640 --> 00:22:36,159
+affects the second party's profit. If the price in the
+
+392
+00:22:33,039 --> 00:22:38,240
+secondary market is higher than the nominal value, that is,
+
+393
+00:22:36,159 --> 00:22:40,720
+higher than, for example, $100, the price has
+
+394
+00:22:38,240 --> 00:22:43,840
+increased, the yield to maturity decreases, the
+
+395
+00:22:40,720 --> 00:22:47,760
+profit amount decreases. If the price has
+
+396
+00:22:43,840 --> 00:22:50,880
+decreased, the profit amount increases.
+
+397
+00:22:47,760 --> 00:22:53,200
+Now there is one point. We have understood here
+
+398
+00:22:50,880 --> 00:22:56,520
+
+399
+00:22:53,200 --> 00:23:01,480
+
+400
+00:22:56,520 --> 00:23:06,200
+what the relationship between the price of bonds and the yield is. Now an important point is that
+
+401
+00:23:01,480 --> 00:23:10,080
+in the bond market, traders
+
+402
+00:23:06,200 --> 00:23:14,480
+
+403
+00:23:10,080 --> 00:23:17,159
+also calculate the price of bonds and there is one way to make a profit
+
+404
+00:23:14,480 --> 00:23:20,960
+which I have brought here, making a profit from
+
+405
+00:23:17,159 --> 00:23:24,159
+changes in the price of bonds.  What does it
+
+406
+00:23:20,960 --> 00:23:28,159
+mean to be possible? I buy a bond in the market
+
+407
+00:23:24,159 --> 00:23:30,240
+for example, $1000. I know that in 6 months
+
+408
+00:23:28,159 --> 00:23:34,559
+it will be
+
+409
+00:23:30,240 --> 00:23:37,799
+$110. Because of the increase in price, I buy this. In
+
+410
+00:23:34,559 --> 00:23:41,679
+6 months I sell it and make a profit of $100.
+
+411
+00:23:37,799 --> 00:23:44,960
+So see, in the bond market,
+
+412
+00:23:41,679 --> 00:23:48,159
+not everything is about the annual interest rate, which is a safe
+
+413
+00:23:44,960 --> 00:23:51,840
+and good interest. There is
+
+414
+00:23:48,159 --> 00:23:56,480
+no risk. The price is also a criterion. In the short
+
+415
+00:23:51,840 --> 00:23:58,679
+term, traders mostly
+
+416
+00:23:56,480 --> 00:24:01,640
+follow the changes in bond prices. They follow that interest,
+
+417
+00:23:58,679 --> 00:24:01,640
+for example, 5
+
+418
+00:24:01,720 --> 00:24:09,000
+in 3 months or 10. The change that the
+
+419
+00:24:06,039 --> 00:24:13,559
+price creates and makes a profit. For example,
+
+420
+00:24:09,000 --> 00:24:18,960
+the price of a bond has increased and it
+
+421
+00:24:13,559 --> 00:24:22,400
+is the trader's profit. So the price
+
+422
+00:24:18,960 --> 00:24:24,120
+itself is one of the important factors for the
+
+423
+00:24:22,400 --> 00:24:28,440
+trader. You
+
+424
+00:24:24,120 --> 00:24:34,080
+put it here. You are here in the image.
+
+425
+00:24:28,440 --> 00:24:34,080
+
+426
+00:24:35,399 --> 00:24:44,440
+How do you look at the relationship between bond prices and bond yields? We came to the inverse. We
+
+427
+00:24:40,480 --> 00:24:49,360
+said in the previous slide, what did we say that
+
+428
+00:24:44,440 --> 00:24:52,799
+bond prices have an inverse relationship with bond yields.
+
+429
+00:24:49,360 --> 00:24:55,520
+Here we got the result. Here,
+
+430
+00:24:52,799 --> 00:24:58,080
+if the price goes up, the yield goes down. If the price
+
+431
+00:24:55,520 --> 00:25:00,080
+goes down, the yield goes up.  And
+
+432
+00:24:58,080 --> 00:25:04,039
+here you see the chart. Here
+
+433
+00:25:00,080 --> 00:25:09,360
+you have the yield on the 10-year US Treasury note
+
+434
+00:25:04,039 --> 00:25:11,840
+and the price of US bonds. And you see that
+
+435
+00:25:09,360 --> 00:25:16,360
+if the price goes up, the yield decreases.
+
+436
+00:25:11,840 --> 00:25:19,000
+If the price goes down, the yield increases. Keep
+
+437
+00:25:16,360 --> 00:25:21,360
+this in mind because this structure that
+
+438
+00:25:19,000 --> 00:25:24,520
+exists in the bond market
+
+439
+00:25:21,360 --> 00:25:28,760
+is a prerequisite for our next topic. That is, we
+
+440
+00:25:24,520 --> 00:25:32,679
+need to know that the price is inversely related to the correlation of the yield
+
+441
+00:25:28,760 --> 00:25:35,320
+and the price, well, the demand
+
+442
+00:25:32,679 --> 00:25:37,320
+affects it. If the price goes up,
+
+443
+00:25:35,320 --> 00:25:41,080
+this shows that the demand for the bond has increased
+
+444
+00:25:37,320 --> 00:25:44,559
+and this shows that the yield
+
+445
+00:25:41,080 --> 00:25:47,039
+is decreasing. Now, we know that bonds are
+
+446
+00:25:44,559 --> 00:25:51,279
+a safe asset in the
+
+447
+00:25:47,039 --> 00:25:54,200
+market. Why now, I will explain to you the advantages
+
+448
+00:25:51,279 --> 00:25:58,279
+and disadvantages of a bond here.
+
+449
+00:25:54,200 --> 00:26:01,000
+One of its advantages is that
+
+450
+00:25:58,279 --> 00:26:06,080
+we have a guaranteed payment of a set interest for the bond. For
+
+451
+00:26:01,000 --> 00:26:09,000
+example, if you participate in a
+
+452
+00:26:06,080 --> 00:26:11,840
+bond auction and, for example, buy US government debt,
+
+453
+00:26:09,000 --> 00:26:15,399
+your bond has an annual interest of 100, you will
+
+454
+00:26:11,840 --> 00:26:21,480
+receive this 10.
+
+455
+00:26:15,399 --> 00:26:25,039
+Nothing changes this. A safe fixed interest.  There are
+
+456
+00:26:21,480 --> 00:26:29,279
+bonds up until
+
+457
+00:26:25,039 --> 00:26:32,000
+now, until the maturity of the bonds, if you
+
+458
+00:26:29,279 --> 00:26:35,279
+hold the bonds, you get your principal back. Again, this is
+
+459
+00:26:32,000 --> 00:26:39,679
+one of the advantages of bonds.
+
+460
+00:26:35,279 --> 00:26:43,440
+We have the advantages of bonds. We say that
+
+461
+00:26:39,679 --> 00:26:46,480
+if you hold them, for example, you buy a 10-year bond.
+
+462
+00:26:43,440 --> 00:26:49,120
+If you hold these bonds for 2 years, you will
+
+463
+00:26:46,480 --> 00:26:53,880
+receive your principal at the end of the maturity.
+
+464
+00:26:49,120 --> 00:26:57,279
+And this is also another point and an advantage because
+
+465
+00:26:53,880 --> 00:27:01,279
+your principal does not decrease or increase.
+
+466
+00:26:57,279 --> 00:27:03,440
+
+467
+00:27:01,279 --> 00:27:07,480
+But for example, stocks are
+
+468
+00:27:03,440 --> 00:27:10,559
+not like this. If you buy stocks, it is possible that the price of your stock may
+
+469
+00:27:07,480 --> 00:27:13,640
+decrease, its value may decrease, but
+
+470
+00:27:10,559 --> 00:27:16,000
+bonds are not like this. You get your money back
+
+471
+00:27:13,640 --> 00:27:20,080
+at the end of the maturity.
+
+472
+00:27:16,000 --> 00:27:22,880
+Now, in the event of bankruptcy, the third point is that
+
+473
+00:27:20,080 --> 00:27:26,360
+in the event of bankruptcy, the bondholders' accounts are first
+
+474
+00:27:22,880 --> 00:27:29,240
+examined. Let's assume, for
+
+475
+00:27:26,360 --> 00:27:32,200
+example, that Apple wants to do financing.
+
+476
+00:27:29,240 --> 00:27:35,399
+One comes from two sources: it
+
+477
+00:27:32,200 --> 00:27:39,039
+sells stocks and two
+
+478
+00:27:35,399 --> 00:27:42,360
+bonds. So we said, what does Apple want to do financing?
+
+479
+00:27:39,039 --> 00:27:46,760
+For example, it
+
+480
+00:27:42,360 --> 00:27:50,679
+wants to raise money for the iPhone 16. For the development of, for example,
+
+481
+00:27:46,760 --> 00:27:52,600
+a  The iPhone 16 project, for example,
+
+482
+00:27:50,679 --> 00:27:56,039
+can
+
+483
+00:27:52,600 --> 00:28:00,360
+raise money in two ways: one is to
+
+484
+00:27:56,039 --> 00:28:03,480
+sell its shares, and the other is to issue
+
+485
+00:28:00,360 --> 00:28:07,200
+bonds.
+
+486
+00:28:03,480 --> 00:28:09,840
+Issuing bonds means becoming indebted to the investor,
+
+487
+00:28:07,200 --> 00:28:13,440
+which we said must be paid off. The interest
+
+488
+00:28:09,840 --> 00:28:16,679
+must be paid off. It is completely safe.
+
+489
+00:28:13,440 --> 00:28:19,559
+But if it issues shares, then the person who
+
+490
+00:28:16,679 --> 00:28:23,840
+invested can be said to
+
+491
+00:28:19,559 --> 00:28:27,559
+own a small part of Apple now and
+
+492
+00:28:23,840 --> 00:28:31,399
+share in Apple's profits and losses. When a
+
+493
+00:28:27,559 --> 00:28:35,640
+company goes bankrupt and the
+
+494
+00:28:31,399 --> 00:28:38,039
+accounts of investors and those who brought money are
+
+495
+00:28:35,640 --> 00:28:40,519
+examined, first they give the money to those who
+
+496
+00:28:38,039 --> 00:28:46,840
+
+497
+00:28:40,519 --> 00:28:49,799
+bought the bonds, that is, they lend it to this company. Well,
+
+498
+00:28:46,840 --> 00:28:52,559
+this is another advantage of bonds. The
+
+499
+00:28:49,799 --> 00:28:56,440
+fourth advantage is that it has very high liquidity
+
+500
+00:28:52,559 --> 00:28:59,200
+because it is a safe asset. We
+
+501
+00:28:56,440 --> 00:29:01,640
+have stability in the bond market, which means that there is a lot of bond market.
+
+502
+00:28:59,200 --> 00:29:05,480
+
+503
+00:29:01,640 --> 00:29:08,399
+Guys, nothing threatens it like the stock market.
+
+504
+00:29:05,480 --> 00:29:12,960
+Here's what I'm telling you: everything is
+
+505
+00:29:08,399 --> 00:29:14,880
+relative. Well, for example, we don't have any assets. Now
+
+506
+00:29:12,960 --> 00:29:17,840
+let me explain this to you later.
+
+507
+00:29:14,880 --> 00:29:20,519
+Let's look at the disadvantages. First, let me say that the disadvantages are that
+
+508
+00:29:17,840 --> 00:29:23,960
+bonds have a lower return than other assets. They
+
+509
+00:29:20,519 --> 00:29:26,000
+
+510
+00:29:23,960 --> 00:29:29,919
+have a lower return than other assets
+
+511
+00:29:26,000 --> 00:29:34,600
+because, well, you know, the lower the risk, the lower the return, the
+
+512
+00:29:29,919 --> 00:29:37,840
+lower the risk, the lower the return.
+
+513
+00:29:34,600 --> 00:29:40,480
+If the company does well, the shareholder of a company
+
+514
+00:29:37,840 --> 00:29:43,240
+has more profit, but of course if it makes a loss, he will
+
+515
+00:29:40,480 --> 00:29:47,039
+suffer more loss. But the person who
+
+516
+00:29:43,240 --> 00:29:50,440
+has bonds has less profit, but he also has less risk.
+
+517
+00:29:47,039 --> 00:29:53,880
+And another disadvantage is that there is a possibility of
+
+518
+00:29:50,440 --> 00:29:56,919
+bankruptcy and default, meaning that the
+
+519
+00:29:53,880 --> 00:30:00,279
+person who borrowed money and
+
+520
+00:29:56,919 --> 00:30:01,200
+issued bonds cannot
+
+521
+00:30:00,279 --> 00:30:05,600
+ 
+
+522
+00:30:01,200 --> 00:30:08,399
+pay the principal to the bondholder. Now,
+
+523
+00:30:05,600 --> 00:30:12,200
+the point I wanted to mention here is that
+
+524
+00:30:08,399 --> 00:30:15,799
+bonds, like
+
+525
+00:30:12,200 --> 00:30:20,919
+any other asset, have risks. What is the risk of
+
+526
+00:30:15,799 --> 00:30:24,399
+that company going bankrupt, but they
+
+527
+00:30:20,919 --> 00:30:26,919
+have less risk than other assets. I mean, as we
+
+528
+00:30:24,399 --> 00:30:29,880
+said, one of the things we said is that
+
+529
+00:30:26,919 --> 00:30:31,360
+in the event of bankruptcy, they first give money to the people
+
+530
+00:30:29,880 --> 00:30:35,720
+who
+
+531
+00:30:31,360 --> 00:30:38,440
+have bonds, and then they go to the shareholders. Now, they
+
+532
+00:30:35,720 --> 00:30:43,240
+calculate the losses and losses.  They do,
+
+533
+00:30:38,440 --> 00:30:47,080
+and it is because in
+
+534
+00:30:43,240 --> 00:30:51,399
+financial markets, bonds are known as a safe asset,
+
+535
+00:30:47,080 --> 00:30:53,679
+and in times of fear or risk,
+
+536
+00:30:51,399 --> 00:30:54,399
+the demand for this asset increases.
+
+537
+00:30:53,679 --> 00:30:56,000
+ 
+
+538
+00:30:54,399 --> 00:30:59,919
+We
+
+539
+00:30:56,000 --> 00:31:03,000
+came to invite you to the sentiment topic.
+
+540
+00:30:59,919 --> 00:31:06,760
+
+541
+00:31:03,000 --> 00:31:10,279
+We explained this in the sentiment topic.
+
+542
+00:31:06,760 --> 00:31:13,159
+We explained this again that when fear
+
+543
+00:31:10,279 --> 00:31:17,159
+arises, investors
+
+544
+00:31:13,159 --> 00:31:20,240
+move towards safe assets, which means
+
+545
+00:31:17,159 --> 00:31:22,440
+that the demand for safe assets
+
+546
+00:31:20,240 --> 00:31:25,080
+increases and their prices increase.  It increases
+
+547
+00:31:22,440 --> 00:31:27,880
+that one of those assets
+
+548
+00:31:25,080 --> 00:31:27,880
+was bonds.
+
+549
+00:31:28,200 --> 00:31:34,799
+In times of risk-off, capital flows towards these assets,
+
+550
+00:31:31,039 --> 00:31:40,840
+one of which is
+
+551
+00:31:34,799 --> 00:31:45,159
+bonds. So here we understand
+
+552
+00:31:40,840 --> 00:31:48,519
+why bonds are safe and why when we
+
+553
+00:31:45,159 --> 00:31:52,799
+
+554
+00:31:48,519 --> 00:31:55,760
+have fear in the financial markets, investors move towards this asset.
+
+555
+00:31:52,799 --> 00:31:59,559
+So when the risk is off,
+
+556
+00:31:55,760 --> 00:32:01,960
+that is, when we have traditional
+
+557
+00:31:59,559 --> 00:32:03,960
+risk-off, we have risk aversion,
+
+558
+00:32:01,960 --> 00:32:07,559
+ 
+
+559
+00:32:03,960 --> 00:32:10,559
+the price of bonds goes up, the demand for them
+
+560
+00:32:07,559 --> 00:32:13,440
+goes up, and the yield on bonds decreases. When
+
+561
+00:32:10,559 --> 00:32:16,240
+we have that risk, we have risk-taking, the
+
+562
+00:32:13,440 --> 00:32:20,039
+price goes down,
+
+563
+00:32:16,240 --> 00:32:24,720
+and the yield on bonds increases. This is the
+
+564
+00:32:20,039 --> 00:32:28,799
+effect of sentiment on the price and yield of bonds.
+
+565
+00:32:24,720 --> 00:32:33,000
+So bonds are safe because they
+
+566
+00:32:28,799 --> 00:32:35,760
+have less risk than other assets. And
+
+567
+00:32:33,000 --> 00:32:39,679
+when fear or risk aversion
+
+568
+00:32:35,760 --> 00:32:41,240
+occurs in the financial markets, capital flows towards them.
+
+569
+00:32:39,679 --> 00:32:44,120
+So let's go to the
+
+570
+00:32:41,240 --> 00:32:49,080
+next slide
+
+571
+00:32:44,120 --> 00:32:49,080
+and I invite you to
+
+572
+00:32:49,159 --> 00:32:55,840
+continue the discussion.
+
+573
+00:32:51,679 --> 00:32:59,840
+So
+
+574
+00:32:55,840 --> 00:32:59,840
+what did we say?
+
+575
+00:33:00,760 --> 00:33:06,360
+Safe bonds become risk-off,
+
+576
+00:33:04,159 --> 00:33:09,559
+which can be demanded.  It increases
+
+577
+00:33:06,360 --> 00:33:11,200
+and here I gave you an example.
+
+578
+00:33:09,559 --> 00:33:14,960
+You
+
+579
+00:33:11,200 --> 00:33:18,279
+
+580
+00:33:14,960 --> 00:33:20,240
+have the movement of the yield on the 10-year US bond, which we deal with a lot. The 10-year US bond is
+
+581
+00:33:18,279 --> 00:33:24,200
+one of our important factors in the
+
+582
+00:33:20,240 --> 00:33:27,480
+market. And different years, for example, 2019-2020,
+
+583
+00:33:24,200 --> 00:33:31,200
+when we had the financial crisis due to Covid,
+
+584
+00:33:27,480 --> 00:33:33,760
+excuse me, we had the recession due to Covid,
+
+585
+00:33:31,200 --> 00:33:38,159
+2008, the crisis of
+
+586
+00:33:33,760 --> 00:33:42,519
+2000, 2000, the technology bubble and the
+
+587
+00:33:38,159 --> 00:33:45,840
+relative recession that formed in the global economy.
+
+588
+00:33:42,519 --> 00:33:49,399
+The years that I have identified for you are the years
+
+589
+00:33:45,840 --> 00:33:52,440
+when the global economy was in trouble or we can
+
+590
+00:33:49,399 --> 00:33:55,720
+say we had a recession period and
+
+591
+00:33:52,440 --> 00:33:58,760
+what happened was when the recession
+
+592
+00:33:55,720 --> 00:34:01,840
+happened, the bond yields went down.
+
+593
+00:33:58,760 --> 00:34:06,200
+Look at the trends, the bond yields
+
+594
+00:34:01,840 --> 00:34:09,599
+went down. What did we say? Risk-off or recession is
+
+595
+00:34:06,200 --> 00:34:13,280
+equal to increasing demand for bonds. Increasing
+
+596
+00:34:09,599 --> 00:34:16,800
+demand causes the price to go up. Increasing
+
+597
+00:34:13,280 --> 00:34:20,919
+prices causes the yield to fall
+
+598
+00:34:16,800 --> 00:34:24,760
+or the bond yields to go down.
+
+599
+00:34:20,919 --> 00:34:27,679
+We also have the opposite side. After
+
+600
+00:34:24,760 --> 00:34:30,639
+recessions, there is a boom. This always happens. The boom-
+
+601
+00:34:27,679 --> 00:34:32,960
+recession boom is after we
+
+602
+00:34:30,639 --> 00:34:35,240
+come out of the recession, for example, in 2008.  You can see in 2020,
+
+603
+00:34:32,960 --> 00:34:39,320
+after the vaccine came
+
+604
+00:34:35,240 --> 00:34:42,879
+and the quarantines were lifted and what
+
+605
+00:34:39,320 --> 00:34:46,200
+happened, we had that risk. That risk
+
+606
+00:34:42,879 --> 00:34:48,919
+causes the demand for bonds to decrease, the
+
+607
+00:34:46,200 --> 00:34:53,359
+price of bonds to decrease. The decrease in bond prices
+
+608
+00:34:48,919 --> 00:34:53,359
+causes the yield to fall in Mauritius.
+
+609
+00:34:54,000 --> 00:34:59,960
+So that risk is
+
+610
+00:34:58,880 --> 00:35:05,720
+risk-off,
+
+611
+00:34:59,960 --> 00:35:11,320
+risk-taking, growth of bonds, risk-aversion, decline of
+
+612
+00:35:05,720 --> 00:35:15,880
+bonds. So this is about the movement that we
+
+613
+00:35:11,320 --> 00:35:21,200
+
+614
+00:35:15,880 --> 00:35:23,520
+have in the bond markets due to the change in economic conditions in the long term.
+
+615
+00:35:21,200 --> 00:35:26,640
+Now let's go
+
+616
+00:35:23,520 --> 00:35:29,640
+together. Okay, let's go.
+
+617
+00:35:26,640 --> 00:35:29,640
+ 
+
+618
+00:35:30,119 --> 00:35:34,160
+I think there's one slide left. Well,
+
+619
+00:35:36,079 --> 00:35:42,560
+these two slides have changed places. I
+
+620
+00:35:39,359 --> 00:35:46,400
+apologize. Now we want to go and see
+
+621
+00:35:42,560 --> 00:35:50,359
+what factors are effective in determining and
+
+622
+00:35:46,400 --> 00:35:52,839
+regulating the yield of bonds in the primary and
+
+623
+00:35:50,359 --> 00:35:55,920
+secondary markets. What does it mean, for example, when
+
+624
+00:35:52,839 --> 00:35:58,000
+these bonds are sold at
+
+625
+00:35:55,920 --> 00:36:00,800
+auction and
+
+626
+00:35:58,000 --> 00:36:03,839
+investors buy them? What
+
+627
+00:36:00,800 --> 00:36:06,720
+determines their yield? The investor
+
+628
+00:36:03,839 --> 00:36:10,359
+says, sir, if I want to lend you this much
+
+629
+00:36:06,720 --> 00:36:13,640
+annual interest, this much yield on bonds.  I want to know
+
+630
+00:36:10,359 --> 00:36:15,760
+what affects this
+
+631
+00:36:13,640 --> 00:36:19,079
+and how it is in the secondary market, i.e.
+
+632
+00:36:15,760 --> 00:36:22,880
+
+633
+00:36:19,079 --> 00:36:27,160
+what factors affect the yield of
+
+634
+00:36:22,880 --> 00:36:30,760
+bonds or the price of bonds that are related to
+
+635
+00:36:27,160 --> 00:36:36,079
+each other.
+
+636
+00:36:30,760 --> 00:36:40,280
+We have 6 general items
+
+637
+00:36:36,079 --> 00:36:44,520
+that we want to address in the following. First, the
+
+638
+00:36:40,280 --> 00:36:48,040
+credit rating or the level of risk. I will say it in general, then we will
+
+639
+00:36:44,520 --> 00:36:50,839
+go into them in detail. Guys, the
+
+640
+00:36:48,040 --> 00:36:54,720
+higher the risk of an investment, the
+
+641
+00:36:50,839 --> 00:36:57,920
+investors want a higher return.
+
+642
+00:36:54,720 --> 00:37:01,480
+Investors want a higher return.
+
+643
+00:36:57,920 --> 00:37:05,960
+No one will come to a company that has risk,
+
+644
+00:37:01,480 --> 00:37:10,680
+for example, a 3D profit per year. So what is
+
+645
+00:37:05,960 --> 00:37:15,839
+the logic behind it at all? So the higher the risk, the
+
+646
+00:37:10,680 --> 00:37:19,480
+higher the return. The second item is the maturity of the bonds, or you can say
+
+647
+00:37:15,839 --> 00:37:22,480
+that the maturity of the bonds, for example, is 10 years,
+
+648
+00:37:19,480 --> 00:37:25,079
+30 years, 1 year, then how long do you
+
+649
+00:37:22,480 --> 00:37:28,920
+want to give me my money back? This affects the
+
+650
+00:37:25,079 --> 00:37:32,920
+yield. This is the third item. The fourth is
+
+651
+00:37:28,920 --> 00:37:37,640
+interest rate expectations. The fourth is
+
+652
+00:37:32,920 --> 00:37:40,160
+inflation expectations. Economic growth expectations. And finally,
+
+653
+00:37:37,640 --> 00:37:43,839
+sentiment. Sentiment
+
+654
+00:37:40,160 --> 00:37:47,280
+can be said to be the same as economic growth expectations. Because what
+
+655
+00:37:43,839 --> 00:37:50,400
+was sentiment? The mood of the market? The mood of the market?
+
+656
+00:37:47,280 --> 00:37:52,720
+What determines the market whether we are heading
+
+657
+00:37:50,400 --> 00:37:55,280
+towards economic growth or
+
+658
+00:37:52,720 --> 00:37:58,359
+economic recession? So economic growth or
+
+659
+00:37:55,280 --> 00:38:01,599
+economic decline are not the same sentiment
+
+660
+00:37:58,359 --> 00:38:04,880
+and they are not that different from each other. So we
+
+661
+00:38:01,599 --> 00:38:07,040
+can say that we have 5 general items. I
+
+662
+00:38:04,880 --> 00:38:11,119
+brought them so that you know the sentiment that
+
+663
+00:38:07,040 --> 00:38:15,000
+affects bonds. We have 5 general items.
+
+664
+00:38:11,119 --> 00:38:18,560
+And this is where I told you at the beginning of the video that
+
+665
+00:38:15,000 --> 00:38:21,280
+bonds are an asset that is
+
+666
+00:38:18,560 --> 00:38:23,839
+very useful in analysis because everything we have
+
+667
+00:38:21,280 --> 00:38:25,520
+said so far and has its own meaning. Now we
+
+668
+00:38:23,839 --> 00:38:30,319
+want to go and examine these factors together
+
+669
+00:38:25,520 --> 00:38:35,200
+and see how they affect each other.
+
+670
+00:38:30,319 --> 00:38:38,920
+The first is the credit rating or
+
+671
+00:38:35,200 --> 00:38:40,240
+the level of risk. As I told you, the
+
+672
+00:38:38,920 --> 00:38:44,680
+
+673
+00:38:40,240 --> 00:38:47,119
+higher the risk of an investment, the higher the
+
+674
+00:38:44,680 --> 00:38:50,760
+interest rate that investors receive for it. The lower the risk, the lower the interest
+
+675
+00:38:47,119 --> 00:38:53,640
+
+676
+00:38:50,760 --> 00:38:56,800
+rate that investors say they will receive. The higher the risk, the higher the
+
+677
+00:38:53,640 --> 00:39:01,040
+reward, the lower the
+
+678
+00:38:56,800 --> 00:39:05,240
+risk, the lower the reward. Now,
+
+679
+00:39:01,040 --> 00:39:09,520
+who determines this level of risk? We have a series of
+
+680
+00:39:05,240 --> 00:39:14,760
+institutions. There are three institutions in general, those are the
+
+681
+00:39:09,520 --> 00:39:20,000
+top ones.  They are Moody's, Fitch, and
+
+682
+00:39:14,760 --> 00:39:24,480
+Standard & Poor's, whose names I have listed
+
+683
+00:39:20,000 --> 00:39:28,760
+above. These three
+
+684
+00:39:24,480 --> 00:39:30,800
+institutions give ratings
+
+685
+00:39:28,760 --> 00:39:34,240
+to
+
+686
+00:39:30,800 --> 00:39:37,920
+various types of debt, such as
+
+687
+00:39:34,240 --> 00:39:40,640
+bonds. For example, they
+
+688
+00:39:37,920 --> 00:39:43,720
+say, "Sir, America has a
+
+689
+00:39:40,640 --> 00:39:45,960
+very good rating." I will
+
+690
+00:39:43,720 --> 00:39:50,240
+tell you what the ratings are like. For example, they say, "I do
+
+691
+00:39:45,960 --> 00:39:53,319
+n't know why Iraq has a
+
+692
+00:39:50,240 --> 00:39:57,760
+low rating compared to America.
+
+693
+00:39:53,319 --> 00:40:00,359
+Investing in it is risky. So there
+
+694
+00:39:57,760 --> 00:40:01,640
+are three institutions that give ratings. What are the ratings like? They
+
+695
+00:40:00,359 --> 00:40:06,880
+
+696
+00:40:01,640 --> 00:40:12,240
+
+697
+00:40:06,880 --> 00:40:16,119
+give ratings using English letters. The best
+
+698
+00:40:12,240 --> 00:40:20,079
+rating is Triple A to A. And so on. The
+
+699
+00:40:16,119 --> 00:40:24,440
+ratings get lower. We have High Grade, which
+
+700
+00:40:20,079 --> 00:40:27,920
+means bonds or debts
+
+701
+00:40:24,440 --> 00:40:32,040
+that are very good and have low risk.
+
+702
+00:40:27,920 --> 00:40:35,920
+We see Double A, Plus Double A, and so on.
+
+703
+00:40:32,040 --> 00:40:40,280
+These guys change until we reach the
+
+704
+00:40:35,920 --> 00:40:44,040
+D rating, which means "default," which means "bankrupt," which means "wrecked." So "
+
+705
+00:40:40,280 --> 00:40:50,720
+default" or "D" is the
+
+706
+00:40:44,040 --> 00:40:54,400
+last rating, the worst rating, extremely high risk,
+
+707
+00:40:50,720 --> 00:40:58,520
+bankruptcy.  In practice, Triple A is the best form
+
+708
+00:40:54,400 --> 00:41:01,599
+or the least risky, you could say it is a form in
+
+709
+00:40:58,520 --> 00:41:06,560
+between. They determine the credit rating, for example,
+
+710
+00:41:01,599 --> 00:41:09,319
+what is Apple's credit rating, what is the US government's
+
+711
+00:41:06,560 --> 00:41:11,440
+credit rating, what is Tesla's
+
+712
+00:41:09,319 --> 00:41:15,960
+credit rating, what is Iran's credit rating,
+
+713
+00:41:11,440 --> 00:41:20,160
+what is Greece's credit rating, I don't know what Korea's is,
+
+714
+00:41:15,960 --> 00:41:25,040
+what is Japan's credit rating, they determine everything, the government, I don't know what the
+
+715
+00:41:20,160 --> 00:41:29,319
+central bank is, all of these have a credit rating, and the lower the
+
+716
+00:41:25,040 --> 00:41:32,520
+risk, the
+
+717
+00:41:29,319 --> 00:41:36,640
+lower the interest or that profit rate, that is, we are
+
+718
+00:41:32,520 --> 00:41:38,680
+
+719
+00:41:36,640 --> 00:41:41,520
+talking about the yield rate of children's bonds. Now I will give you an example
+
+720
+00:41:38,680 --> 00:41:45,240
+from
+
+721
+00:41:41,520 --> 00:41:49,319
+Greece. You can see the yield rate of Greece here
+
+722
+00:41:45,240 --> 00:41:52,280
+in different years. The red line
+
+723
+00:41:49,319 --> 00:41:57,160
+here in the image above on the left is the
+
+724
+00:41:52,280 --> 00:42:01,760
+yield rate of Greece. The blue line is the yield rate of the
+
+725
+00:41:57,160 --> 00:42:06,319
+eurozone countries and the blue line
+
+726
+00:42:01,760 --> 00:42:09,720
+is Germany.
+
+727
+00:42:06,319 --> 00:42:12,319
+We see the yield of the bonds of European countries. And we
+
+728
+00:42:09,720 --> 00:42:15,480
+want to talk more about Greece. Let's
+
+729
+00:42:12,319 --> 00:42:16,920
+give an example that will make sense to you. Well,
+
+730
+00:42:15,480 --> 00:42:21,160
+since
+
+731
+00:42:16,920 --> 00:42:23,760
+1995, we have seen the yield rate that Greece
+
+732
+00:42:21,160 --> 00:42:28,119
+
+733
+00:42:23,760 --> 00:42:31,720
+had a higher yield rate than Europe in general. Why is it because of risk?  It had a
+
+734
+00:42:28,119 --> 00:42:35,960
+higher risk. Investors considered
+
+735
+00:42:31,720 --> 00:42:38,079
+Greece to be more risky than Germany
+
+736
+00:42:35,960 --> 00:42:41,040
+in the European Union. This caused the
+
+737
+00:42:38,079 --> 00:42:41,040
+
+738
+00:42:41,359 --> 00:42:47,839
+yield on Greek bonds to be higher than in Europe.
+
+739
+00:42:45,240 --> 00:42:51,240
+Then gradually, from the 2000s onwards,
+
+740
+00:42:47,839 --> 00:42:56,640
+when the European Union was formed and grew, and
+
+741
+00:42:51,240 --> 00:42:59,920
+Greek countries and others became part of it,
+
+742
+00:42:56,640 --> 00:43:04,640
+investors said, "Now
+
+743
+00:42:59,920 --> 00:43:09,960
+Greece is behind the European Union, so its risk has
+
+744
+00:43:04,640 --> 00:43:14,319
+decreased." The reduction in risk caused Greece's interest
+
+745
+00:43:09,960 --> 00:43:19,400
+or yield rate to decrease. That is, now
+
+746
+00:43:14,319 --> 00:43:23,599
+if the Greek government wanted to borrow money and
+
+747
+00:43:19,400 --> 00:43:25,599
+issue bonds, it could finance it more cheaply than
+
+748
+00:43:23,599 --> 00:43:30,319
+before.
+
+749
+00:43:25,599 --> 00:43:32,880
+Now it could borrow from investors at 5% annual interest.
+
+750
+00:43:30,319 --> 00:43:36,040
+But before, for example, 10 years
+
+751
+00:43:32,880 --> 00:43:39,720
+ago, this rate was 15%. It should have paid 15% per year in interest.
+
+752
+00:43:36,040 --> 00:43:44,319
+But now, because its risk has decreased by joining the
+
+753
+00:43:39,720 --> 00:43:48,960
+European Union, it pays
+
+754
+00:43:44,319 --> 00:43:55,480
+less interest. We are moving forward. We are moving
+
+755
+00:43:48,960 --> 00:43:59,119
+forward. In 205, 206, 7, 8, the financial crisis
+
+756
+00:43:55,480 --> 00:44:03,160
+in the global economy took hold and
+
+757
+00:43:59,119 --> 00:44:06,680
+dragged down all economies, not just the United States, which is the
+
+758
+00:44:03,160 --> 00:44:09,359
+initiator. He said this.  There was a crisis because the
+
+759
+00:44:06,680 --> 00:44:12,520
+US economy is big. We had a slide
+
+760
+00:44:09,359 --> 00:44:15,280
+about it that economies are correlated with each other, they
+
+761
+00:44:12,520 --> 00:44:18,960
+are connected like a chain. Because the
+
+762
+00:44:15,280 --> 00:44:23,000
+US economy is very influential, it pulled other economies
+
+763
+00:44:18,960 --> 00:44:25,160
+down with it. And here, with the beginning of the
+
+764
+00:44:23,000 --> 00:44:29,520
+crisis, it made things
+
+765
+00:44:25,160 --> 00:44:33,079
+difficult for governments. And the more difficult the situation, the more
+
+766
+00:44:29,520 --> 00:44:35,599
+difficult the situation, the more expansionary policies.
+
+767
+00:44:33,079 --> 00:44:38,640
+Expansionary policies are both monetary and
+
+768
+00:44:35,599 --> 00:44:40,559
+fiscal. We learned about monetary and fiscal
+
+769
+00:44:38,640 --> 00:44:44,480
+policies. Monetary policy was for the
+
+770
+00:44:40,559 --> 00:44:47,240
+central bank, and finance was for the government. What happened here?
+
+771
+00:44:44,480 --> 00:44:51,559
+Since
+
+772
+00:44:47,240 --> 00:44:53,920
+2008, the government had to
+
+773
+00:44:51,559 --> 00:44:56,079
+increase its budget to support the economy, meaning that it increased
+
+774
+00:44:53,920 --> 00:44:59,200
+its spending so that it could
+
+775
+00:44:56,079 --> 00:45:01,240
+help economic growth. You can see in this
+
+776
+00:44:59,200 --> 00:45:07,200
+
+777
+00:45:01,240 --> 00:45:13,160
+picture the amount of government spending and
+
+778
+00:45:07,200 --> 00:45:16,680
+government income. The Greek government's income is this way
+
+779
+00:45:13,160 --> 00:45:18,200
+and the amount of spending it spent
+
+780
+00:45:16,680 --> 00:45:22,359
+here.
+
+781
+00:45:18,200 --> 00:45:23,960
+Usually, kids, all governments now
+
+782
+00:45:22,359 --> 00:45:26,960
+have a budget deficit, meaning their
+
+783
+00:45:23,960 --> 00:45:30,760
+income does not cover their expenses and they
+
+784
+00:45:26,960 --> 00:45:36,480
+have to borrow. But since
+
+785
+00:45:30,760 --> 00:45:40,200
+2008, this gap has become very wide. The
+
+786
+00:45:36,480 --> 00:45:43,800
+budget deficit has become very wide in
+
+787
+00:45:40,200 --> 00:45:46,119
+Greece. So why?  The economy was strong, they
+
+788
+00:45:43,800 --> 00:45:50,280
+couldn't collect taxes anymore, which is the
+
+789
+00:45:46,119 --> 00:45:53,160
+main government revenue in a developed country.
+
+790
+00:45:50,280 --> 00:45:55,480
+Now in Iran, taxes are
+
+791
+00:45:53,160 --> 00:45:59,280
+n't much government revenue anymore. Why do they collect taxes now,
+
+792
+00:45:55,480 --> 00:46:02,079
+but they have oil? Oil is government revenue. But
+
+793
+00:45:59,280 --> 00:46:05,000
+developed countries don't count on oil very much.
+
+794
+00:46:02,079 --> 00:46:09,640
+They do the right thing when their
+
+795
+00:46:05,000 --> 00:46:12,680
+economy has reached this point and they
+
+796
+00:46:09,640 --> 00:46:14,839
+finance government expenses with taxes.
+
+797
+00:46:12,680 --> 00:46:17,720
+Of course, they have a good economy and they can
+
+798
+00:46:14,839 --> 00:46:21,280
+collect taxes. The difference between them and Iran is
+
+799
+00:46:17,720 --> 00:46:23,880
+that people
+
+800
+00:46:21,280 --> 00:46:26,880
+in Iran can't afford to pay taxes like that. But in
+
+801
+00:46:23,880 --> 00:46:31,559
+other countries with good economies, it wouldn't hurt to
+
+802
+00:46:26,880 --> 00:46:32,319
+collect money. Now, let's not get out of the discussion. So, Greece ran a
+
+803
+00:46:31,559 --> 00:46:38,839
+ 
+
+804
+00:46:32,319 --> 00:46:40,440
+huge budget deficit in 2008, which caused it to
+
+805
+00:46:38,839 --> 00:46:44,319
+
+806
+00:46:40,440 --> 00:46:46,960
+borrow more to finance itself.
+
+807
+00:46:44,319 --> 00:46:51,119
+In order to manage its spending
+
+808
+00:46:46,960 --> 00:46:54,480
+according to its budget, it had to
+
+809
+00:46:51,119 --> 00:46:57,559
+sell bonds
+
+810
+00:46:54,480 --> 00:47:00,880
+and finance itself. In this picture,
+
+811
+00:46:57,559 --> 00:47:04,920
+you can see the debt to GDP ratio of Greece. That
+
+812
+00:47:00,880 --> 00:47:09,359
+is, how much debt does the Greek government
+
+813
+00:47:04,920 --> 00:47:12,640
+have? Let's measure this debt
+
+814
+00:47:09,359 --> 00:47:14,720
+first.  Let's see what percentage of GDP, for
+
+815
+00:47:12,640 --> 00:47:19,160
+ 
+
+816
+00:47:14,720 --> 00:47:22,800
+example, the total debt of the Greek government, is it as much as
+
+817
+00:47:19,160 --> 00:47:25,040
+its entire economy in a year? You see
+
+818
+00:47:22,800 --> 00:47:30,240
+how high this number is for Greece.
+
+819
+00:47:25,040 --> 00:47:35,680
+Here, the number is clear. How did
+
+820
+00:47:30,240 --> 00:47:39,920
+this number go above 100.450? This means that the Greek government
+
+821
+00:47:35,680 --> 00:47:44,200
+became heavily indebted. Even above 150. Above 100
+
+822
+00:47:39,920 --> 00:47:47,800
+means the entire GDP of Greece. Let's consider all the work of the
+
+823
+00:47:44,200 --> 00:47:50,359
+Greek people and the Greek government in a year.
+
+824
+00:47:47,800 --> 00:47:53,880
+GDP means gross domestic product. In
+
+825
+00:47:50,359 --> 00:47:57,359
+general, we can say that the economy of a year means the entire
+
+826
+00:47:53,880 --> 00:48:00,079
+economy. If we don't spend anything on our debts, we will
+
+827
+00:47:57,359 --> 00:48:03,200
+still have debt. Above 100 means that
+
+828
+00:48:00,079 --> 00:48:06,559
+we are in debt for a whole year. Above 150 means that we have eaten for a year and eaten.
+
+829
+00:48:03,200 --> 00:48:10,640
+We have to eat nothing and work to pay off the
+
+830
+00:48:06,559 --> 00:48:14,040
+debts of the Greek government. So the debt has
+
+831
+00:48:10,640 --> 00:48:18,640
+increased drastically. The budget deficit has increased drastically.
+
+832
+00:48:14,040 --> 00:48:23,760
+This has caused investors and these
+
+833
+00:48:18,640 --> 00:48:27,680
+dear institutions to say that the risk has increased
+
+834
+00:48:23,760 --> 00:48:32,480
+that we want to lend to Greece,
+
+835
+00:48:27,680 --> 00:48:35,800
+give it debt, buy its bonds, buy its debt,
+
+836
+00:48:32,480 --> 00:48:40,599
+and here we had the yield on Greek bonds that
+
+837
+00:48:35,800 --> 00:48:44,280
+skyrocketed and increased drastically,
+
+838
+00:48:40,599 --> 00:48:47,480
+and we
+
+839
+00:48:44,280 --> 00:48:51,359
+also had an interest rate of 25 for Greece.  No one was willing to
+
+840
+00:48:47,480 --> 00:48:54,440
+lend to Greece. The economy was weak. There was a
+
+841
+00:48:51,359 --> 00:48:57,680
+possibility of economic recession. There was a possibility that the
+
+842
+00:48:54,440 --> 00:48:59,960
+Greek government would not be able to pay or pay it back. It had
+
+843
+00:48:57,680 --> 00:49:03,760
+no income and wanted to borrow. That
+
+844
+00:48:59,960 --> 00:49:06,200
+vicious cycle continued. This made
+
+845
+00:49:03,760 --> 00:49:09,119
+investors no longer willing to lend. They
+
+846
+00:49:06,200 --> 00:49:13,200
+
+847
+00:49:09,119 --> 00:49:16,040
+considered the risk of lending to Greece high. And interest rates and yields on
+
+848
+00:49:13,200 --> 00:49:20,839
+Greek bonds rose sharply. Then it
+
+849
+00:49:16,040 --> 00:49:25,119
+became a disaster in Greece. The unemployment rate
+
+850
+00:49:20,839 --> 00:49:27,720
+reached 25 percent, meaning one out of every four people was unemployed and
+
+851
+00:49:25,119 --> 00:49:30,520
+looking for work. The unemployment rate means that
+
+852
+00:49:27,720 --> 00:49:34,240
+
+853
+00:49:30,520 --> 00:49:38,680
+one out of every four people who were looking for work was looking for work. And this is a very
+
+854
+00:49:34,240 --> 00:49:43,040
+catastrophic number. And we had the Greek crisis that
+
+855
+00:49:38,680 --> 00:49:48,119
+started in 2012.
+
+856
+00:49:43,040 --> 00:49:52,079
+Greece made headlines all over the world. And well, the
+
+857
+00:49:48,119 --> 00:49:55,040
+European Union helped it. Gradually, a
+
+858
+00:49:52,079 --> 00:49:58,359
+series of structures in the economy changed so that it could
+
+859
+00:49:55,040 --> 00:50:00,359
+pay off its debt and its yields fell.
+
+860
+00:49:58,359 --> 00:50:03,799
+Here you see that the yields fell
+
+861
+00:50:00,359 --> 00:50:07,079
+with the help of other economies. With the help of the
+
+862
+00:50:03,799 --> 00:50:08,520
+European Union. The European Union, which after the crisis of 2011,
+
+863
+00:50:07,079 --> 00:50:12,119
+ 
+
+864
+00:50:08,520 --> 00:50:15,440
+12 Germans, who
+
+865
+00:50:12,119 --> 00:50:19,920
+are the largest bankers in Europe and the
+
+866
+00:50:15,440 --> 00:50:23,920
+most, can be said,  They had also given the loan to Greece, but
+
+867
+00:50:19,920 --> 00:50:27,319
+they were not ready to help Greece in 2011-12.
+
+868
+00:50:23,920 --> 00:50:30,720
+They said, "Well, our own economy is weak
+
+869
+00:50:27,319 --> 00:50:34,000
+and the Greeks can't pay. No one else would lend them
+
+870
+00:50:30,720 --> 00:50:38,160
+money. They had to help other countries so that the crisis
+
+871
+00:50:34,000 --> 00:50:40,880
+in Greece wouldn't escalate and spread.
+
+872
+00:50:38,160 --> 00:50:43,200
+And again, we
+
+873
+00:50:40,880 --> 00:50:45,119
+had the Greek gap reduction. Guys, this
+
+874
+00:50:43,200 --> 00:50:48,240
+story I told you is to make it stick in your
+
+875
+00:50:45,119 --> 00:50:50,960
+mind. That's it. We learn
+
+876
+00:50:48,240 --> 00:50:53,559
+from history in fundamentals. We study history
+
+877
+00:50:50,960 --> 00:50:57,440
+so that we can
+
+878
+00:50:53,559 --> 00:51:01,400
+trade similar events that happen in the future.
+
+879
+00:50:57,440 --> 00:51:03,640
+
+880
+00:51:01,400 --> 00:51:08,280
+
+881
+00:51:03,640 --> 00:51:12,960
+We learned about credit risk or the amount of risk that affects bond yields together in this slide. Now, the next thing is the maturity of bonds.
+
+882
+00:51:08,280 --> 00:51:16,400
+What does it mean? For example, you owe money. The
+
+883
+00:51:12,960 --> 00:51:21,440
+bonds you buy. How many years later will you receive your principal?
+
+884
+00:51:16,400 --> 00:51:24,599
+Guys, the
+
+885
+00:51:21,440 --> 00:51:28,559
+longer the maturity for our bonds, the
+
+886
+00:51:24,599 --> 00:51:31,440
+longer it is. For example, 10 years, 2200
+
+887
+00:51:28,559 --> 00:51:33,799
+years, 30 years. The higher this is, the higher the yield investors want. And the longer the maturity, the
+
+888
+00:51:31,440 --> 00:51:37,079
+higher the yield
+
+889
+00:51:33,799 --> 00:51:40,040
+investors want.  The
+
+890
+00:51:37,079 --> 00:51:43,799
+shorter the bond, the lower the yield.
+
+891
+00:51:40,040 --> 00:51:47,400
+For example, the yield on a 10-year US bond
+
+892
+00:51:43,799 --> 00:51:49,640
+should be higher than a 2-year US bond. In a
+
+893
+00:51:47,400 --> 00:51:52,559
+normal situation, now that I told you in a normal situation, the
+
+894
+00:51:49,640 --> 00:51:56,160
+story is already happening. We will understand it later.
+
+895
+00:51:52,559 --> 00:51:59,400
+But in a normal situation, the
+
+896
+00:51:56,160 --> 00:52:02,880
+effect that the maturity of the bond has on the yield is like
+
+897
+00:51:59,400 --> 00:52:05,440
+this: Longer-term bonds have a higher
+
+898
+00:52:02,880 --> 00:52:08,280
+yield. 10-year bonds, so their
+
+899
+00:52:05,440 --> 00:52:13,960
+yield should be higher than 10 years.
+
+900
+00:52:08,280 --> 00:52:18,359
+Because I have my money lying around for 10 years, I have to keep my money in the hands of the
+
+901
+00:52:13,960 --> 00:52:21,440
+government for 10 years.
+
+902
+00:52:18,359 --> 00:52:25,040
+After 10 years, I will get my principal back. I have
+
+903
+00:52:21,440 --> 00:52:27,880
+more money lying around. We have more money here. And
+
+904
+00:52:25,040 --> 00:52:31,280
+the money that is lying around can no longer take advantage of
+
+905
+00:52:27,880 --> 00:52:33,720
+opportunities. That is, maybe in these 10
+
+906
+00:52:31,280 --> 00:52:37,480
+years, a better investment opportunity has arisen.
+
+907
+00:52:33,720 --> 00:52:40,839
+I am getting my profit from the government. I am getting my
+
+908
+00:52:37,480 --> 00:52:44,480
+profit from the government. See how
+
+909
+00:52:40,839 --> 00:52:48,760
+smart I am. And another thing is that the risk of default is
+
+910
+00:52:44,480 --> 00:52:51,960
+higher. That is, the longer we
+
+911
+00:52:48,760 --> 00:52:56,520
+have bonds, strange things can happen in this period
+
+912
+00:52:51,960 --> 00:52:58,839
+and even the possibility of
+
+913
+00:52:56,520 --> 00:53:00,520
+bankruptcy increases. I lent my money to someone for a month.
+
+914
+00:52:58,839 --> 00:53:04,319
+
+915
+00:53:00,520 --> 00:53:06,640
+I give that person less risk than if
+
+916
+00:53:04,319 --> 00:53:09,880
+I want to lend my money to someone for 10 years. In 10 years, it is
+
+917
+00:53:06,640 --> 00:53:12,520
+not known what history that person has, what
+
+918
+00:53:09,880 --> 00:53:14,880
+will happen to him and how. So these
+
+919
+00:53:12,520 --> 00:53:19,440
+two things cause higher maturity, longer
+
+920
+00:53:14,880 --> 00:53:22,799
+maturity, higher yield bonds to be
+
+921
+00:53:19,440 --> 00:53:24,000
+sought. Here you
+
+922
+00:53:22,799 --> 00:53:27,520
+ 
+
+923
+00:53:24,000 --> 00:53:30,760
+see different maturities and rates of return. If you
+
+924
+00:53:27,520 --> 00:53:35,160
+look at 330 years, the interest we get is 3.5
+
+925
+00:53:30,760 --> 00:53:38,880
+percent for 10 years. For example, here it is close to 225 percent for
+
+926
+00:53:35,160 --> 00:53:41,799
+7 years, 5 years, 5 years. The further we go, the longer the
+
+927
+00:53:38,880 --> 00:53:45,680
+maturity, the
+
+928
+00:53:41,799 --> 00:53:50,480
+higher the interest rate should be.
+
+929
+00:53:45,680 --> 00:53:54,760
+This is the effect of bond maturity on bond yields, guys.
+
+930
+00:53:50,480 --> 00:53:57,799
+But the next factor is economic growth expectations, which is where my
+
+931
+00:53:54,760 --> 00:54:01,160
+market sentiment is.
+
+932
+00:53:57,799 --> 00:54:03,400
+In the midst of this economic growth, what is sentiment?
+
+933
+00:54:01,160 --> 00:54:07,079
+How does the market
+
+934
+00:54:03,400 --> 00:54:10,520
+sentiment change? When the economic outlook
+
+935
+00:54:07,079 --> 00:54:12,839
+changes, the market sentiment changes. And
+
+936
+00:54:10,520 --> 00:54:17,040
+this is where
+
+937
+00:54:12,839 --> 00:54:21,520
+we are discussing sentiment. The more
+
+938
+00:54:17,040 --> 00:54:26,000
+kids, the more economic growth expectations increase, the
+
+939
+00:54:21,520 --> 00:54:29,280
+higher the yield, the lower the growth expectations.  It will
+
+940
+00:54:26,000 --> 00:54:32,520
+go lower. Now I'll
+
+941
+00:54:29,280 --> 00:54:36,040
+tell you why. Because
+
+942
+00:54:32,520 --> 00:54:39,839
+if the expectation for economic growth in a
+
+943
+00:54:36,040 --> 00:54:42,359
+country is higher, it means there
+
+944
+00:54:39,839 --> 00:54:46,559
+are better investment opportunities. I can put my money
+
+945
+00:54:42,359 --> 00:54:50,760
+in stocks during the growth period. I'll put it in
+
+946
+00:54:46,559 --> 00:54:54,280
+stocks. That company will have more sales. It
+
+947
+00:54:50,760 --> 00:54:58,640
+has a higher dividend. My stock price will go up. It's a
+
+948
+00:54:54,280 --> 00:55:00,839
+better investment opportunity when
+
+949
+00:54:58,640 --> 00:55:04,599
+economic growth is improving. And
+
+950
+00:55:00,839 --> 00:55:08,880
+here, bonds, which I mentioned in the disadvantages,
+
+951
+00:55:04,599 --> 00:55:12,079
+had one disadvantage. What was that it gives lower returns than
+
+952
+00:55:08,880 --> 00:55:16,680
+other assets, especially stocks and
+
+953
+00:55:12,079 --> 00:55:20,119
+risky assets. And
+
+954
+00:55:16,680 --> 00:55:23,240
+this disadvantage causes investors to sell
+
+955
+00:55:20,119 --> 00:55:27,160
+bonds. Selling bonds causes the
+
+956
+00:55:23,240 --> 00:55:29,240
+price to decrease and the yield to increase. So what happened? If
+
+957
+00:55:27,160 --> 00:55:33,920
+economic growth increases, the
+
+958
+00:55:29,240 --> 00:55:37,039
+yield on bonds should increase. If economic growth decreases, the
+
+959
+00:55:33,920 --> 00:55:40,119
+bond game
+
+960
+00:55:37,039 --> 00:55:43,240
+should decrease. Because when the expectation for
+
+961
+00:55:40,119 --> 00:55:46,359
+economic growth decreases, we have
+
+962
+00:55:43,240 --> 00:55:49,640
+better investment opportunities, not worse
+
+963
+00:55:46,359 --> 00:55:52,119
+investment opportunities. I wrote it wrong.
+
+964
+00:55:49,640 --> 00:55:54,960
+We have worse investment opportunities here. There are
+
+965
+00:55:52,119 --> 00:55:57,920
+no more good investment opportunities.
+
+966
+00:55:54,960 --> 00:56:01,480
+Now, companies are good.  They can't sell well, they
+
+967
+00:55:57,920 --> 00:56:04,440
+can't distribute dividends, they have risk, their
+
+968
+00:56:01,480 --> 00:56:09,680
+stock price will probably decrease,
+
+969
+00:56:04,440 --> 00:56:12,880
+their value will decrease, there are fewer opportunities for
+
+970
+00:56:09,680 --> 00:56:15,839
+investment, worse for investment,
+
+971
+00:56:12,880 --> 00:56:18,440
+here it makes me go
+
+972
+00:56:15,839 --> 00:56:21,520
+buy bonds, which is a safe asset because I
+
+973
+00:56:18,440 --> 00:56:24,079
+can't keep the money, I keep cash, I put inflation on top of it, its
+
+974
+00:56:21,520 --> 00:56:27,240
+value will decrease, I have to
+
+975
+00:56:24,079 --> 00:56:31,400
+put the money somewhere that will make a profit anyway,
+
+976
+00:56:27,240 --> 00:56:35,520
+now bonds are assets that have a low profit
+
+977
+00:56:31,400 --> 00:56:38,599
+but still a profit, still a profit, here in this
+
+978
+00:56:35,520 --> 00:56:43,039
+space, after the economic growth declines, I go buy bonds,
+
+979
+00:56:38,599 --> 00:56:47,400
+increase in bond prices, decrease in bond yields, slide
+
+980
+00:56:43,039 --> 00:56:52,240
+
+981
+00:56:47,400 --> 00:56:55,920
+we had it before or before, in 2008,
+
+982
+00:56:52,240 --> 00:56:58,799
+2020, 2000, when the economic recession
+
+983
+00:56:55,920 --> 00:57:02,079
+came, the expectation of economic growth decline
+
+984
+00:56:58,799 --> 00:57:05,640
+increased, buying bonds, their prices
+
+985
+00:57:02,079 --> 00:57:08,440
+went up and the yields went down, remember, the
+
+986
+00:57:05,640 --> 00:57:10,599
+three of us had a sharp decline in yields in the long term,
+
+987
+00:57:08,440 --> 00:57:12,520
+which were times when we
+
+988
+00:57:10,599 --> 00:57:15,280
+had recessions, we can see here too,
+
+989
+00:57:12,520 --> 00:57:17,960
+now I didn't bring
+
+990
+00:57:15,280 --> 00:57:22,680
+you those recessions anymore  I
+
+991
+00:57:17,960 --> 00:57:27,720
+came here for a short time. I came here to bring you the Chicago
+
+992
+00:57:22,680 --> 00:57:30,000
+PI data next to the 0-year yield in the United States. I
+
+993
+00:57:27,720 --> 00:57:32,680
+
+994
+00:57:30,000 --> 00:57:35,720
+explained it once. Now we have
+
+995
+00:57:32,680 --> 00:57:39,079
+n't reached the economic data section. We are just
+
+996
+00:57:35,720 --> 00:57:42,839
+learning economics. Data is
+
+997
+00:57:39,079 --> 00:57:47,000
+very easy for us to deal with and understand. If we don't know economics, we will get
+
+998
+00:57:42,839 --> 00:57:49,880
+
+999
+00:57:47,000 --> 00:57:51,079
+
+1000
+00:57:49,880 --> 00:57:55,119
+
+1001
+00:57:51,079 --> 00:57:58,799
+annoyed by the data. And the fundamentals are
+
+1002
+00:57:55,119 --> 00:58:04,319
+a feature that many children don't know at first.
+
+1003
+00:57:58,799 --> 00:58:07,839
+If you don't understand economics, you
+
+1004
+00:58:04,319 --> 00:58:10,280
+can't even memorize economic data.
+
+1005
+00:58:07,839 --> 00:58:13,440
+Use them. For example, let me
+
+1006
+00:58:10,280 --> 00:58:16,680
+tell you that the fundamentals are this: a higher CPI
+
+1007
+00:58:13,440 --> 00:58:21,160
+causes the dollar to grow. This is not the case. A
+
+1008
+00:58:16,680 --> 00:58:25,079
+higher CPI somewhere causes the dollar to weaken.
+
+1009
+00:58:21,160 --> 00:58:27,240
+If you don't know economics, now the things we are
+
+1010
+00:58:25,079 --> 00:58:29,839
+talking about are economics, which we
+
+1011
+00:58:27,240 --> 00:58:32,440
+don't get into very much. I don't consider myself an economist at all.
+
+1012
+00:58:29,839 --> 00:58:35,559
+I have gained a number of things empirically
+
+1013
+00:58:32,440 --> 00:58:39,480
+in the financial markets for two or three
+
+1014
+00:58:35,559 --> 00:58:43,680
+years with children in the subject of education.  I went over the
+
+1015
+00:58:39,480 --> 00:58:47,200
+basics together
+
+1016
+00:58:43,680 --> 00:58:49,839
+and now I'm at your service.
+
+1017
+00:58:47,200 --> 00:58:51,280
+We don't learn economics. I don't dare to like
+
+1018
+00:58:49,839 --> 00:58:55,079
+people
+
+1019
+00:58:51,280 --> 00:58:58,039
+who studied economics at university.
+
+1020
+00:58:55,079 --> 00:58:58,039
+I did
+
+1021
+00:58:58,079 --> 00:59:04,839
+n't have that opportunity. But I
+
+1022
+00:59:02,280 --> 00:59:08,160
+learned everything empirically. I experienced everything in the
+
+1023
+00:59:04,839 --> 00:59:10,559
+market. As a trader, I
+
+1024
+00:59:08,160 --> 00:59:13,920
+looked at the economic environment.
+
+1025
+00:59:10,559 --> 00:59:16,720
+Well, let's not get out of the discussion. So we
+
+1026
+00:59:13,920 --> 00:59:18,599
+have the Chicago PMI, which is a growth data that increases.
+
+1027
+00:59:16,720 --> 00:59:21,920
+Chicago PMI, Chicago PMI,
+
+1028
+00:59:18,599 --> 00:59:26,280
+guys, blue
+
+1029
+00:59:21,920 --> 00:59:28,400
+turns orange. The Chicago PMI bond yield has fallen.
+
+1030
+00:59:26,280 --> 00:59:31,520
+It means that economic growth has fallen. The yield on
+
+1031
+00:59:28,400 --> 00:59:35,119
+my bonds has fallen. Here is the
+
+1032
+00:59:31,520 --> 00:59:39,359
+scenario of economic growth decline. The Chicago PMI has
+
+1033
+00:59:35,119 --> 00:59:42,200
+fallen. The price of bonds has risen. The
+
+1034
+00:59:39,359 --> 00:59:43,799
+yield on bonds has fallen. And
+
+1035
+00:59:42,200 --> 00:59:48,559
+ 
+
+1036
+00:59:43,799 --> 00:59:51,680
+when the Chicago PMI has risen, we
+
+1037
+00:59:48,559 --> 00:59:54,200
+had economic growth. We expected
+
+1038
+00:59:51,680 --> 00:59:56,060
+economic growth. The yield on my bonds has increased. I
+
+1039
+00:59:54,200 --> 00:59:58,079
+
+1040
+00:59:56,060 --> 01:00:01,400
+ 
+
+1041
+00:59:58,079 --> 01:00:03,440
+told you the reason above. I apologize to you.
+
+1042
+01:00:01,400 --> 01:00:05,680
+So
+
+1043
+01:00:03,440 --> 01:00:08,880
+we
+
+1044
+01:00:05,680 --> 01:00:12,880
+
+1045
+01:00:08,880 --> 01:00:17,200
+also discussed the topic of growth expectations and its effect on the bond market.  Let's move on to the
+
+1046
+01:00:12,880 --> 01:00:21,880
+next slide. We
+
+1047
+01:00:17,200 --> 01:00:24,799
+'re dealing with inflation expectations.
+
+1048
+01:00:21,880 --> 01:00:27,280
+We're dealing with inflation expectations. What is the effect of inflation expectations and
+
+1049
+01:00:24,799 --> 01:00:30,480
+bond spreads? When
+
+1050
+01:00:27,280 --> 01:00:32,359
+inflation expectations go up, our yields go up.
+
+1051
+01:00:30,480 --> 01:00:35,240
+When inflation expectations go down,
+
+1052
+01:00:32,359 --> 01:00:39,280
+our yields go down. Why?
+
+1053
+01:00:35,240 --> 01:00:42,920
+Because, guys, when we
+
+1054
+01:00:39,280 --> 01:00:46,880
+have inflation increases or expect inflation to increase,
+
+1055
+01:00:42,920 --> 01:00:50,280
+guys, this expectation is a very key word for
+
+1056
+01:00:46,880 --> 01:00:53,599
+us. Basically, in fundamentals, it means what you expect
+
+1057
+01:00:50,280 --> 01:00:56,960
+in the future. What will
+
+1058
+01:00:53,599 --> 01:00:58,880
+happen in the future? Growth, higher inflation,
+
+1059
+01:00:56,960 --> 01:01:01,079
+lower inflation. What is
+
+1060
+01:00:58,880 --> 01:01:04,799
+happening now is not very important. We're talking more about
+
+1061
+01:01:01,079 --> 01:01:08,079
+future expectations in the
+
+1062
+01:01:04,799 --> 01:01:12,079
+trading space. So, guys, when
+
+1063
+01:01:08,079 --> 01:01:15,760
+we have inflation expectations, the attractiveness of bonds
+
+1064
+01:01:12,079 --> 01:01:18,760
+as an asset that pays fixed interest decreases
+
+1065
+01:01:15,760 --> 01:01:21,640
+and bond sales occur and the
+
+1066
+01:01:18,760 --> 01:01:24,640
+yield increases. Why? Because, guys, a bond that is
+
+1067
+01:01:21,640 --> 01:01:28,760
+issued for, say, $1,000, this bond
+
+1068
+01:01:24,640 --> 01:01:32,119
+pays 5. Well, in my room, for example, it went from 3 to
+
+1069
+01:01:28,760 --> 01:01:36,160
+7. And we expect this to happen now or so.
+
+1070
+01:01:32,119 --> 01:01:39,720
+Who would buy a 5% bond
+
+1071
+01:01:36,160 --> 01:01:43,000
+that lags behind inflation? So an increase in inflation
+
+1072
+01:01:39,720 --> 01:01:44,319
+makes fixed-interest bonds
+
+1073
+01:01:43,000 --> 01:01:47,799
+unattractive.
+
+1074
+01:01:44,319 --> 01:01:51,640
+People will look to sell their bonds
+
+1075
+01:01:47,799 --> 01:01:54,839
+to buy another asset that can keep up with
+
+1076
+01:01:51,640 --> 01:01:59,720
+inflation and
+
+1077
+01:01:54,839 --> 01:02:02,640
+not lose value. So when
+
+1078
+01:01:59,720 --> 01:02:05,720
+we have rising inflation expectations, bond sales
+
+1079
+01:02:02,640 --> 01:02:07,039
+happen. Bond sales decrease in price, yield increase, price
+
+1080
+01:02:05,720 --> 01:02:12,279
+
+1081
+01:02:07,039 --> 01:02:16,480
+decrease, yield increase. So the opposite happens.
+
+1082
+01:02:12,279 --> 01:02:21,520
+When
+
+1083
+01:02:16,480 --> 01:02:24,599
+we expect inflation to decrease, inflation goes from 7 to 3. So
+
+1084
+01:02:21,520 --> 01:02:29,000
+here, those 5% bonds are very valuable. Let's
+
+1085
+01:02:24,599 --> 01:02:33,760
+buy them. Let's buy them. When
+
+1086
+01:02:29,000 --> 01:02:37,599
+inflation comes next year, it goes from 3 to 2. It
+
+1087
+01:02:33,760 --> 01:02:40,359
+gives us positive returns. It's a positive investment.
+
+1088
+01:02:37,599 --> 01:02:42,960
+Expectations of a decrease in inflation make
+
+1089
+01:02:40,359 --> 01:02:47,160
+bonds more attractive. Buying bonds
+
+1090
+01:02:42,960 --> 01:02:51,400
+increase in price, decrease in yield, increase in price, decrease in
+
+1091
+01:02:47,160 --> 01:02:55,440
+yield. And in this picture, you
+
+1092
+01:02:51,400 --> 01:02:58,559
+can see the correlation between inflation expectations and the bond spread. How do they
+
+1093
+01:02:55,440 --> 01:03:02,240
+move in tandem?
+
+1094
+01:02:58,559 --> 01:03:05,760
+Inflation expectations go up, yield goes up.  Bonds
+
+1095
+01:03:02,240 --> 01:03:09,119
+go up, inflation expectations go up,
+
+1096
+01:03:05,760 --> 01:03:13,640
+bond yields go down.  The
+
+1097
+01:03:09,119 --> 01:03:16,520
+next thing is interest rate expectations.
+
+1098
+01:03:13,640 --> 01:03:20,880
+How naughty are these bonds? Everything
+
+1099
+01:03:16,520 --> 01:03:24,760
+that we have said so far has been covered. It has come
+
+1100
+01:03:20,880 --> 01:03:28,480
+to our mind.
+
+1101
+01:03:24,760 --> 01:03:31,720
+When inflation expectations
+
+1102
+01:03:28,480 --> 01:03:34,319
+rise, excuse me, interest rate expectations rise, the
+
+1103
+01:03:31,720 --> 01:03:37,200
+yield on my bonds increases.
+
+1104
+01:03:34,319 --> 01:03:39,920
+When interest rate expectations fall, the yield on my bonds
+
+1105
+01:03:37,200 --> 01:03:42,680
+decreases. Again, we have a direct correlation. Higher interest rates,
+
+1106
+01:03:39,920 --> 01:03:45,240
+higher yields,
+
+1107
+01:03:42,680 --> 01:03:48,920
+lower interest rates, lower yields,
+
+1108
+01:03:45,240 --> 01:03:51,799
+or expectations for higher interest rates. Expectations
+
+1109
+01:03:48,920 --> 01:03:53,920
+for lower interest rates affect both interest rates and expectations for interest rates.
+
+1110
+01:03:51,799 --> 01:03:57,200
+
+1111
+01:03:53,920 --> 01:04:00,039
+Guys, if we expect interest rates to increase, bonds lose their appeal.
+
+1112
+01:03:57,200 --> 01:04:04,160
+
+1113
+01:04:00,039 --> 01:04:06,559
+Selling bonds increases yields. Why? Well,
+
+1114
+01:04:04,160 --> 01:04:09,520
+interest rates are going to increase. Interest rates are a
+
+1115
+01:04:06,559 --> 01:04:11,520
+competitor for bonds. I know that banks are going to
+
+1116
+01:04:09,520 --> 01:04:15,599
+raise their interest rates.
+
+1117
+01:04:11,520 --> 01:04:18,720
+For example, they want to go from 3% to 5%. So,
+
+1118
+01:04:15,599 --> 01:04:23,000
+low-interest bonds are
+
+1119
+01:04:18,720 --> 01:04:26,720
+no longer attractive to me. Or bonds with, say, 4% are
+
+1120
+01:04:23,000 --> 01:04:29,079
+not attractive to me. Guys, how much risk is involved?
+
+1121
+01:04:26,720 --> 01:04:32,680
+For example, look, I have to say something here. I
+
+1122
+01:04:29,079 --> 01:04:34,799
+need to say it because I know that in the thoughts you are thinking about,
+
+1123
+01:04:32,680 --> 01:04:37,119
+these things you want to
+
+1124
+01:04:34,799 --> 01:04:40,799
+review, you will find counterexamples in your mind.
+
+1125
+01:04:37,119 --> 01:04:44,960
+See, for example, the US government, which we
+
+1126
+01:04:40,799 --> 01:04:48,720
+say has extremely low risk, extremely low or
+
+1127
+01:04:44,960 --> 01:04:49,680
+triple A, now it has become double A plus. It has
+
+1128
+01:04:48,720 --> 01:04:53,240
+its own reasons. I
+
+1129
+01:04:49,680 --> 01:04:56,319
+don't want to get into it. The US government, which has
+
+1130
+01:04:53,240 --> 01:04:59,960
+very low risk, has a lower rate of return. For example, it is
+
+1131
+01:04:56,319 --> 01:05:02,599
+now offering a range of 4. Another government, for example,
+
+1132
+01:04:59,960 --> 01:05:02,599
+ 
+
+1133
+01:05:04,559 --> 01:05:09,960
+ 
+
+1134
+01:05:06,720 --> 01:05:14,359
+what government should we say, for example, Greece, the same Greece, for example,
+
+1135
+01:05:09,960 --> 01:05:17,839
+Greece, for example, has a rate of return of 10 to 7. Well,
+
+1136
+01:05:14,359 --> 01:05:21,400
+look at global inflation, for example, if
+
+1137
+01:05:17,839 --> 01:05:24,640
+this
+
+1138
+01:05:21,400 --> 01:05:26,760
+
+1139
+01:05:24,640 --> 01:05:29,520
+ 
+
+1140
+01:05:26,760 --> 01:05:33,920
+
+1141
+01:05:29,520 --> 01:05:39,039
+
+1142
+01:05:33,920 --> 01:05:42,880
+
+1143
+01:05:39,039 --> 01:05:46,119
+4 now becomes 7, then we cannot say that investing in Greek bonds is still attractive because it is higher than global inflation. For example, we cannot say that the United States has 4 now, and
+
+1144
+01:05:42,880 --> 01:05:48,760
+Greece has 7. Let's
+
+1145
+01:05:46,119 --> 01:05:51,640
+go to that. No, that's not the case.
+
+1146
+01:05:48,760 --> 01:05:54,960
+Because Greece is true that it gives more profit,
+
+1147
+01:05:51,640 --> 01:05:57,920
+but it has higher inflation, for example, but it
+
+1148
+01:05:54,960 --> 01:06:01,119
+has a higher default risk. So when interest rates
+
+1149
+01:05:57,920 --> 01:06:03,960
+increase, everything
+
+1150
+01:06:01,119 --> 01:06:06,240
+It affects bonds, not only bonds that
+
+1151
+01:06:03,960 --> 01:06:10,520
+are lower than itself, for example, the interest rate from
+
+1152
+01:06:06,240 --> 01:06:13,359
+3 to 5. It
+
+1153
+01:06:10,520 --> 01:06:16,160
+does not affect the rates of bonds below 5. It only affects rates above 5. They
+
+1154
+01:06:13,359 --> 01:06:19,000
+
+1155
+01:06:16,160 --> 01:06:21,839
+have higher rates because they have higher risk. Don't look at it that way. Be
+
+1156
+01:06:19,000 --> 01:06:23,799
+careful. Expectations of interest rate cuts
+
+1157
+01:06:21,839 --> 01:06:26,319
+also
+
+1158
+01:06:23,799 --> 01:06:28,880
+make bonds more attractive if they exist. Buying bonds
+
+1159
+01:06:26,319 --> 01:06:30,799
+reduces bond yields. People say, "Well, the rate is going to go
+
+1160
+01:06:28,880 --> 01:06:34,279
+down. Where should we
+
+1161
+01:06:30,799 --> 01:06:38,960
+invest? Bonds that will yield profits in the next 5 to 10 years are attractive.
+
+1162
+01:06:34,279 --> 01:06:41,960
+An attractive rate is an attractive rate. It
+
+1163
+01:06:38,960 --> 01:06:43,720
+causes bond purchases and a decrease in yields.
+
+1164
+01:06:41,960 --> 01:06:46,000
+ 
+
+1165
+01:06:43,720 --> 01:06:49,839
+
+1166
+01:06:46,000 --> 01:06:52,880
+In the picture, you can see the
+
+1167
+01:06:49,839 --> 01:06:55,119
+bond yields and the US Treasury rate
+
+1168
+01:06:52,880 --> 01:06:56,599
+correlating with each other.
+
+1169
+01:06:55,119 --> 01:06:58,680
+Now,
+
+1170
+01:06:56,599 --> 01:07:03,039
+the point is,
+
+1171
+01:06:58,680 --> 01:07:04,920
+kids, when we had the increase in yields in the
+
+1172
+01:07:03,039 --> 01:07:08,680
+US, you can see the start of the increase in yields.
+
+1173
+01:07:04,920 --> 01:07:11,599
+Our orange chart here was much
+
+1174
+01:07:08,680 --> 01:07:15,440
+earlier. This is a one- or two-year gap.
+
+1175
+01:07:11,599 --> 01:07:18,440
+Kids, bond yields grew much earlier.
+
+1176
+01:07:15,440 --> 01:07:20,839
+Or, for example, bond yields decreased much earlier.
+
+1177
+01:07:18,440 --> 01:07:23,880
+It was or here, for example, see the
+
+1178
+01:07:20,839 --> 01:07:28,039
+start of the movement or, for example, here, see the increase
+
+1179
+01:07:23,880 --> 01:07:30,799
+here, see the decrease. This time delay is
+
+1180
+01:07:28,039 --> 01:07:33,720
+because the market sees the future and that's why,
+
+1181
+01:07:30,799 --> 01:07:36,640
+guys, the bond market
+
+1182
+01:07:33,720 --> 01:07:39,160
+moves ahead of the interest rate, ahead of the
+
+1183
+01:07:36,640 --> 01:07:42,520
+rate and that's why in the
+
+1184
+01:07:39,160 --> 01:07:44,559
+discussion of interest rates and market reaction, many times the
+
+1185
+01:07:42,520 --> 01:07:47,440
+increase in interest rates that happens, the increase in
+
+1186
+01:07:44,559 --> 01:07:49,799
+interest rates is beneficial for an economy because
+
+1187
+01:07:47,440 --> 01:07:51,400
+we will have higher interest rates in the economy,
+
+1188
+01:07:49,799 --> 01:07:54,920
+
+1189
+01:07:51,400 --> 01:07:57,640
+but it is now beneficial under certain conditions.
+
+1190
+01:07:54,920 --> 01:08:00,559
+Now, I don't want to get into it right now. I'll
+
+1191
+01:07:57,640 --> 01:08:03,079
+explain what I wanted to tell you. That's why, for
+
+1192
+01:08:00,559 --> 01:08:06,400
+example, when the interest rate in the country
+
+1193
+01:08:03,079 --> 01:08:08,400
+goes up, the expert effect does not cause the interest rate to
+
+1194
+01:08:06,400 --> 01:08:10,680
+rise because it has already risen. The
+
+1195
+01:08:08,400 --> 01:08:13,039
+bond market has
+
+1196
+01:08:10,680 --> 01:08:16,600
+shown us much earlier that the interest rate is going to
+
+1197
+01:08:13,039 --> 01:08:21,319
+rise. So, we have understood so far
+
+1198
+01:08:16,600 --> 01:08:25,600
+what things affect the bond market
+
+1199
+01:08:21,319 --> 01:08:26,920
+and the yield on our bonds. Now, let's move
+
+1200
+01:08:25,600 --> 01:08:31,600
+ 
+
+1201
+01:08:26,920 --> 01:08:34,440
+on to one of the things that we can use in the forex market, the bond
+
+1202
+01:08:31,600 --> 01:08:38,839
+market, the
+
+1203
+01:08:34,440 --> 01:08:41,279
+bond spread.  D to the country guys, we can
+
+1204
+01:08:38,839 --> 01:08:44,159
+
+1205
+01:08:41,279 --> 01:08:46,920
+use the bond spread D to the country as a macroeconomic analysis,
+
+1206
+01:08:44,159 --> 01:08:46,920
+ 
+
+1207
+01:08:47,400 --> 01:08:52,440
+meaning we can have all the factors that we have learned so far
+
+1208
+01:08:50,040 --> 01:08:56,040
+in the bonds,
+
+1209
+01:08:52,440 --> 01:08:58,440
+and
+
+1210
+01:08:56,040 --> 01:09:03,120
+those factors are growth, inflation, monetary policy, and
+
+1211
+01:08:58,440 --> 01:09:07,520
+things that we talked about in previous videos, and the
+
+1212
+01:09:03,120 --> 01:09:11,319
+difference between the two differences, the difference between these elements in the
+
+1213
+01:09:07,520 --> 01:09:14,279
+euro market, shows itself in the difference in the yield rates of the
+
+1214
+01:09:11,319 --> 01:09:17,199
+two currencies. Now let me
+
+1215
+01:09:14,279 --> 01:09:22,880
+explain more in the image. Here we have the euro-dollar,
+
+1216
+01:09:17,199 --> 01:09:28,799
+our orange line, and the yield on
+
+1217
+01:09:22,880 --> 01:09:31,480
+German bonds minus the US. The yield on German bonds
+
+1218
+01:09:28,799 --> 01:09:35,520
+minus the US,
+
+1219
+01:09:31,480 --> 01:09:37,960
+which is quite clear in the image, what it looks like.
+
+1220
+01:09:35,520 --> 01:09:41,279
+Now, our blue line, see how they
+
+1221
+01:09:37,960 --> 01:09:43,799
+correlate with each other.
+
+1222
+01:09:41,279 --> 01:09:47,440
+The difference in
+
+1223
+01:09:43,799 --> 01:09:49,759
+German and US bonds when it was down, my
+
+1224
+01:09:47,440 --> 01:09:52,600
+euro-dollar was down, when it was
+
+1225
+01:09:49,759 --> 01:09:56,480
+up, my euro-dollar
+
+1226
+01:09:52,600 --> 01:09:59,159
+was up. Direct correlation and one of the things that
+
+1227
+01:09:56,480 --> 01:10:01,360
+we can use in the forex market, we can
+
+1228
+01:09:59,159 --> 01:10:04,080
+use it in the currency pairs market.
+
+1229
+01:10:01,360 --> 01:10:06,760
+Now, kids, bonds
+
+1230
+01:10:04,080 --> 01:10:10,520
+have an impact on other markets too.  Let's
+
+1231
+01:10:06,760 --> 01:10:13,520
+go together and see one thing here.
+
+1232
+01:10:10,520 --> 01:10:16,640
+We have the correlation of global bonds here.
+
+1233
+01:10:13,520 --> 01:10:21,400
+And here I
+
+1234
+01:10:16,640 --> 01:10:24,360
+have to explain to you a little bit what it means.
+
+1235
+01:10:21,400 --> 01:10:27,360
+We had one thing: the correlation of the
+
+1236
+01:10:24,360 --> 01:10:31,080
+global economy. I just put it on the sidebar so that you can remember it. Let me
+
+1237
+01:10:27,360 --> 01:10:33,719
+see if I can bring it up. It was in our
+
+1238
+01:10:31,080 --> 01:10:36,520
+previous discussions.
+
+1239
+01:10:33,719 --> 01:10:40,880
+Look here on slide 15.
+
+1240
+01:10:36,520 --> 01:10:44,480
+We had the correlation of global economies.
+
+1241
+01:10:40,880 --> 01:10:46,840
+Now here we talked about how the
+
+1242
+01:10:44,480 --> 01:10:48,960
+US and Chinese economies, which are large, cause
+
+1243
+01:10:46,840 --> 01:10:52,719
+other economies to
+
+1244
+01:10:48,960 --> 01:10:55,320
+move as well. That is, the growth of the US economy leads to the
+
+1245
+01:10:52,719 --> 01:10:57,840
+growth of the global economy. The growth of the US economy leads to the
+
+1246
+01:10:55,320 --> 01:11:00,280
+decline of the
+
+1247
+01:10:57,840 --> 01:11:03,719
+global economy. We had the PMIs. What is the correlation of the global economy?
+
+1248
+01:11:00,280 --> 01:11:05,080
+We said that economies grow together and
+
+1249
+01:11:03,719 --> 01:11:08,679
+decline together, and
+
+1250
+01:11:05,080 --> 01:11:10,960
+larger economies have priority for us.
+
+1251
+01:11:08,679 --> 01:11:16,040
+ 
+
+1252
+01:11:10,960 --> 01:11:18,920
+Now the point is that
+
+1253
+01:11:16,040 --> 01:11:22,960
+we also have the correlation of global bonds here. That is,
+
+1254
+01:11:18,920 --> 01:11:27,440
+bonds also move together. The
+
+1255
+01:11:22,960 --> 01:11:30,320
+general trend is like this, but their movements
+
+1256
+01:11:27,440 --> 01:11:34,159
+differ from each other. As you saw in the previous slide,
+
+1257
+01:11:30,320 --> 01:11:38,920
+bonds  America and Germany
+
+1258
+01:11:34,159 --> 01:11:41,080
+are different from each other, but the overall trend is the same.
+
+1259
+01:11:38,920 --> 01:11:43,080
+The trend is the same. But when we subtract from each other, there are
+
+1260
+01:11:41,080 --> 01:11:47,520
+some differences that we
+
+1261
+01:11:43,080 --> 01:11:49,760
+trade those differences. That's it,
+
+1262
+01:11:47,520 --> 01:11:52,080
+guys. That's it. They have a correlation with each other. It also
+
+1263
+01:11:49,760 --> 01:11:55,639
+affects a number of markets.
+
+1264
+01:11:52,080 --> 01:11:58,639
+For example, the increase in bond games like this makes the
+
+1265
+01:11:55,639 --> 01:12:02,440
+global bond price go down.
+
+1266
+01:11:58,639 --> 01:12:04,800
+That means gold has a negative and inverse correlation.
+
+1267
+01:12:02,440 --> 01:12:07,679
+Now, in the Global Ounce video, I
+
+1268
+01:12:04,800 --> 01:12:10,800
+will explain the whole topic to you. That's it.
+
+1269
+01:12:07,679 --> 01:12:14,080
+But I want to tell you that when you see the
+
+1270
+01:12:10,800 --> 01:12:17,760
+directions are the same, don't be surprised. That's the
+
+1271
+01:12:14,080 --> 01:12:20,320
+nature of the economy. That's the nature of the global economy.
+
+1272
+01:12:17,760 --> 01:12:22,440
+That's how they move together. And here, in
+
+1273
+01:12:20,320 --> 01:12:27,120
+this way,
+
+1274
+01:12:22,440 --> 01:12:29,760
+we have the correlation of global bonds.
+
+1275
+01:12:27,120 --> 01:12:32,600
+Well, friends, this part of our series has
+
+1276
+01:12:29,760 --> 01:12:35,920
+ended. I hope it was useful for you.
+
+1277
+01:12:32,600 --> 01:12:39,239
+In the field of fundamentals, try to
+
+1278
+01:12:35,920 --> 01:12:43,320
+repeat the exercise. Try to
+
+1279
+01:12:39,239 --> 01:12:47,120
+examine the market with what you learned,
+
+1280
+01:12:43,320 --> 01:12:50,239
+especially the past of the market in
+
+1281
+01:12:47,120 --> 01:12:54,159
+previous years, the changes in inflation and
+
+1282
+01:12:50,239 --> 01:12:56,840
+the elements that  Put what we have learned so far
+
+1283
+01:12:54,159 --> 01:13:01,600
+together, it can help you a lot in
+
+1284
+01:12:56,840 --> 01:13:03,880
+learning. The group is also in Yiddish
+
+1285
+01:13:01,600 --> 01:13:07,480
+below. You can become a member. There are
+
+1286
+01:13:03,880 --> 01:13:10,280
+questions and answers there. If you have any questions,
+
+1287
+01:13:07,480 --> 01:13:14,239
+you can ask them.
+
+1288
+01:13:10,280 --> 01:13:17,600
+If you review your friends' questions, it will be helpful and it can
+
+1289
+01:13:14,239 --> 01:13:21,440
+help you in learning more topics. The
+
+1290
+01:13:17,600 --> 01:13:24,280
+paper topic was divided into two parts because of
+
+1291
+01:13:21,440 --> 01:13:27,400
+its large volume, and I preferred this video
+
+1292
+01:13:24,280 --> 01:13:32,840
+below to be one and a half hours long.
+
+1293
+01:13:27,400 --> 01:13:32,840
+For now, goodbye until the next video.
+

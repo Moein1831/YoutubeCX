@@ -1,0 +1,6123 @@
+1
+00:00:00,240 --> 00:00:07,520
+Hello, the Fundamentals Educational Set in
+
+2
+00:00:03,520 --> 00:00:10,759
+Simple Language has been made available to the Frachart site for public and free use.
+
+3
+00:00:07,520 --> 00:00:14,320
+
+4
+00:00:10,759 --> 00:00:17,359
+I hope it will be of interest to you. Hello
+
+5
+00:00:14,320 --> 00:00:20,560
+and greetings to you, dear friends. Good time,
+
+6
+00:00:17,359 --> 00:00:24,599
+I hope you are well. I am Alireza Madadhi. I
+
+7
+00:00:20,560 --> 00:00:28,720
+
+8
+00:00:24,599 --> 00:00:31,039
+am at your service with the sixth part of the Fundamentals Educational Set in Simple Language.
+
+9
+00:00:28,720 --> 00:00:34,920
+This part is very important. We want to
+
+10
+00:00:31,039 --> 00:00:38,360
+talk about monetary and financial policies and tell you
+
+11
+00:00:34,920 --> 00:00:43,520
+what effect they can have on financial markets.
+
+12
+00:00:38,360 --> 00:00:46,559
+Fluctuations in parallel markets can have. If they
+
+13
+00:00:43,520 --> 00:00:49,719
+tell me to choose one fundamental factor
+
+14
+00:00:46,559 --> 00:00:52,920
+and follow it and ignore the rest, it will
+
+15
+00:00:49,719 --> 00:00:58,120
+definitely be monetary policies because we
+
+16
+00:00:52,920 --> 00:01:02,440
+discuss it every day. We have
+
+17
+00:00:58,120 --> 00:01:06,799
+points about it. We fluctuate. And it is very, very
+
+18
+00:01:02,440 --> 00:01:10,360
+important. This is the most important
+
+19
+00:01:06,799 --> 00:01:14,759
+topic in fundamentals. Fundamentals are not
+
+20
+00:01:10,360 --> 00:01:16,280
+only very influential in the forex market, but also in the stock market, the
+
+21
+00:01:14,759 --> 00:01:20,200
+ 
+
+22
+00:01:16,280 --> 00:01:22,240
+bond market, and other markets.
+
+23
+00:01:20,200 --> 00:01:25,400
+Let's start this topic together. Pay close
+
+24
+00:01:22,240 --> 00:01:29,920
+attention to this video, which
+
+25
+00:01:25,400 --> 00:01:34,600
+is a very, very important video.
+
+26
+00:01:29,920 --> 00:01:36,600
+Monetary policies and financial policies. Okay.  We
+
+27
+00:01:34,600 --> 00:01:40,799
+ 
+
+28
+00:01:36,600 --> 00:01:45,000
+are dealing with two important parts of the economy in this section, the
+
+29
+00:01:40,799 --> 00:01:48,640
+central bank and the government, especially the central bank,
+
+30
+00:01:45,000 --> 00:01:52,840
+which is very, very important to us, and there are
+
+31
+00:01:48,640 --> 00:01:56,920
+many points about it. The
+
+32
+00:01:52,840 --> 00:02:01,439
+central bank and the government regulate monetary
+
+33
+00:01:56,920 --> 00:02:04,880
+and fiscal policies. How and with what tools does the
+
+34
+00:02:01,439 --> 00:02:09,200
+central bank determine monetary policy? The central
+
+35
+00:02:04,880 --> 00:02:13,120
+bank determines monetary policy. The central bank determines
+
+36
+00:02:09,200 --> 00:02:17,440
+monetary policy. It makes decisions about monetary policy.
+
+37
+00:02:13,120 --> 00:02:20,000
+
+38
+00:02:17,440 --> 00:02:23,599
+What are the monetary policies? What are the central bank's tools in this
+
+39
+00:02:20,000 --> 00:02:27,200
+policy? We have interest rates,
+
+40
+00:02:23,599 --> 00:02:30,959
+liquidity, and the reserve ratio. I
+
+41
+00:02:27,200 --> 00:02:34,519
+will explain to you what these are and
+
+42
+00:02:30,959 --> 00:02:38,959
+how they work. So the
+
+43
+00:02:34,519 --> 00:02:42,680
+central bank regulates interest rates, liquidity, and the
+
+44
+00:02:38,959 --> 00:02:47,319
+reserve ratio in the economy.
+
+45
+00:02:42,680 --> 00:02:49,640
+
+46
+00:02:47,319 --> 00:02:52,800
+We call this work of the central bank, regulating these factors,
+
+47
+00:02:49,640 --> 00:02:55,159
+monetary policy, and it is very, very influential,
+
+48
+00:02:52,800 --> 00:03:01,360
+as I told you, in the fluctuations that we
+
+49
+00:02:55,159 --> 00:03:05,840
+have in the financial markets. Well, as for the
+
+50
+00:03:01,360 --> 00:03:08,799
+fiscal policy or fiscal policy, I forgot to mention it in English.
+
+51
+00:03:05,840 --> 00:03:11,879
+We call monetary policy the monetary policy,
+
+52
+00:03:08,799 --> 00:03:15,480
+and we
+
+53
+00:03:11,879 --> 00:03:18,360
+call fiscal policy the fiscal policy, which is explained in English in the next slide.  I
+
+54
+00:03:15,480 --> 00:03:21,040
+also brought up why English is
+
+55
+00:03:18,360 --> 00:03:24,560
+still important, because we work with it a lot in
+
+56
+00:03:21,040 --> 00:03:28,200
+articles, analyses, and news.
+
+57
+00:03:24,560 --> 00:03:31,920
+With that English phrase, here the government
+
+58
+00:03:28,200 --> 00:03:37,080
+regulates financial policies, and taxes
+
+59
+00:03:31,920 --> 00:03:39,760
+and spending are two parts of this policy. So
+
+60
+00:03:37,080 --> 00:03:41,760
+fiscal policy is for the government, and monetary policy is for the
+
+61
+00:03:39,760 --> 00:03:45,159
+central bank. And I have to tell you, kids, in
+
+62
+00:03:41,760 --> 00:03:49,640
+developed countries, the central bank and the government
+
+63
+00:03:45,159 --> 00:03:53,480
+are separate from each other. That is, the central bank has the
+
+64
+00:03:49,640 --> 00:03:56,439
+necessary independence to adopt monetary policies,
+
+65
+00:03:53,480 --> 00:04:00,040
+depending on its goal, depending on whether it
+
+66
+00:03:56,439 --> 00:04:03,159
+wants to support the economy or, for example, put
+
+67
+00:04:00,040 --> 00:04:06,680
+the brakes on the economy a little,
+
+68
+00:04:03,159 --> 00:04:10,079
+slow down the economy, cool the economy, or
+
+69
+00:04:06,680 --> 00:04:11,480
+control inflation. The central bank has this independence.
+
+70
+00:04:10,079 --> 00:04:14,560
+In most
+
+71
+00:04:11,480 --> 00:04:17,160
+developed countries, the central bank
+
+72
+00:04:14,560 --> 00:04:21,240
+has this independence. For example, no one can compete with the US Federal Reserve.
+
+73
+00:04:17,160 --> 00:04:24,960
+Even if the president
+
+74
+00:04:21,240 --> 00:04:28,639
+gives an opinion and tells the central bank to do such and such, the
+
+75
+00:04:24,960 --> 00:04:31,360
+central bank does not listen and does
+
+76
+00:04:28,639 --> 00:04:34,520
+its own thing. It
+
+77
+00:04:31,360 --> 00:04:37,440
+has complete independence from the government. And this is one of the points
+
+78
+00:04:34,520 --> 00:04:40,000
+that separates developed economies from
+
+79
+00:04:37,440 --> 00:04:42,080
+economies that are currently somewhat weaker,
+
+80
+00:04:40,000 --> 00:04:46,240
+because in weaker economies  And on a
+
+81
+00:04:42,080 --> 00:04:48,320
+smaller scale, we have the government's interference in the decisions of the
+
+82
+00:04:46,240 --> 00:04:52,039
+central bank and monetary policies, which makes things
+
+83
+00:04:48,320 --> 00:04:54,919
+difficult and negative for the economy.
+
+84
+00:04:52,039 --> 00:04:58,639
+So we have two policies that we want to
+
+85
+00:04:54,919 --> 00:05:02,320
+talk about today: monetary policy,
+
+86
+00:04:58,639 --> 00:05:04,960
+fiscal policy, the central bank's monetary policy, which is the determining factor,
+
+87
+00:05:02,320 --> 00:05:08,720
+and the government's fiscal policy, which we deal with more than
+
+88
+00:05:04,960 --> 00:05:13,560
+monetary policy. Why is it that,
+
+89
+00:05:08,720 --> 00:05:16,560
+guys,
+
+90
+00:05:13,560 --> 00:05:19,319
+our monetary policies are always updated every month, every week,
+
+91
+00:05:16,560 --> 00:05:21,240
+in the sense that, for example, one of the members of the
+
+92
+00:05:19,319 --> 00:05:25,479
+central bank comes and gives an opinion on
+
+93
+00:05:21,240 --> 00:05:28,240
+monetary policies, but the government's decisions are
+
+94
+00:05:25,479 --> 00:05:31,199
+usually the financial policies that it adopts,
+
+95
+00:05:28,240 --> 00:05:33,919
+the issue of taxes and spending, the
+
+96
+00:05:31,199 --> 00:05:37,000
+government budget, and these are
+
+97
+00:05:33,919 --> 00:05:40,479
+discussed once a year, and
+
+98
+00:05:37,000 --> 00:05:42,360
+we don't have to deal with the market every day. So let's go to the
+
+99
+00:05:40,479 --> 00:05:46,199
+ 
+
+100
+00:05:42,360 --> 00:05:49,440
+next slide and talk about the central bank.
+
+101
+00:05:46,199 --> 00:05:52,840
+I once told you the goals of the central bank. The goals of the
+
+102
+00:05:49,440 --> 00:05:56,600
+central bank are to have maximum employment
+
+103
+00:05:52,840 --> 00:05:59,960
+in the economy, to have sustainable
+
+104
+00:05:56,600 --> 00:06:04,039
+and continuous economic growth, to prevent the economy from entering a recession,
+
+105
+00:05:59,960 --> 00:06:07,800
+and on the other hand, we talked about price stability. It would be a
+
+106
+00:06:04,039 --> 00:06:12,120
+dual mode or something like that.
+
+107
+00:06:07,800 --> 00:06:15,599
+He said that there is a contradiction in monetary policies in these
+
+108
+00:06:12,120 --> 00:06:18,240
+goals, that is, the central bank cannot
+
+109
+00:06:15,599 --> 00:06:21,599
+have maximum employment and
+
+110
+00:06:18,240 --> 00:06:25,520
+also want high economic growth and on the other hand, prices
+
+111
+00:06:21,599 --> 00:06:29,639
+are controlled. Usually, these are in contradiction with each other, that is,
+
+112
+00:06:25,520 --> 00:06:34,039
+inflation in one week and
+
+113
+00:06:29,639 --> 00:06:38,240
+economic growth and employment on the other. Well, we
+
+114
+00:06:34,039 --> 00:06:41,599
+are working with two policies. In the topic of the
+
+115
+00:06:38,240 --> 00:06:44,919
+central bank, the different names of which I have given you here, I will
+
+116
+00:06:41,599 --> 00:06:48,560
+tell you again why these
+
+117
+00:06:44,919 --> 00:06:51,400
+names are important because in articles, analyses, in
+
+118
+00:06:48,560 --> 00:06:53,880
+the news, when you have, for example, a speech by
+
+119
+00:06:51,400 --> 00:06:56,720
+Mr. Powell, the chairman of the US Federal Reserve,
+
+120
+00:06:53,880 --> 00:07:00,960
+these words are used.
+
+121
+00:06:56,720 --> 00:07:05,879
+In economics, anyway, we have a circle of words
+
+122
+00:07:00,960 --> 00:07:10,080
+that does not change much. For example,
+
+123
+00:07:05,879 --> 00:07:13,280
+if we listen to the speeches of the members of the central bank for a year, we will go a
+
+124
+00:07:10,080 --> 00:07:17,199
+long way and understand what
+
+125
+00:07:13,280 --> 00:07:20,680
+they are talking about.
+
+126
+00:07:17,199 --> 00:07:25,960
+And we can do the complete translation ourselves.
+
+127
+00:07:20,680 --> 00:07:31,319
+These phrases do not change much. For example,
+
+128
+00:07:25,960 --> 00:07:34,879
+the policy of quantitative easing or
+
+129
+00:07:31,319 --> 00:07:37,080
+QE is in all the articles, it is in the talks and it is
+
+130
+00:07:34,879 --> 00:07:40,000
+discussed. So you should learn this
+
+131
+00:07:37,080 --> 00:07:43,039
+once for  We always use it. Well,
+
+132
+00:07:40,000 --> 00:07:45,680
+we have two policies. The most important
+
+133
+00:07:43,039 --> 00:07:50,720
+terms we work with here are the
+
+134
+00:07:45,680 --> 00:07:54,400
+dovish and hawkish policies.
+
+135
+00:07:50,720 --> 00:07:59,520
+These two words are mostly used. Dovish policy
+
+136
+00:07:54,400 --> 00:08:00,520
+or expansionary policy or easing. Hawkish policy or
+
+137
+00:07:59,520 --> 00:08:05,919
+ 
+
+138
+00:08:00,520 --> 00:08:10,199
+contractionary policy. They also call it the tight policy.
+
+139
+00:08:05,919 --> 00:08:14,280
+They call it the expansionary policy of Quan Eizin or
+
+140
+00:08:10,199 --> 00:08:18,080
+QE or QT. Did you hear that? They mean
+
+141
+00:08:14,280 --> 00:08:22,000
+contractionary policy. Did you hear that? They mean the expansionary policy of
+
+142
+00:08:18,080 --> 00:08:23,840
+Los Money Policy
+
+143
+00:08:22,000 --> 00:08:28,440
+
+144
+00:08:23,840 --> 00:08:35,159
+or the policy of Expansion
+
+145
+00:08:28,440 --> 00:08:40,560
+Pace Pace. This side also calls it the policy of Metric Pace
+
+146
+00:08:35,159 --> 00:08:44,600
+and the policy of Cut-Mount Policy. These are different names for it,
+
+147
+00:08:40,560 --> 00:08:47,680
+but we mostly work with the dovish and
+
+148
+00:08:44,600 --> 00:08:51,120
+hawkish policies. They mean that there is no difference between them. I
+
+149
+00:08:47,680 --> 00:08:54,480
+want to say that these are the words that are
+
+150
+00:08:51,120 --> 00:08:56,000
+used the most. For example,
+
+151
+00:08:54,480 --> 00:09:00,279
+ 
+
+152
+00:08:56,000 --> 00:09:04,240
+tightening is
+
+153
+00:09:00,279 --> 00:09:08,000
+used the most. These two words are
+
+154
+00:09:04,240 --> 00:09:10,320
+very ineffective, but you should know their names.
+
+155
+00:09:08,000 --> 00:09:12,920
+Some people use
+
+156
+00:09:10,320 --> 00:09:15,399
+these words and you should understand what they mean.
+
+157
+00:09:12,920 --> 00:09:17,399
+What does it look like in Persian? We say
+
+158
+00:09:15,399 --> 00:09:20,720
+ 
+
+159
+00:09:17,399 --> 00:09:24,440
+expansionary policy or easing policy. On the other hand, we
+
+160
+00:09:20,720 --> 00:09:28,000
+call hockey policies contractionary policies. Well,
+
+161
+00:09:24,440 --> 00:09:32,480
+guys, we had a series of central bank tools
+
+162
+00:09:28,000 --> 00:09:35,440
+that we said were the interest rate, liquidity, and the reserve ratio.
+
+163
+00:09:32,480 --> 00:09:39,000
+In the previous slide, these were the policy of the central bank, which
+
+164
+00:09:35,440 --> 00:09:41,360
+means that the central bank lowers the interest rate,
+
+165
+00:09:39,000 --> 00:09:43,480
+increases liquidity, and
+
+166
+00:09:41,360 --> 00:09:48,000
+lowers the reserve ratio. The interest rate, which
+
+167
+00:09:43,480 --> 00:09:50,160
+we know is the interest rate that is paid on
+
+168
+00:09:48,000 --> 00:09:53,680
+deposits in the
+
+169
+00:09:50,160 --> 00:09:56,120
+economy. The interest rate that
+
+170
+00:09:53,680 --> 00:09:58,959
+is paid on deposits. This interest rate that the
+
+171
+00:09:56,120 --> 00:10:02,800
+central bank determines has an impact on all interest rates
+
+172
+00:09:58,959 --> 00:10:05,600
+in the economy. We may
+
+173
+00:10:02,800 --> 00:10:08,240
+have 100 interest rate models in the economy, but the
+
+174
+00:10:05,600 --> 00:10:12,000
+central bank determines the interest rate, which is
+
+175
+00:10:08,240 --> 00:10:14,360
+usually the interbank interest rate and the repo interest rate. I will
+
+176
+00:10:12,000 --> 00:10:17,200
+tell you what it looks like below. It comes with an interest rate that it
+
+177
+00:10:14,360 --> 00:10:19,880
+
+178
+00:10:17,200 --> 00:10:23,399
+controls all interest rates. I want to tell
+
+179
+00:10:19,880 --> 00:10:26,279
+you that if you come across interest rates in
+
+180
+00:10:23,399 --> 00:10:28,959
+articles and in different places, you will
+
+181
+00:10:26,279 --> 00:10:32,040
+
+182
+00:10:28,959 --> 00:10:34,040
+see a lot of them, or for example, many names, do not pay too much attention to them.  They are similar, you
+
+183
+00:10:32,040 --> 00:10:36,120
+could say they are all correlated with each other.
+
+184
+00:10:34,040 --> 00:10:39,360
+If the interest rate in the economy moves up,
+
+185
+00:10:36,120 --> 00:10:42,200
+all interest rates move up at all levels,
+
+186
+00:10:39,360 --> 00:10:44,480
+so the policy of the central bank
+
+187
+00:10:42,200 --> 00:10:46,480
+lowers the interest rate and increases liquidity. It
+
+188
+00:10:44,480 --> 00:10:49,920
+causes liquidity to increase,
+
+189
+00:10:46,480 --> 00:10:53,440
+meaning the central bank prints money and buys
+
+190
+00:10:49,920 --> 00:10:57,120
+different things with it, not
+
+191
+00:10:53,440 --> 00:11:00,399
+bonds. That is, the first 99
+
+192
+00:10:57,120 --> 00:11:03,279
+90 assets it buys are for lending. It
+
+193
+00:11:00,399 --> 00:11:06,040
+gives the money to banks and gives it
+
+194
+00:11:03,279 --> 00:11:11,360
+to investors. What is the reserve ratio? Let me
+
+195
+00:11:06,040 --> 00:11:14,760
+explain the reserve ratio in the banking system.
+
+196
+00:11:11,360 --> 00:11:16,959
+Now, banks, smaller banks, for example, in
+
+197
+00:11:14,760 --> 00:11:19,959
+Iran, I
+
+198
+00:11:16,959 --> 00:11:24,240
+don't know about small banks, national banks, etc. These have to keep a certain
+
+199
+00:11:19,959 --> 00:11:26,600
+amount of deposits as a reserve with the
+
+200
+00:11:24,240 --> 00:11:31,519
+central bank. People give money to banks,
+
+201
+00:11:26,600 --> 00:11:35,639
+and the central bank obliges the banks to
+
+202
+00:11:31,519 --> 00:11:38,120
+bring some of this money and give it
+
+203
+00:11:35,639 --> 00:11:40,560
+to the central bank as a reserve. Now, why not, so that they don't have any
+
+204
+00:11:38,120 --> 00:11:42,000
+problems if they go bankrupt at some point?
+
+205
+00:11:40,560 --> 00:11:47,600
+
+206
+00:11:42,000 --> 00:11:51,040
+This reserve ratio can be said to be like this.
+
+207
+00:11:47,600 --> 00:11:54,639
+The lower it is, the
+
+208
+00:11:51,040 --> 00:11:57,480
+less money the central bank has from the banks.
+
+209
+00:11:54,639 --> 00:12:00,639
+The higher it is, it means that the more money the
+
+210
+00:11:57,480 --> 00:12:03,800
+banks take from the people as deposits, the
+
+211
+00:12:00,639 --> 00:12:07,200
+more of it is in the hands of the central bank. Many
+
+212
+00:12:03,800 --> 00:12:09,839
+people think that this does not change in the economy.
+
+213
+00:12:07,200 --> 00:12:13,360
+For example, what if this amount changes once every 10 years in the United States? It does not
+
+214
+00:12:09,839 --> 00:12:19,079
+change much. That is why
+
+215
+00:12:13,360 --> 00:12:21,320
+
+216
+00:12:19,079 --> 00:12:25,240
+we talk about it weekly, monthly, or maybe it can be said annually.
+
+217
+00:12:21,320 --> 00:12:28,440
+But in general, you know that part of the
+
+218
+00:12:25,240 --> 00:12:30,639
+central bank's policies is the central bank's tools for
+
+219
+00:12:28,440 --> 00:12:34,560
+changing the
+
+220
+00:12:30,639 --> 00:12:36,839
+monetary policy process. So we are
+
+221
+00:12:34,560 --> 00:12:40,760
+working with the interest rate and liquidity factors in the
+
+222
+00:12:36,839 --> 00:12:43,440
+Dovish policy or the policy to support the economy, which I
+
+223
+00:12:40,760 --> 00:12:46,199
+told you in previous videos. When the
+
+224
+00:12:43,440 --> 00:12:49,320
+central bank supports the economy, when
+
+225
+00:12:46,199 --> 00:12:52,199
+employment is low, economic growth is low, in order to
+
+226
+00:12:49,320 --> 00:12:55,480
+support employment, to support economic growth,
+
+227
+00:12:52,199 --> 00:12:59,800
+it lowers the interest rate.
+
+228
+00:12:55,480 --> 00:13:03,279
+That amount of bank interest rates
+
+229
+00:12:59,800 --> 00:13:05,880
+decreases and loans in the economy increase.
+
+230
+00:13:03,279 --> 00:13:08,760
+We have an increase in credit. An increase in
+
+231
+00:13:05,880 --> 00:13:11,760
+credit causes people to spend more money.
+
+232
+00:13:08,760 --> 00:13:15,120
+We have an increase in demand. An increase in demand
+
+233
+00:13:11,760 --> 00:13:18,560
+causes the economy to grow. From this  On
+
+234
+00:13:15,120 --> 00:13:21,120
+my side, we have the hockey policy and the
+
+235
+00:13:18,560 --> 00:13:23,680
+central bank increases the interest rate in order to
+
+236
+00:13:21,120 --> 00:13:28,600
+control prices. By increasing the rate, it can
+
+237
+00:13:23,680 --> 00:13:30,959
+reduce demand. On the other hand, we can
+
+238
+00:13:28,600 --> 00:13:33,560
+reduce the amount of liquidity. I
+
+239
+00:13:30,959 --> 00:13:35,800
+will explain to you how it can
+
+240
+00:13:33,560 --> 00:13:39,440
+do this. So guys, Davich,
+
+241
+00:13:35,800 --> 00:13:42,279
+interest rate reduction, hockey, interest rate increase,
+
+242
+00:13:39,440 --> 00:13:46,399
+interest rate reduction or liquidity increase, interest rate increase
+
+243
+00:13:42,279 --> 00:13:50,519
+or liquidity reduction. These two words are
+
+244
+00:13:46,399 --> 00:13:53,600
+very important to us in the analysis of the
+
+245
+00:13:50,519 --> 00:13:57,480
+forex market. There is nothing more important than these two words.
+
+246
+00:13:53,600 --> 00:14:01,040
+These are the most important
+
+247
+00:13:57,480 --> 00:14:04,680
+words that we work with every day.
+
+248
+00:14:01,040 --> 00:14:08,320
+Davich, hockey, in the analysis of news, analysis, I would like to invite you to
+
+249
+00:14:04,680 --> 00:14:11,320
+your presence, events, analysis of meetings. These
+
+250
+00:14:08,320 --> 00:14:13,639
+words are used a lot. One point: Until
+
+251
+00:14:11,320 --> 00:14:16,920
+now, we were talking about fundamentals.
+
+252
+00:14:13,639 --> 00:14:18,959
+Why didn't we mention economic data? Why didn't we mention the calendar and
+
+253
+00:14:16,920 --> 00:14:21,560
+all that? Wait, guys, we'll get there.
+
+254
+00:14:18,959 --> 00:14:23,920
+Why am I telling you this now?
+
+255
+00:14:21,560 --> 00:14:25,839
+Because we need to have a base, a definition
+
+256
+00:14:23,920 --> 00:14:28,320
+of fundamentals, since the economy
+
+257
+00:14:25,839 --> 00:14:30,959
+How does it work? What are the things that are important to us?
+
+258
+00:14:28,320 --> 00:14:34,360
+How do financial markets move? On what
+
+259
+00:14:30,959 --> 00:14:37,480
+basis and logic does the central bank play a role?
+
+260
+00:14:34,360 --> 00:14:40,120
+Then we will learn to analyze economic data together. When
+
+261
+00:14:37,480 --> 00:14:43,279
+data comes in, what kind of
+
+262
+00:14:40,120 --> 00:14:45,680
+fluctuations can it cause in the market? When news
+
+263
+00:14:43,279 --> 00:14:49,240
+comes in, what kind of impact does it have? We
+
+264
+00:14:45,680 --> 00:14:51,639
+
+265
+00:14:49,240 --> 00:14:55,360
+will examine all of them together. First of all, we need to
+
+266
+00:14:51,639 --> 00:14:58,360
+learn the basic topics. So, the central bank
+
+267
+00:14:55,360 --> 00:14:59,560
+has two policies. Let's go ahead and do it together.
+
+268
+00:14:58,360 --> 00:15:03,519
+ 
+
+269
+00:14:59,560 --> 00:15:07,120
+Central bank policymaking is done by holding meetings
+
+270
+00:15:03,519 --> 00:15:11,600
+throughout the year. Usually, we have 8 to 10
+
+271
+00:15:07,120 --> 00:15:14,040
+meetings throughout the year from the central banks.
+
+272
+00:15:11,600 --> 00:15:17,360
+What do they do in these meetings? They
+
+273
+00:15:14,040 --> 00:15:21,399
+adjust interest rates. They give
+
+274
+00:15:17,360 --> 00:15:24,519
+their opinion on the economy. They make predictions about the
+
+275
+00:15:21,399 --> 00:15:27,279
+economic outlook. They say
+
+276
+00:15:24,519 --> 00:15:30,880
+which direction the economy is heading. Which direction should we move in?
+
+277
+00:15:27,279 --> 00:15:33,480
+Is inflation high, inflation low, economic growth,
+
+278
+00:15:30,880 --> 00:15:36,079
+unemployment? They talk about all of this. And
+
+279
+00:15:33,480 --> 00:15:39,519
+these meetings are very, very important for the market.
+
+280
+00:15:36,079 --> 00:15:40,839
+So, we have two policies that can happen in these
+
+281
+00:15:39,519 --> 00:15:44,279
+meetings.  We have said that the
+
+282
+00:15:40,839 --> 00:15:47,160
+hawkish policy is to
+
+283
+00:15:44,279 --> 00:15:50,319
+control prices and the dovish policy is to support the
+
+284
+00:15:47,160 --> 00:15:53,360
+economy. We said that interest rates will rise. In the
+
+285
+00:15:50,319 --> 00:15:56,199
+hawkish policy, liquidity will fall. In the
+
+286
+00:15:53,360 --> 00:15:59,720
+dovish policy, interest rates will fall. Liquidity will
+
+287
+00:15:56,199 --> 00:16:03,079
+increase to support the economy.
+
+288
+00:15:59,720 --> 00:16:07,199
+Now, what
+
+289
+00:16:03,079 --> 00:16:10,000
+happens in the hawkish policy? We have a decrease in the amount of credit borrowing in the
+
+290
+00:16:07,199 --> 00:16:12,360
+economy, which will result in a
+
+291
+00:16:10,000 --> 00:16:15,880
+decrease in
+
+292
+00:16:12,360 --> 00:16:20,560
+economic growth and economic activities.
+
+293
+00:16:15,880 --> 00:16:23,560
+This effect can be said to be on the economy.
+
+294
+00:16:20,560 --> 00:16:27,800
+The adoption of these policies by the
+
+295
+00:16:23,560 --> 00:16:31,519
+central bank and in the financial markets can
+
+296
+00:16:27,800 --> 00:16:34,120
+
+297
+00:16:31,519 --> 00:16:37,880
+increase some fear of recession or a decrease in economic growth. That is, the central bank is
+
+298
+00:16:34,120 --> 00:16:41,560
+moving towards hawkish policies. Market participants are
+
+299
+00:16:37,880 --> 00:16:46,360
+worried. Don't worry, the economy will
+
+300
+00:16:41,560 --> 00:16:52,279
+no longer be able to function as well as before. Or we will go into recession.
+
+301
+00:16:46,360 --> 00:16:57,839
+This can increase fear in the financial markets. The
+
+302
+00:16:52,279 --> 00:17:02,959
+growth of the country's economy is due to less liquidity and
+
+303
+00:16:57,839 --> 00:17:06,439
+better bond yields. An important point for
+
+304
+00:17:02,959 --> 00:17:10,120
+forex trading is that you want to trade the dollar. What
+
+305
+00:17:06,439 --> 00:17:12,959
+effect does the dollar have on the monetary policies
+
+306
+00:17:10,120 --> 00:17:16,240
+adopted by the central bank? If
+
+307
+00:17:12,959 --> 00:17:18,760
+we have hawkish policies, the dollar will rise, of
+
+308
+00:17:16,240 --> 00:17:22,600
+course.  Let me say this again, guys. I
+
+309
+00:17:18,760 --> 00:17:27,480
+emphasize again. The point is very important. We do
+
+310
+00:17:22,600 --> 00:17:32,000
+n't have just one thing in the fundamentals. It's
+
+311
+00:17:27,480 --> 00:17:34,760
+not a trivial matter. For example, an increase in
+
+312
+00:17:32,000 --> 00:17:39,000
+interest rates is good for a rose. Policies and measures are
+
+313
+00:17:34,760 --> 00:17:43,320
+good for the rate of a currency. But if an increase in interest rates
+
+314
+00:17:39,000 --> 00:17:48,200
+causes a recession, it is
+
+315
+00:17:43,320 --> 00:17:51,200
+negative for that currency.
+
+316
+00:17:48,200 --> 00:17:53,760
+What does improving the return mean? If investors
+
+317
+00:17:51,200 --> 00:17:57,960
+invest their money in that economy, they will
+
+318
+00:17:53,760 --> 00:18:00,679
+receive a higher rate of return. Now, if the
+
+319
+00:17:57,960 --> 00:18:04,679
+economy enters a recession, that economy
+
+320
+00:18:00,679 --> 00:18:06,440
+can still make a profit. So, look at this factor
+
+321
+00:18:04,679 --> 00:18:10,440
+that I'm telling you, or all the
+
+322
+00:18:06,440 --> 00:18:13,400
+fundamental factors that we learn, something is
+
+323
+00:18:10,440 --> 00:18:18,360
+written as a law and it is
+
+324
+00:18:13,400 --> 00:18:21,919
+not always constant. That is, if you
+
+325
+00:18:18,360 --> 00:18:25,559
+go to the chart now, for example, and open the dollar, you
+
+326
+00:18:21,919 --> 00:18:29,280
+bring the US interest rate, you
+
+327
+00:18:25,559 --> 00:18:32,480
+bring the US interest rate, and you see that somewhere the dollar has
+
+328
+00:18:29,280 --> 00:18:36,200
+gone up but the dollar has gone down, do
+
+329
+00:18:32,480 --> 00:18:39,120
+n't be surprised. There is probably another factor that is
+
+330
+00:18:36,200 --> 00:18:40,360
+influential. But theoretically, in
+
+331
+00:18:39,120 --> 00:18:45,280
+fundamentals,
+
+332
+00:18:40,360 --> 00:18:49,039
+hockey policy or an increase in interest rates causes the
+
+333
+00:18:45,280 --> 00:18:52,799
+country's currency to grow. That is, that land can  It will grow,
+
+334
+00:18:49,039 --> 00:18:56,159
+but I will say again that other factors
+
+335
+00:18:52,799 --> 00:18:59,840
+are also influential. But another thing you should
+
+336
+00:18:56,159 --> 00:19:03,120
+consider is, for example, in the Forex market, you
+
+337
+00:18:59,840 --> 00:19:07,760
+have the Euro and the Dollar. You trade the
+
+338
+00:19:03,120 --> 00:19:10,640
+Euro and the Dollar. What is the Euro?
+
+339
+00:19:07,760 --> 00:19:12,799
+What is the condition of the Euro? In the
+
+340
+00:19:10,640 --> 00:19:15,919
+Forex market, we should also have a comparative view. I
+
+341
+00:19:12,799 --> 00:19:18,120
+mean, there is a place. Let me give you another example.
+
+342
+00:19:15,919 --> 00:19:20,400
+You have an interest rate increase. The Dollar is weakening.
+
+343
+00:19:18,120 --> 00:19:23,520
+Maybe the Euro was strong there. Now, for whatever
+
+344
+00:19:20,400 --> 00:19:26,880
+reason, so pay attention to these. We
+
+345
+00:19:23,520 --> 00:19:29,159
+learn the fundamentals. But to get a
+
+346
+00:19:26,880 --> 00:19:32,159
+backtest, for example, you
+
+347
+00:19:29,159 --> 00:19:36,200
+open four, find your fundamental curiosities
+
+348
+00:19:32,159 --> 00:19:37,679
+in the past and see what the conditions were like. The
+
+349
+00:19:36,200 --> 00:19:40,960
+ 
+
+350
+00:19:37,679 --> 00:19:43,000
+market movement conditions and the fundamental factors. You
+
+351
+00:19:40,960 --> 00:19:47,200
+have to be very precise in this
+
+352
+00:19:43,000 --> 00:19:50,760
+case. That is, you should not just have the interest rate
+
+353
+00:19:47,200 --> 00:19:53,080
+and see that, for example, a contradictory movement has
+
+354
+00:19:50,760 --> 00:19:56,200
+occurred. Consider this. It is very
+
+355
+00:19:53,080 --> 00:19:59,440
+important to include this in your backtests. Do
+
+356
+00:19:56,200 --> 00:20:02,440
+n't jump to conclusions. You
+
+357
+00:19:59,440 --> 00:20:04,640
+see somewhere that the interest rate has gone up and the width has gone down.
+
+358
+00:20:02,440 --> 00:20:08,919
+Fundamentals don't work. No, we don't
+
+359
+00:20:04,640 --> 00:20:13,360
+have anything like that. Something else must have happened there.
+
+360
+00:20:08,919 --> 00:20:16,559
+Guys, hawkish policy can
+
+361
+00:20:13,360 --> 00:20:20,159
+also cause negative sentiment or a decline in risky assets. I
+
+362
+00:20:16,559 --> 00:20:25,280
+said here that the increase in fear of recession
+
+363
+00:20:20,159 --> 00:20:29,440
+causes our sentiment to become a risk-off sentiment. The
+
+364
+00:20:25,280 --> 00:20:32,039
+risk-off sentiment that I explained in detail in the video in the previous video is that
+
+365
+00:20:29,440 --> 00:20:35,320
+
+366
+00:20:32,039 --> 00:20:37,640
+the feeling of fear causes risky assets to
+
+367
+00:20:35,320 --> 00:20:40,679
+decline and safe assets to rise.
+
+368
+00:20:37,640 --> 00:20:44,919
+So this is the effect of hawkish policies.
+
+369
+00:20:40,679 --> 00:20:47,720
+So you hear about hawkish policies or,
+
+370
+00:20:44,919 --> 00:20:50,760
+for example, you see a central bank meeting. You
+
+371
+00:20:47,720 --> 00:20:53,919
+should expect such things.
+
+372
+00:20:50,760 --> 00:20:57,120
+On the other hand, how does hawkish policy
+
+373
+00:20:53,919 --> 00:20:59,880
+work? The amount of borrowing increases.
+
+374
+00:20:57,120 --> 00:21:03,320
+Credit in the economy or the
+
+375
+00:20:59,880 --> 00:21:05,480
+amount of loans in the economy increases.
+
+376
+00:21:03,320 --> 00:21:07,840
+What does this cause? It causes economic growth.
+
+377
+00:21:05,480 --> 00:21:12,520
+Increased economic growth,
+
+378
+00:21:07,840 --> 00:21:16,120
+economic activities, increased self-confidence in the economy and the
+
+379
+00:21:12,520 --> 00:21:18,720
+trust of financial market participants
+
+380
+00:21:16,120 --> 00:21:22,799
+ 
+
+381
+00:21:18,720 --> 00:21:25,880
+in the economy. This causes positive sentiment.
+
+382
+00:21:22,799 --> 00:21:28,080
+Guys, one point is the market expectations themselves.
+
+383
+00:21:25,880 --> 00:21:31,520
+Now, in a video, I have to talk about these
+
+384
+00:21:28,080 --> 00:21:33,960
+expectations. The expectations
+
+385
+00:21:31,520 --> 00:21:36,880
+of the market, that is, the investors themselves, are so important.  Kids, it
+
+386
+00:21:33,960 --> 00:21:40,279
+can cause economic growth and recession. It's as
+
+387
+00:21:36,880 --> 00:21:42,919
+simple as that. Even the financial market
+
+388
+00:21:40,279 --> 00:21:47,919
+can cause a recession. For example,
+
+389
+00:21:42,919 --> 00:21:51,360
+consider the 2020 recession. Covid recession. People were afraid to
+
+390
+00:21:47,919 --> 00:21:55,480
+stay home and not spend. It became a recession. 2008
+
+391
+00:21:51,360 --> 00:21:58,880
+financial crisis. 2000 recession. Technology bubble. 1930 recession. The
+
+392
+00:21:55,480 --> 00:22:01,919
+Great Depression. The stock market crash. The recession itself.
+
+393
+00:21:58,880 --> 00:22:03,679
+Kids, look, these were previous recessions.
+
+394
+00:22:01,919 --> 00:22:08,960
+Another
+
+395
+00:22:03,679 --> 00:22:11,960
+reason that can cause a recession is fear in the
+
+396
+00:22:08,960 --> 00:22:15,679
+financial markets. If fear arises,
+
+397
+00:22:11,960 --> 00:22:19,080
+like what happened in 1930 in the Great Depression in
+
+398
+00:22:15,679 --> 00:22:22,919
+America, they call it the Great Depression. The stock
+
+399
+00:22:19,080 --> 00:22:27,120
+market fell by nearly 80 percent. What
+
+400
+00:22:22,919 --> 00:22:29,159
+caused that decline to happen? Fear. Fear
+
+401
+00:22:27,120 --> 00:22:33,320
+arose. 10 percent.
+
+402
+00:22:29,159 --> 00:22:34,200
+Then fear increased. Stocks were falling.
+
+403
+00:22:33,320 --> 00:22:38,120
+ 
+
+404
+00:22:34,200 --> 00:22:40,559
+Prices were falling. This caused
+
+405
+00:22:38,120 --> 00:22:43,000
+people to lose confidence,
+
+406
+00:22:40,559 --> 00:22:49,360
+reduce their spending, and feel less wealthy. So kids,
+
+407
+00:22:43,000 --> 00:22:52,200
+fear or excitement itself can cause a recession or a boom.
+
+408
+00:22:49,360 --> 00:22:55,320
+So these are important factors.
+
+409
+00:22:52,200 --> 00:22:58,039
+Kids, the Dow Jones policy causes the country's currency to fall,
+
+410
+00:22:55,320 --> 00:23:01,000
+but I repeat, keep an eye on those previous factors.
+
+411
+00:22:58,039 --> 00:23:03,960
+
+412
+00:23:01,000 --> 00:23:05,840
+What does it mean when interest rates
+
+413
+00:23:03,960 --> 00:23:11,480
+fall in the economy? The
+
+414
+00:23:05,840 --> 00:23:16,200
+profitability of banks
+
+415
+00:23:11,480 --> 00:23:19,600
+decreases, and
+
+416
+00:23:16,200 --> 00:23:22,320
+investors are no longer willing to
+
+417
+00:23:19,600 --> 00:23:25,360
+
+418
+00:23:22,320 --> 00:23:29,360
+invest in these low-interest economies. And this is one of the reasons why the exchange rate weakens.
+
+419
+00:23:25,360 --> 00:23:35,240
+We also have positive sentiment or the
+
+420
+00:23:29,360 --> 00:23:35,240
+growth of risky assets in the market.
+
+421
+00:23:36,159 --> 00:23:44,360
+In the policy of the
+
+422
+00:23:41,320 --> 00:23:47,919
+central bank, let's get to know each other a little more. Let's
+
+423
+00:23:44,360 --> 00:23:51,200
+talk about various factors, such as
+
+424
+00:23:47,919 --> 00:23:54,400
+what is the backing of the central bank's money? A
+
+425
+00:23:51,200 --> 00:23:57,400
+very important topic is where the backing of money
+
+426
+00:23:54,400 --> 00:24:00,919
+comes from. How
+
+427
+00:23:57,400 --> 00:24:04,000
+can it print money? Well, if money is good, print it, print
+
+428
+00:24:00,919 --> 00:24:07,240
+money, create economic growth.
+
+429
+00:24:04,000 --> 00:24:09,360
+What is the backing of money? Well, we know
+
+430
+00:24:07,240 --> 00:24:13,200
+that money cannot be printed like that,
+
+431
+00:24:09,360 --> 00:24:17,120
+because it creates inflation, and inflation itself
+
+432
+00:24:13,200 --> 00:24:19,360
+can be bad. For brevity, let's get to know
+
+433
+00:24:17,120 --> 00:24:24,279
+each other more. Let's get to
+
+434
+00:24:19,360 --> 00:24:26,440
+know this more with a term
+
+435
+00:24:24,279 --> 00:24:29,159
+called the balance sheet. Here we will get to know the
+
+436
+00:24:26,440 --> 00:24:29,159
+balance sheet of the
+
+437
+00:24:29,840 --> 00:24:34,880
+children for the central bank.  We are
+
+438
+00:24:32,399 --> 00:24:38,640
+talking about the central bank. The central bank's
+
+439
+00:24:34,880 --> 00:24:43,399
+balance sheet means the amount of money that the central bank has
+
+440
+00:24:38,640 --> 00:24:46,240
+printed. The amount of money that the central bank has printed.
+
+441
+00:24:43,399 --> 00:24:49,480
+We call this the central bank's balance sheet.
+
+442
+00:24:46,240 --> 00:24:53,200
+You see this chart a lot in the market. You
+
+443
+00:24:49,480 --> 00:24:55,960
+will see the central bank's balance sheet, which means
+
+444
+00:24:53,200 --> 00:24:58,799
+the amount of money that the central bank has printed.
+
+445
+00:24:55,960 --> 00:25:01,640
+Since 2008, you can see that the central bank's
+
+446
+00:24:58,799 --> 00:25:04,000
+balance sheet has been on the rise. It has always been on the
+
+447
+00:25:01,640 --> 00:25:06,720
+rise throughout history. And from now on, I have a
+
+448
+00:25:04,000 --> 00:25:10,880
+general trend. I will tell you that in
+
+449
+00:25:06,720 --> 00:25:14,120
+2008, the crisis occurred. The
+
+450
+00:25:10,880 --> 00:25:20,279
+balance sheet increased, or you can say, increased
+
+451
+00:25:14,120 --> 00:25:23,600
+money printing and a dovish policy. So the central bank
+
+452
+00:25:20,279 --> 00:25:25,880
+prints money. Its nominal balance goes up. Here, it
+
+453
+00:25:23,600 --> 00:25:29,200
+printed money to support the economy. Its nominal balance goes
+
+454
+00:25:25,880 --> 00:25:31,480
+up. Then, for a period, the balance sheet was stable. It went up a little bit. Then,
+
+455
+00:25:29,200 --> 00:25:35,799
+
+456
+00:25:31,480 --> 00:25:38,120
+
+457
+00:25:35,799 --> 00:25:41,200
+we had the European crisis again in 2014. The economies
+
+458
+00:25:38,120 --> 00:25:44,720
+weakened again. Here, the central bank increased its balance sheet again. The dovish
+
+459
+00:25:41,200 --> 00:25:48,159
+policy came forward.
+
+460
+00:25:44,720 --> 00:25:51,159
+Here, in 2018, the
+
+461
+00:25:48,159 --> 00:25:54,559
+central bank's balance sheet became smaller.
+
+462
+00:25:51,159 --> 00:25:56,919
+Now, I will tell you what it means to become smaller.
+
+463
+00:25:54,559 --> 00:25:59,880
+Just know that the reduction in the balance sheet means
+
+464
+00:25:56,919 --> 00:26:03,080
+that the central bank prints the money that it has printed.  It is coming back,
+
+465
+00:25:59,880 --> 00:26:05,520
+money can be printed, give it
+
+466
+00:26:03,080 --> 00:26:07,880
+to the market, and from there it can collect money from the
+
+467
+00:26:05,520 --> 00:26:10,960
+market. This happened here, it became a
+
+468
+00:26:07,880 --> 00:26:14,480
+hawkish policy, but it didn't last long.
+
+469
+00:26:10,960 --> 00:26:17,559
+Again, we had growth here, then Covid,
+
+470
+00:26:14,480 --> 00:26:20,240
+which suddenly jumped up and supported the
+
+471
+00:26:17,559 --> 00:26:23,240
+banks for ten years by the
+
+472
+00:26:20,240 --> 00:26:27,159
+Federal Reserve. Here you see the Fed's tightening, and now you see the
+
+473
+00:26:23,240 --> 00:26:31,000
+hawkish policy or the reduction of the balance sheet.
+
+474
+00:26:27,159 --> 00:26:33,240
+So the balance sheet means the amount of money
+
+475
+00:26:31,000 --> 00:26:38,080
+that the central bank has printed.
+
+476
+00:26:33,240 --> 00:26:40,640
+Now, what did it buy with the money it printed?
+
+477
+00:26:38,080 --> 00:26:44,440
+We call it the money backed by the bonds it
+
+478
+00:26:40,640 --> 00:26:46,480
+bought. Previously, the money of the children was backed by gold. You can
+
+479
+00:26:44,440 --> 00:26:51,399
+
+480
+00:26:46,480 --> 00:26:54,039
+read about the Bretton Woods issue. It is not very relevant to the market, at least.
+
+481
+00:26:51,399 --> 00:26:55,360
+I want to talk about it here,
+
+482
+00:26:54,039 --> 00:27:00,760
+ 
+
+483
+00:26:55,360 --> 00:27:04,399
+but I don't remember the exact year. What
+
+484
+00:27:00,760 --> 00:27:08,640
+happened was about 50, maybe 60, 70
+
+485
+00:27:04,399 --> 00:27:10,840
+years ago. That history of economies was
+
+486
+00:27:08,640 --> 00:27:15,600
+
+487
+00:27:10,840 --> 00:27:17,600
+no longer backed by gold. From one place it was gold, to another
+
+488
+00:27:15,600 --> 00:27:22,440
+place it was gold. Now,
+
+489
+00:27:17,600 --> 00:27:27,080
+because of its value, and  Anyway,
+
+490
+00:27:22,440 --> 00:27:31,000
+gold has a very good history. From the past to the
+
+491
+00:27:27,080 --> 00:27:34,520
+present, gold was the backer of money, then it became the backer of money. The
+
+492
+00:27:31,000 --> 00:27:38,279
+US dollar
+
+493
+00:27:34,520 --> 00:27:41,120
+gave all the gold to America, and America
+
+494
+00:27:38,279 --> 00:27:44,480
+became the backer of money. Then the dollar was no longer the backer of money,
+
+495
+00:27:41,120 --> 00:27:48,960
+and it became the backer of money.
+
+496
+00:27:44,480 --> 00:27:52,159
+Bonds are the backer of money. So the
+
+497
+00:27:48,960 --> 00:27:56,000
+central bank prints money. What does it buy with them?
+
+498
+00:27:52,159 --> 00:28:01,039
+Bonds are bonds or debt, most of which is
+
+499
+00:27:56,000 --> 00:28:06,240
+government debt. Now, bonds are government debt.
+
+500
+00:28:01,039 --> 00:28:10,159
+So, we said government debt. The government is the biggest
+
+501
+00:28:06,240 --> 00:28:13,799
+player in the economy. The biggest player in the economy is the
+
+502
+00:28:10,159 --> 00:28:17,200
+central bank. It is buying government debt. Or can we
+
+503
+00:28:13,799 --> 00:28:20,600
+say, it is giving money to the government? The
+
+504
+00:28:17,200 --> 00:28:23,720
+government has the most income and the most
+
+505
+00:28:20,600 --> 00:28:26,799
+spending in the economy. We
+
+506
+00:28:23,720 --> 00:28:29,440
+have big development projects from the government. There are a
+
+507
+00:28:26,799 --> 00:28:32,200
+lot of expenses. Budgets that are closed annually.
+
+508
+00:28:29,440 --> 00:28:35,679
+Anyway, the pension issue.
+
+509
+00:28:32,200 --> 00:28:37,320
+These are all government expenses. Government income is
+
+510
+00:28:35,679 --> 00:28:41,519
+also
+
+511
+00:28:37,320 --> 00:28:43,799
+greater than the entire economy. Government income is
+
+512
+00:28:41,519 --> 00:28:47,640
+now greater for a government. Taxes for, for example, the
+
+513
+00:28:43,799 --> 00:28:50,519
+Iranian government.  Oil has the largest income and the
+
+514
+00:28:47,640 --> 00:28:53,679
+largest income and the largest expenditure of the government,
+
+515
+00:28:50,519 --> 00:28:57,799
+so it is buying the government's debt, which this
+
+516
+00:28:53,679 --> 00:29:00,880
+government has a backing anyway, and we
+
+517
+00:28:57,799 --> 00:29:05,679
+want to introduce the least
+
+518
+00:29:00,880 --> 00:29:08,399
+risky member of the economy. The least risky member of the
+
+519
+00:29:05,679 --> 00:29:10,360
+economy is definitely the government,
+
+520
+00:29:08,399 --> 00:29:14,080
+because the government
+
+521
+00:29:10,360 --> 00:29:16,399
+usually does not go bankrupt. So if that
+
+522
+00:29:14,080 --> 00:29:20,320
+happens, it will be a disaster.
+
+523
+00:29:16,399 --> 00:29:22,679
+And the government has the ability to collect taxes.
+
+524
+00:29:20,320 --> 00:29:26,320
+Now I will tell you how and
+
+525
+00:29:22,679 --> 00:29:28,399
+why and why this is important. So here you
+
+526
+00:29:26,320 --> 00:29:33,000
+guys are
+
+527
+00:29:28,399 --> 00:29:36,440
+seeing the reserve balance sheet, and here is the section, which
+
+528
+00:29:33,000 --> 00:29:39,240
+means the assets of the US Federal Reserve. Now, the
+
+529
+00:29:36,440 --> 00:29:43,799
+bad part, Hashem, which is the money that he printed
+
+530
+00:29:39,240 --> 00:29:46,679
+and gave and used to buy bonds, is in the section.
+
+531
+00:29:43,799 --> 00:29:48,760
+Or the central bank's assets behind the money, we're
+
+532
+00:29:46,679 --> 00:29:51,840
+talking about it, where did the money that was printed go?
+
+533
+00:29:48,760 --> 00:29:54,399
+What's behind it? Here you can
+
+534
+00:29:51,840 --> 00:29:57,039
+see, for example, some of it is
+
+535
+00:29:54,399 --> 00:30:01,760
+gold.
+
+536
+00:29:57,039 --> 00:30:06,039
+11, yes, another 11 billion dollars
+
+537
+00:30:01,760 --> 00:30:09,279
+from the central bank. The assets of the central bank of the
+
+538
+00:30:06,039 --> 00:30:13,440
+United States are gold. Then we come
+
+539
+00:30:09,279 --> 00:30:18,159
+down to the most important thing on the
+
+540
+00:30:13,440 --> 00:30:24,760
+central bank's balance sheet. The section is assets. It's securities,
+
+541
+00:30:18,159 --> 00:30:28,279
+or you could say bonds,
+
+542
+00:30:24,760 --> 00:30:31,880
+which are Treasury bonds, which are the US Treasury. The
+
+543
+00:30:28,279 --> 00:30:36,440
+Treasury is the government, meaning that part of the
+
+544
+00:30:31,880 --> 00:30:38,840
+government that is responsible for selling bonds, which
+
+545
+00:30:36,440 --> 00:30:43,960
+is the Treasury.
+
+546
+00:30:38,840 --> 00:30:45,880
+I'll explain it again later. So Treasury securities or
+
+547
+00:30:43,960 --> 00:30:48,880
+Treasury bonds are
+
+548
+00:30:45,880 --> 00:30:50,559
+ 
+
+549
+00:30:48,880 --> 00:30:53,360
+ 
+
+550
+00:30:50,559 --> 00:30:58,399
+ 
+
+551
+00:30:53,360 --> 00:30:59,760
+$5,322 billion, or you could say $5 trillion, 322
+
+552
+00:30:58,399 --> 00:31:04,679
+billion, and
+
+553
+00:30:59,760 --> 00:31:09,600
+8 million. $5 trillion, guys, that's a lot of
+
+554
+00:31:04,679 --> 00:31:13,080
+big numbers, and this is treasury. So
+
+555
+00:31:09,600 --> 00:31:15,200
+what happened? The slide jumped. Let's go get the slide again. So,
+
+556
+00:31:13,080 --> 00:31:17,639
+ 
+
+557
+00:31:15,200 --> 00:31:23,600
+5
+
+558
+00:31:17,639 --> 00:31:26,919
+trillion securities, that's government debt, then the
+
+559
+00:31:23,600 --> 00:31:29,039
+Federal Reserve, and
+
+560
+00:31:26,919 --> 00:31:31,000
+Gorman,
+
+561
+00:31:29,039 --> 00:31:35,240
+which you
+
+562
+00:31:31,000 --> 00:31:38,480
+see here is $5 trillion, 590. Again, these are
+
+563
+00:31:35,240 --> 00:31:43,639
+bonds, guys.  There are loans, but the bonds that
+
+564
+00:31:38,480 --> 00:31:48,240
+go back to mortgages, mortgages, mortgages,
+
+565
+00:31:43,639 --> 00:31:51,919
+bonds, mortgages
+
+566
+00:31:48,240 --> 00:31:55,120
+are extremely low-risk in the United States and the Federal Reserve.
+
+567
+00:31:51,919 --> 00:31:58,519
+Guys, in total, you can say that
+
+568
+00:31:55,120 --> 00:32:02,480
+these two are the assets that
+
+569
+00:31:58,519 --> 00:32:06,320
+make up nearly 90-95% of the central bank's assets. So,
+
+570
+00:32:02,480 --> 00:32:10,159
+treasury bonds and mortgage bonds or
+
+571
+00:32:06,320 --> 00:32:14,679
+mortgage bonds, these two are the main assets of the
+
+572
+00:32:10,159 --> 00:32:19,039
+central bank. If we add up the number, it will be 7
+
+573
+00:32:14,679 --> 00:32:23,320
+trillion and 900 thousand. As you can see, the total
+
+574
+00:32:19,039 --> 00:32:26,559
+assets of the central bank are 8 trillion and 375
+
+575
+00:32:23,320 --> 00:32:29,600
+thousand, which means that the other 4400
+
+576
+00:32:26,559 --> 00:32:33,559
+are other things, for example, gold
+
+577
+00:32:29,600 --> 00:32:37,000
+is an exception, or those coins are an exception, etc. You
+
+578
+00:32:33,559 --> 00:32:40,080
+can see how it is. So, the
+
+579
+00:32:37,000 --> 00:32:43,639
+central bank prints money,
+
+580
+00:32:40,080 --> 00:32:47,960
+buys bonds, and here you
+
+581
+00:32:43,639 --> 00:32:51,519
+see that percentage of bonds, Jerry Securities,
+
+582
+00:32:47,960 --> 00:32:53,120
+Agency MBS, and Agency Dep, which
+
+583
+00:32:51,519 --> 00:32:59,320
+becomes a security, are
+
+584
+00:32:53,120 --> 00:33:02,480
+the same Treasury bonds, the US Treasury
+
+585
+00:32:59,320 --> 00:33:07,679
+MBS, the
+
+586
+00:33:02,480 --> 00:33:08,480
+mortgage bonds.  Mortgage bonds, agency debt, you
+
+587
+00:33:07,679 --> 00:33:12,120
+ 
+
+588
+00:33:08,480 --> 00:33:15,440
+can also get that agency debt. Now I don't know
+
+589
+00:33:12,120 --> 00:33:19,120
+exactly what he means, but there are very few of them. There are very few of them. It's very small. It's
+
+590
+00:33:15,440 --> 00:33:23,960
+insignificant. It doesn't matter at all.
+
+591
+00:33:19,120 --> 00:33:28,159
+Now we said that the government, guys, has the ability to collect
+
+592
+00:33:23,960 --> 00:33:33,440
+taxes. The ability to collect taxes on
+
+593
+00:33:28,159 --> 00:33:36,960
+bonds is a good backing for money.
+
+594
+00:33:33,440 --> 00:33:39,120
+Yes, it is. Because the government has the ability to
+
+595
+00:33:36,960 --> 00:33:42,360
+collect taxes. What does it mean that if the
+
+596
+00:33:39,120 --> 00:33:45,440
+central bank prints more money, it buys more bonds
+
+597
+00:33:42,360 --> 00:33:47,880
+with it. And the
+
+598
+00:33:45,440 --> 00:33:51,240
+more bonds it buys with it means there is
+
+599
+00:33:47,880 --> 00:33:54,480
+more money in the economy. More money in the
+
+600
+00:33:51,240 --> 00:33:57,320
+economy causes us to have more economic growth.
+
+601
+00:33:54,480 --> 00:34:00,840
+More economic growth causes the
+
+602
+00:33:57,320 --> 00:34:04,840
+government to be able to collect more taxes. And
+
+603
+00:34:00,840 --> 00:34:08,240
+when it can collect more taxes, the
+
+604
+00:34:04,840 --> 00:34:12,320
+central bank can pay its debts.
+
+605
+00:34:08,240 --> 00:34:14,200
+So when the central bank prints money, the
+
+606
+00:34:12,320 --> 00:34:18,399
+ 
+
+607
+00:34:14,200 --> 00:34:22,879
+government can also pay
+
+608
+00:34:18,399 --> 00:34:26,280
+its debts. So we don't have a problem. The backing of money is
+
+609
+00:34:22,879 --> 00:34:29,760
+not money in the air. Some economists
+
+610
+00:34:26,280 --> 00:34:32,119
+say, I don't know, money is being
+
+611
+00:34:29,760 --> 00:34:35,040
+printed in the air and these bonds are being bought with it.
+
+612
+00:34:32,119 --> 00:34:37,679
+Now, it's true that compared to gold and to
+
+613
+00:34:35,040 --> 00:34:41,399
+past monetary systems,  The amount is
+
+614
+00:34:37,679 --> 00:34:44,639
+up in the air, meaning that whenever the central bank
+
+615
+00:34:41,399 --> 00:34:46,720
+wants, it can buy bonds indefinitely,
+
+616
+00:34:44,639 --> 00:34:49,359
+but they don't do that either because it
+
+617
+00:34:46,720 --> 00:34:51,119
+creates inflation and slows down economic growth. The interest
+
+618
+00:34:49,359 --> 00:34:56,079
+
+619
+00:34:51,119 --> 00:34:59,520
+rate on liquidity is a
+
+620
+00:34:56,079 --> 00:35:03,400
+very important topic in central monetary policy.
+
+621
+00:34:59,520 --> 00:35:06,760
+Guys, the impact of factors is like this:
+
+622
+00:35:03,400 --> 00:35:11,200
+When the central bank increases its interest rate,
+
+623
+00:35:06,760 --> 00:35:13,880
+banks also raise their interest rates to fever pitch.
+
+624
+00:35:11,200 --> 00:35:16,800
+Now, I want to explain this mechanism very simply
+
+625
+00:35:13,880 --> 00:35:20,240
+and briefly to you. Of
+
+626
+00:35:16,800 --> 00:35:24,280
+course, this mechanism is somewhat outdated,
+
+627
+00:35:20,240 --> 00:35:28,280
+so I'll tell you again. You see, the central bank
+
+628
+00:35:24,280 --> 00:35:31,000
+usually
+
+629
+00:35:28,280 --> 00:35:32,880
+sets the interbank interest rate as a criterion,
+
+630
+00:35:31,000 --> 00:35:35,240
+meaning it regulates it.
+
+631
+00:35:32,880 --> 00:35:37,520
+What is the interbank interest rate? Banks, guys, pay this interest rate when they
+
+632
+00:35:35,240 --> 00:35:40,480
+want to lend to each other or when they want to
+
+633
+00:35:37,520 --> 00:35:44,119
+borrow money from the central bank.
+
+634
+00:35:40,480 --> 00:35:46,520
+When the interbank interest rate increases, it
+
+635
+00:35:44,119 --> 00:35:50,359
+means that the cost of
+
+636
+00:35:46,520 --> 00:35:53,680
+funding for banks
+
+637
+00:35:50,359 --> 00:35:56,720
+increases, and when the cost of funding for
+
+638
+00:35:53,680 --> 00:36:00,520
+banks  They
+
+639
+00:35:56,720 --> 00:36:02,599
+don't lend to their customers at the previous rates. They
+
+640
+00:36:00,520 --> 00:36:05,319
+don't lend to them at the previous rates. They say that now
+
+641
+00:36:02,599 --> 00:36:07,240
+our financing has become difficult, so you have to
+
+642
+00:36:05,319 --> 00:36:11,160
+pay
+
+643
+00:36:07,240 --> 00:36:14,359
+us more interest. No matter how much the interbank interest rate decreases,
+
+644
+00:36:11,160 --> 00:36:17,000
+and the banks' financing, they can now finance each other.
+
+645
+00:36:14,359 --> 00:36:20,160
+
+646
+00:36:17,000 --> 00:36:21,280
+We have a number of banks in the banking system that have a
+
+647
+00:36:20,160 --> 00:36:24,920
+ 
+
+648
+00:36:21,280 --> 00:36:27,200
+budget deficit. They have a deficit of that balance.
+
+649
+00:36:24,920 --> 00:36:30,560
+Some banks have a surplus. They lend money to each other. They give
+
+650
+00:36:27,200 --> 00:36:34,280
+overnight loans and
+
+651
+00:36:30,560 --> 00:36:37,760
+one-month loans. In any case,
+
+652
+00:36:34,280 --> 00:36:41,119
+when the interbank interest rate changes, it
+
+653
+00:36:37,760 --> 00:36:43,720
+
+654
+00:36:41,119 --> 00:36:47,640
+becomes more or less difficult for banks to secure capital, and this also affects the system and the
+
+655
+00:36:43,720 --> 00:36:49,000
+interest rate they give to their customers. Let me
+
+656
+00:36:47,640 --> 00:36:52,119
+ 
+
+657
+00:36:49,000 --> 00:36:54,240
+
+658
+00:36:52,119 --> 00:36:54,920
+tell you another thing. Guys, the interest rate in the US, for example, now
+
+659
+00:36:54,240 --> 00:36:59,599
+ 
+
+660
+00:36:54,920 --> 00:37:03,920
+5.50% of a customer, that individual or legal entity,
+
+661
+00:36:59,599 --> 00:37:07,960
+or a company,
+
+662
+00:37:03,920 --> 00:37:10,440
+won't take a loan at 5.50%. In the economy, this is the minimum
+
+663
+00:37:07,960 --> 00:37:13,960
+interest rate in the economy. But when  The
+
+664
+00:37:10,440 --> 00:37:18,560
+interest rate goes up
+
+665
+00:37:13,960 --> 00:37:22,040
+because when this bank wants to lend, it
+
+666
+00:37:18,560 --> 00:37:26,200
+also considers the risk of not repaying its capital
+
+667
+00:37:22,040 --> 00:37:29,240
+and says, "What if my money is not paid here?" It's
+
+668
+00:37:26,200 --> 00:37:31,880
+true that it takes these collaterals, but the
+
+669
+00:37:29,240 --> 00:37:35,119
+higher the risk, the
+
+670
+00:37:31,880 --> 00:37:39,400
+higher the reward, so see,
+
+671
+00:37:35,119 --> 00:37:42,400
+this interest rate does not reach the consumer. Now let's
+
+672
+00:37:39,400 --> 00:37:45,079
+go back to the central bank. How does the central bank set
+
+673
+00:37:42,400 --> 00:37:49,240
+policy? It
+
+674
+00:37:45,079 --> 00:37:51,760
+determines the interest rate and affects
+
+675
+00:37:49,240 --> 00:37:55,000
+all borrowing and lending rates in the
+
+676
+00:37:51,760 --> 00:37:57,560
+economy. I told you that we
+
+677
+00:37:55,000 --> 00:38:03,200
+can come up with many different names for interest rates. They are very
+
+678
+00:37:57,560 --> 00:38:06,720
+high, but it doesn't make much difference. I do
+
+679
+00:38:03,200 --> 00:38:09,119
+n't know which interest rate is important. When the
+
+680
+00:38:06,720 --> 00:38:11,359
+central bank's interest rate goes up, all rates
+
+681
+00:38:09,119 --> 00:38:14,599
+must go up. When rates
+
+682
+00:38:11,359 --> 00:38:17,079
+go down, all rates go down. The
+
+683
+00:38:14,599 --> 00:38:20,640
+central bank has a coalition. The second tool it has is buying and
+
+684
+00:38:17,079 --> 00:38:23,240
+selling bonds. Increasing or decreasing the
+
+685
+00:38:20,640 --> 00:38:27,599
+monetary base and liquidity. Let me explain this to you. The
+
+686
+00:38:23,240 --> 00:38:30,440
+central bank is one of the players in the
+
+687
+00:38:27,599 --> 00:38:33,480
+bond market.  Just like the bonds
+
+688
+00:38:30,440 --> 00:38:38,720
+were on the balance sheet of the central bank, where
+
+689
+00:38:33,480 --> 00:38:42,920
+90-95% of the central bank's assets are bonds, the
+
+690
+00:38:38,720 --> 00:38:45,400
+same goes for banks. Banks also
+
+691
+00:38:42,920 --> 00:38:48,880
+keep a significant amount of their money in bonds.
+
+692
+00:38:45,400 --> 00:38:51,800
+Now it's somewhere between 30-40%, and some banks
+
+693
+00:38:48,880 --> 00:38:55,079
+have 50%. Why are bonds such an important asset? I repeat,
+
+694
+00:38:51,800 --> 00:39:01,720
+the support goes back to the government. The
+
+695
+00:38:55,079 --> 00:39:05,400
+government doesn't collapse. The government doesn't go bankrupt. It
+
+696
+00:39:01,720 --> 00:39:10,680
+pays its debt. It
+
+697
+00:39:05,400 --> 00:39:14,480
+has a very low risk. Banks, in any case, have their own system. Their
+
+698
+00:39:10,680 --> 00:39:16,960
+business is based on the fact that I have
+
+699
+00:39:14,480 --> 00:39:19,000
+money and I'm borrowing it from someone.
+
+700
+00:39:16,960 --> 00:39:21,160
+For example, an investor brings a polio vaccine and puts it
+
+701
+00:39:19,000 --> 00:39:23,079
+in my bank. I lend this money to another person.
+
+702
+00:39:21,160 --> 00:39:25,640
+The bank makes a profit like this. It takes the
+
+703
+00:39:23,079 --> 00:39:28,000
+money from another person at a
+
+704
+00:39:25,640 --> 00:39:31,880
+lower rate and lends it to another person
+
+705
+00:39:28,000 --> 00:39:34,680
+at a higher rate. For the bank, this risk is
+
+706
+00:39:31,880 --> 00:39:38,119
+very important. Risk management is a risk issue.
+
+707
+00:39:34,680 --> 00:39:41,359
+If, for example, it wants to lend all of its assets and put them all
+
+708
+00:39:38,119 --> 00:39:44,200
+in the stock market, it
+
+709
+00:39:41,359 --> 00:39:48,720
+increases its risk.  It is possible that it will go bankrupt due to an
+
+710
+00:39:44,200 --> 00:39:52,119
+event, for example, Covid comes and the bank
+
+711
+00:39:48,720 --> 00:39:54,599
+goes bankrupt. Why because it did not have bonds?
+
+712
+00:39:52,119 --> 00:39:57,720
+Bonds were risky when Covid came.
+
+713
+00:39:54,599 --> 00:40:00,400
+What happened to them? Their price
+
+714
+00:39:57,720 --> 00:40:03,599
+went up sharply. No matter how much banks lost in stocks
+
+715
+00:40:00,400 --> 00:40:08,000
+when they wanted to review
+
+716
+00:40:03,599 --> 00:40:11,319
+their balance sheets,
+
+717
+00:40:08,000 --> 00:40:15,119
+here are bonds. The increase in
+
+718
+00:40:11,319 --> 00:40:20,119
+bond prices has eliminated that loss. So
+
+719
+00:40:15,119 --> 00:40:24,680
+bonds are characterized by low risk and are
+
+720
+00:40:20,119 --> 00:40:26,440
+extremely important and influential for a system like a bank.
+
+721
+00:40:24,680 --> 00:40:29,880
+Now we were talking about buying and selling
+
+722
+00:40:26,440 --> 00:40:32,160
+bonds from the central bank. The
+
+723
+00:40:29,880 --> 00:40:34,880
+central bank is also one of the actors in the
+
+724
+00:40:32,160 --> 00:40:38,440
+bond market and can buy and sell bonds. It is
+
+725
+00:40:34,880 --> 00:40:40,839
+called open market operations. Now I do
+
+726
+00:40:38,440 --> 00:40:43,760
+not want to talk about it because I say that a
+
+727
+00:40:40,839 --> 00:40:46,640
+number of these operations have become obsolete in the economy. I will
+
+728
+00:40:43,760 --> 00:40:50,079
+tell you the reason at the end. But the central bank
+
+729
+00:40:46,640 --> 00:40:52,800
+can also be influential in this way.
+
+730
+00:40:50,079 --> 00:40:53,880
+In the United States, this topic has
+
+731
+00:40:52,800 --> 00:40:57,560
+ 
+
+732
+00:40:53,880 --> 00:40:59,839
+become somewhat less important. How does it affect the buying and selling of
+
+733
+00:40:57,560 --> 00:41:03,880
+bonds? It causes the price of
+
+734
+00:40:59,839 --> 00:41:07,119
+bonds to go up and down, and this is how it affects the buying and selling of bonds.  Banks' trust can be
+
+735
+00:41:03,880 --> 00:41:11,520
+
+736
+00:41:07,119 --> 00:41:16,680
+said to be the increase or decrease in the capital of banks
+
+737
+00:41:11,520 --> 00:41:19,839
+or the lack of liquidity in the banking system, which
+
+738
+00:41:16,680 --> 00:41:24,079
+causes the decrease in bonds, and this
+
+739
+00:41:19,839 --> 00:41:27,480
+causes interest rates to affect the decision of
+
+740
+00:41:24,079 --> 00:41:30,400
+banks to lend or not. There
+
+741
+00:41:27,480 --> 00:41:32,640
+are times when interest rates go
+
+742
+00:41:30,400 --> 00:41:34,480
+up and down. The consumer is now willing to
+
+743
+00:41:32,640 --> 00:41:36,800
+borrow or not. There are times when the
+
+744
+00:41:34,480 --> 00:41:40,200
+bank itself does not want to lend at all. For example,
+
+745
+00:41:36,800 --> 00:41:43,839
+you may be interested in what happened during Covid itself. When Covid
+
+746
+00:41:40,200 --> 00:41:46,040
+came, the banks themselves did not lend
+
+747
+00:41:43,839 --> 00:41:49,000
+even though the interest rates were extremely low.
+
+748
+00:41:46,040 --> 00:41:51,800
+Because it was not at all clear what was going to happen tomorrow, so the
+
+749
+00:41:49,000 --> 00:41:55,839
+bank saw the risk of lending higher.
+
+750
+00:41:51,800 --> 00:41:59,040
+But the third thing is determining the repo and
+
+751
+00:41:55,839 --> 00:42:01,400
+reverse repo rates. The increase or decrease in the
+
+752
+00:41:59,040 --> 00:42:04,240
+monetary base of liquidity in the economy affects the
+
+753
+00:42:01,400 --> 00:42:07,280
+borrowing rate of the economy.
+
+754
+00:42:04,240 --> 00:42:08,920
+I will explain this to you in detail because now it is an important issue,
+
+755
+00:42:07,280 --> 00:42:13,319
+at least in the
+
+756
+00:42:08,920 --> 00:42:15,920
+discussion of the US economy. Now
+
+757
+00:42:13,319 --> 00:42:20,559
+what is repo? Repo? Reverse
+
+758
+00:42:15,920 --> 00:42:24,200
+repo? Guys, let's consider a purchase and sale contract.
+
+759
+00:42:20,559 --> 00:42:27,480
+Now I brought this up personally.
+
+760
+00:42:24,200 --> 00:42:30,680
+You can bring two banks. The
+
+761
+00:42:27,480 --> 00:42:30,680
+central bank and
+
+762
+00:42:30,800 --> 00:42:38,079
+Bring the bank here, you can replace this person, then the
+
+763
+00:42:33,800 --> 00:42:42,000
+central bank, the bank. Suppose there is a contract where
+
+764
+00:42:38,079 --> 00:42:45,280
+a bank or person A gives money to person B
+
+765
+00:42:42,000 --> 00:42:50,359
+and person B buys bonds. This is a
+
+766
+00:42:45,280 --> 00:42:55,720
+simple purchase and sale contract. But what is a repo? Repo
+
+767
+00:42:50,359 --> 00:42:59,400
+means specifying a specific time to
+
+768
+00:42:55,720 --> 00:43:01,839
+return the loan. What does it mean? I
+
+769
+00:42:59,400 --> 00:43:04,160
+will give you some money now, I will buy your loan from you,
+
+770
+00:43:01,839 --> 00:43:04,160
+ 
+
+771
+00:43:04,880 --> 00:43:11,359
+and we will specify a time to do
+
+772
+00:43:08,599 --> 00:43:14,640
+this reverse contract. This is called a
+
+773
+00:43:11,359 --> 00:43:16,839
+reverse repo contract.
+
+774
+00:43:14,640 --> 00:43:20,839
+This is called a repo contract. So
+
+775
+00:43:16,839 --> 00:43:23,440
+we specify a time to do this reverse
+
+776
+00:43:20,839 --> 00:43:27,079
+contract. What does it mean? For
+
+777
+00:43:23,440 --> 00:43:30,359
+example, we say, "I will buy your bonds from you now in a month,
+
+778
+00:43:27,079 --> 00:43:32,760
+but I am obliged to return
+
+779
+00:43:30,359 --> 00:43:36,440
+your bonds to you in a month
+
+780
+00:43:32,760 --> 00:43:41,839
+and
+
+781
+00:43:36,440 --> 00:43:46,280
+get my money back." But I will get my money back, but with a certain amount of
+
+782
+00:43:41,839 --> 00:43:49,800
+interest that is specified. We call this the
+
+783
+00:43:46,280 --> 00:43:52,480
+repo interest rate. I charge you an interest
+
+784
+00:43:49,800 --> 00:43:55,280
+because they are financing you.
+
+785
+00:43:52,480 --> 00:43:58,319
+Here, we call bonds or bonds collateral,
+
+786
+00:43:55,280 --> 00:44:01,400
+which means a guarantee.
+
+787
+00:43:58,319 --> 00:44:05,599
+You took a loan from me, you
+
+788
+00:44:01,400 --> 00:44:08,640
+gave me your bonds, so we call it a
+
+789
+00:44:05,599 --> 00:44:13,240
+collateral in the repo market or
+
+790
+00:44:08,640 --> 00:44:16,520
+collateral in English, so it becomes a repo, a
+
+791
+00:44:13,240 --> 00:44:21,319
+reverse contract must be done,
+
+792
+00:44:16,520 --> 00:44:25,640
+and for banks, for the central bank, this
+
+793
+00:44:21,319 --> 00:44:29,319
+financing system is a very important and reliable system.
+
+794
+00:44:25,640 --> 00:44:31,800
+Now, let me give you an example.
+
+795
+00:44:29,319 --> 00:44:34,160
+Consider a bank. Bank A, Bank B,
+
+796
+00:44:31,800 --> 00:44:34,160
+Bank
+
+797
+00:44:34,599 --> 00:44:43,040
+A has a liquidity shortage. Now, let's consider a simple example
+
+798
+00:44:39,920 --> 00:44:46,400
+during the day. In Iran,
+
+799
+00:44:43,040 --> 00:44:48,319
+for example, a group of people go and deposit money in a
+
+800
+00:44:46,400 --> 00:44:51,720
+group of banks. Some people also take money out of a
+
+801
+00:44:48,319 --> 00:44:54,280
+group of banks. Now, at the end of the
+
+802
+00:44:51,720 --> 00:44:58,599
+day, Bank A
+
+803
+00:44:54,280 --> 00:45:01,559
+
+804
+00:44:58,599 --> 00:45:04,599
+
+805
+00:45:01,559 --> 00:45:08,680
+
+806
+00:45:04,599 --> 00:45:11,079
+has a deficit of money. If the money that has gone out of Bank A is
+
+807
+00:45:08,680 --> 00:45:14,920
+more than the money that has come in,
+
+808
+00:45:11,079 --> 00:45:20,599
+Bank A has a surplus. Usually, banks that have a
+
+809
+00:45:14,920 --> 00:45:22,839
+deficit are forced to provide financing.
+
+810
+00:45:20,599 --> 00:45:25,839
+Why? One reason for this is because of the
+
+811
+00:45:22,839 --> 00:45:28,920
+reserve amount that the central bank has set, because those
+
+812
+00:45:25,839 --> 00:45:32,599
+reserves have changed hands with the central bank.  For
+
+813
+00:45:28,920 --> 00:45:35,880
+example, 20% of this reserve amount is because they have a
+
+814
+00:45:32,599 --> 00:45:38,160
+deficit. 19 banks have to
+
+815
+00:45:35,880 --> 00:45:41,359
+bring it back to 200 at the end of the day, and the
+
+816
+00:45:38,160 --> 00:45:45,160
+central bank will catch it. So, a bank with a
+
+817
+00:45:41,359 --> 00:45:48,240
+deficit has to finance itself. Now, a
+
+818
+00:45:45,160 --> 00:45:51,680
+bank with a deficit can finance itself
+
+819
+00:45:48,240 --> 00:45:55,920
+in several ways. It can sell its bonds,
+
+820
+00:45:51,680 --> 00:45:59,200
+sell its stocks. It can. It can. It can. Yes, it can. It. It. can. It. It. can. It. It. can. It. It. can. It. It. can. It. can. It. can. It. can. It. can. It. can. It. can. It. can. It. can. It. can. It. can. It. can. It. can. It. can. It. can. It. can. It. can. It. can. It. can. It. can. It. can. It. can. It. can. It. can. It. can. It. can. It. can. It. can.  I
+
+821
+00:45:55,920 --> 00:46:01,760
+
+822
+00:45:59,200 --> 00:46:04,040
+
+823
+00:46:01,760 --> 00:46:04,040
+ 
+
+824
+00:46:04,359 --> 00:46:10,119
+
+825
+00:46:07,960 --> 00:46:12,319
+
+826
+00:46:10,119 --> 00:46:15,160
+
+827
+00:46:12,319 --> 00:46:19,400
+
+828
+00:46:15,160 --> 00:46:23,359
+
+829
+00:46:19,400 --> 00:46:26,920
+
+830
+00:46:23,359 --> 00:46:29,599
+
+831
+00:46:26,920 --> 00:46:32,559
+
+832
+00:46:29,599 --> 00:46:35,319
+
+833
+00:46:32,559 --> 00:46:38,240
+
+834
+00:46:35,319 --> 00:46:42,119
+
+835
+00:46:38,240 --> 00:46:44,520
+
+836
+00:46:42,119 --> 00:46:47,920
+
+837
+00:46:44,520 --> 00:46:50,640
+
+838
+00:46:47,920 --> 00:46:55,240
+
+839
+00:46:50,640 --> 00:46:59,119
+do short-term financing, even overnight. So
+
+840
+00:46:55,240 --> 00:47:01,880
+this repo in the current economies, especially the
+
+841
+00:46:59,119 --> 00:47:04,640
+economies of the US and Europe, these
+
+842
+00:47:01,880 --> 00:47:08,760
+are influential. They are one of the factors that
+
+843
+00:47:04,640 --> 00:47:12,599
+banks can use to finance
+
+844
+00:47:08,760 --> 00:47:16,200
+and compensate for their deficits. So repo
+
+845
+00:47:12,599 --> 00:47:20,079
+is when a bank gives bonds to the Federal Reserve
+
+846
+00:47:16,200 --> 00:47:22,839
+or to another bank or to another bank. Well, repo
+
+847
+00:47:20,079 --> 00:47:25,680
+is between institutions and banks and the Federal Reserve. Now, I
+
+848
+00:47:22,839 --> 00:47:28,880
+brought the Fed here. I brought the central bank.
+
+849
+00:47:25,680 --> 00:47:32,160
+Repo is when you see a bank and you take money from the central bank.
+
+850
+00:47:28,880 --> 00:47:34,559
+
+851
+00:47:32,160 --> 00:47:37,800
+Then, for example, a contract that has ended
+
+852
+00:47:34,559 --> 00:47:40,720
+will take money from you again. You
+
+853
+00:47:37,800 --> 00:47:44,240
+forgive your bonds. They take money from you. They
+
+854
+00:47:40,720 --> 00:47:48,359
+return the bonds to you. Now,
+
+855
+00:47:44,240 --> 00:47:52,920
+what does reverse repo mean? This is specific to the central bank.
+
+856
+00:47:48,359 --> 00:47:56,119
+Reverse repo means that the bank gives money to the
+
+857
+00:47:52,920 --> 00:47:58,480
+central bank and takes bonds. Does the central bank
+
+858
+00:47:56,119 --> 00:48:01,599
+have bonds? Yes, the central bank's balance sheet
+
+859
+00:47:58,480 --> 00:48:06,160
+was bonds. The central bank has the most bonds in its own portfolio.
+
+860
+00:48:01,599 --> 00:48:08,680
+In economics, we said that the
+
+861
+00:48:06,160 --> 00:48:11,920
+central bank has 8 trillion bonds, the US government's debt.
+
+862
+00:48:08,680 --> 00:48:15,720
+Banks are lending money or institutions or money
+
+863
+00:48:11,920 --> 00:48:19,200
+market funds are lending money and
+
+864
+00:48:15,720 --> 00:48:20,839
+receiving bonds from banks. We call this a
+
+865
+00:48:19,200 --> 00:48:24,400
+reverse
+
+866
+00:48:20,839 --> 00:48:28,599
+repo. And guys, reverse
+
+867
+00:48:24,400 --> 00:48:31,920
+repo is now one of the
+
+868
+00:48:28,599 --> 00:48:36,079
+important tools of central banks, especially the
+
+869
+00:48:31,920 --> 00:48:39,760
+Federal Reserve. Why did those previous tools
+
+870
+00:48:36,079 --> 00:48:42,480
+lose their effectiveness?
+
+871
+00:48:39,760 --> 00:48:45,000
+Because, for example, when a crisis like Covid
+
+872
+00:48:42,480 --> 00:48:48,000
+occurs, if the interest rate goes to zero, it
+
+873
+00:48:45,000 --> 00:48:50,920
+no longer has an effect on the amount of lending. Because
+
+874
+00:48:48,000 --> 00:48:54,480
+banks are not willing to lend. Or, for example,
+
+875
+00:48:50,920 --> 00:48:58,359
+when interest rates increase,
+
+876
+00:48:54,480 --> 00:49:00,880
+banks are not willing to increase their deposit profits. It
+
+877
+00:48:58,359 --> 00:49:05,559
+can be said that after the
+
+878
+00:49:00,880 --> 00:49:09,280
+numerous crises and the abundant liquidity that
+
+879
+00:49:05,559 --> 00:49:12,480
+we have in the economies, the effectiveness of
+
+880
+00:49:09,280 --> 00:49:15,440
+these tools has decreased. And now, for example, repo
+
+881
+00:49:12,480 --> 00:49:18,839
+is one of the important tools of the central bank. Now, guys, you can see
+
+882
+00:49:15,440 --> 00:49:22,119
+in this picture the amount of the
+
+883
+00:49:18,839 --> 00:49:26,799
+Federal Reserve's reverse repo. What does it mean?
+
+884
+00:49:22,119 --> 00:49:31,760
+How much money do institutions, banks, money market
+
+885
+00:49:26,799 --> 00:49:34,359
+funds, money market funds have?
+
+886
+00:49:31,760 --> 00:49:36,960
+Now, let me explain the money market fund to you.
+
+887
+00:49:34,359 --> 00:49:39,960
+Money market funds are institutions
+
+888
+00:49:36,960 --> 00:49:44,319
+that take money from investors and put it
+
+889
+00:49:39,960 --> 00:49:47,240
+in bonds. In general, you can say that they make an
+
+890
+00:49:44,319 --> 00:49:53,200
+investment in the
+
+891
+00:49:47,240 --> 00:49:56,240
+fixed income market. One
+
+892
+00:49:53,200 --> 00:50:00,000
+of the options they have is reverse repo,
+
+893
+00:49:56,240 --> 00:50:03,440
+which means they give money to the Fed and get the interest rate. I
+
+894
+00:50:00,000 --> 00:50:06,920
+wrote to you here. Determining the repo and reverse
+
+895
+00:50:03,440 --> 00:50:09,319
+repo rates is usually close to the interest rate. The higher the interest rate, the
+
+896
+00:50:06,920 --> 00:50:11,520
+higher the interest rate. That is, if you
+
+897
+00:50:09,319 --> 00:50:14,799
+give your money to this money market fund, they
+
+898
+00:50:11,520 --> 00:50:17,599
+also put money in the hands of the Fed. You give more money to the Fed. You
+
+899
+00:50:14,799 --> 00:50:21,040
+receive more interest. For example,
+
+900
+00:50:17,599 --> 00:50:24,079
+since 2020-21, when interest rates rose, money
+
+901
+00:50:21,040 --> 00:50:27,520
+went to the Federal Reserve. The reverse repo rate went from
+
+902
+00:50:24,079 --> 00:50:30,280
+zero to 5.5. That is why many
+
+903
+00:50:27,520 --> 00:50:33,760
+money market funds or investors
+
+904
+00:50:30,280 --> 00:50:37,400
+took money and gave it to the Fed to
+
+905
+00:50:33,760 --> 00:50:39,440
+get that interest rate. It doesn't matter whether they ask for the interest rate
+
+906
+00:50:37,400 --> 00:50:42,000
+from the bank or from the Fed.
+
+907
+00:50:39,440 --> 00:50:46,559
+Now the Fed itself is giving it directly through the
+
+908
+00:50:42,000 --> 00:50:50,720
+reverse repo market. Now, guys, this is a policy.
+
+909
+00:50:46,559 --> 00:50:54,640
+Reducing the reverse repo  This means that the money in the hands of the
+
+910
+00:50:50,720 --> 00:50:58,240
+Federal Reserve is decreasing. Money is
+
+911
+00:50:54,640 --> 00:51:02,960
+decreasing. This means that the liquidity in
+
+912
+00:50:58,240 --> 00:51:06,559
+the economy and the expansionary policy of the Dow Jones. The increase in the reverse
+
+913
+00:51:02,960 --> 00:51:10,200
+repo rate means that the money in the hands of the Federal Reserve has increased. The
+
+914
+00:51:06,559 --> 00:51:13,960
+Federal Reserve has issued bonds. All
+
+915
+00:51:10,200 --> 00:51:17,200
+institutions and banks, etc. have given money
+
+916
+00:51:13,960 --> 00:51:20,040
+and are receiving interest. They are
+
+917
+00:51:17,200 --> 00:51:22,480
+receiving interest. The increase in the reverse repo rate means a
+
+918
+00:51:20,040 --> 00:51:25,559
+decrease in liquidity. Contractionary policies and a
+
+919
+00:51:22,480 --> 00:51:29,720
+hawkish policy are also there. So we
+
+920
+00:51:25,559 --> 00:51:31,559
+learned about the repo rate here. Here we have the interest rate and the balance sheet of the
+
+921
+00:51:29,720 --> 00:51:34,760
+Federal Reserve. Now we want to give a few
+
+922
+00:51:31,559 --> 00:51:38,799
+examples of what has changed. Here you can see the
+
+923
+00:51:34,760 --> 00:51:42,400
+orange chart of the balance sheet
+
+924
+00:51:38,799 --> 00:51:46,040
+and the blue chart of the interest rate. Guys,
+
+925
+00:51:42,400 --> 00:51:49,400
+when Covid came, interest rates in the United States decreased.
+
+926
+00:51:46,040 --> 00:51:55,520
+Support for the economy and the balance sheet increased. We said that
+
+927
+00:51:49,400 --> 00:52:01,319
+liquidity would increase and interest rates would decrease.
+
+928
+00:51:55,520 --> 00:52:06,440
+Why did the Dow Jones policy support
+
+929
+00:52:01,319 --> 00:52:09,359
+the economy or in 2008, the interest rate went from 5.5
+
+930
+00:52:06,440 --> 00:52:12,920
+to zero. You can also see that the balance sheet
+
+931
+00:52:09,359 --> 00:52:15,400
+increased by nearly 1.5 trillion.
+
+932
+00:52:12,920 --> 00:52:18,559
+So here you see the interest rate and the balance sheet of the Fed.
+
+933
+00:52:15,400 --> 00:52:21,680
+Now what about the stock market?  It shows a reaction
+
+934
+00:52:18,559 --> 00:52:24,440
+to this change in our policies. If you guys
+
+935
+00:52:21,680 --> 00:52:27,599
+now have the balance sheet, you have the interest rate
+
+936
+00:52:24,440 --> 00:52:31,359
+and the stock market. I added a candlestick chart
+
+937
+00:52:27,599 --> 00:52:35,839
+for you. The interest rate cut. The
+
+938
+00:52:31,359 --> 00:52:39,079
+Dow Jones policy. What happened in 2020? What happened in
+
+939
+00:52:35,839 --> 00:52:43,319
+2008? The central bank
+
+940
+00:52:39,079 --> 00:52:46,400
+
+941
+00:52:43,319 --> 00:52:49,160
+lowered the interest rate and increased its balance sheet to support the economy.
+
+942
+00:52:46,400 --> 00:52:52,559
+What caused it? Increased economic growth and
+
+943
+00:52:49,160 --> 00:52:55,559
+increased inflation. The stock market growth in 2008.
+
+944
+00:52:52,559 --> 00:52:58,640
+Look after the crisis. The interest rate reached zero. The balance
+
+945
+00:52:55,559 --> 00:53:02,520
+sheet increased. We
+
+946
+00:52:58,640 --> 00:53:05,640
+had the stock market growth. Here, the stock market grew. Then the
+
+947
+00:53:02,520 --> 00:53:09,799
+interest rate increased. The interest rate increased. The policy
+
+948
+00:53:05,640 --> 00:53:13,240
+indicated that the interest rate increased. The policy indicated that the
+
+949
+00:53:09,799 --> 00:53:16,799
+economic growth decreased. The stock market decline should definitely
+
+950
+00:53:13,240 --> 00:53:19,359
+not decline. Guys, it probably
+
+951
+00:53:16,799 --> 00:53:22,880
+declined. I mean, we want to say its effect. Again, it is
+
+952
+00:53:19,359 --> 00:53:25,720
+not a factor that affects it. We
+
+953
+00:53:22,880 --> 00:53:28,720
+should, for example, evaluate economic growth in hockey policy. If
+
+954
+00:53:25,720 --> 00:53:31,359
+economic growth does not decline, then it is
+
+955
+00:53:28,720 --> 00:53:36,559
+not a negative factor for the economy. So the
+
+956
+00:53:31,359 --> 00:53:40,319
+stock market does not decline. So we, in
+
+957
+00:53:36,559 --> 00:53:44,240
+contractionary or hockey policy, increase the interest rate. Here,
+
+958
+00:53:40,319 --> 00:53:46,640
+you see the stock market suffered. The stock market
+
+959
+00:53:44,240 --> 00:53:50,839
+declines. This is a negative factor for the
+
+960
+00:53:46,640 --> 00:53:55,000
+stock market. Again, it is politics.  The policy became
+
+961
+00:53:50,839 --> 00:53:58,480
+supportive of the economy, the stock market grew, the policy
+
+962
+00:53:55,000 --> 00:54:00,880
+became contractionary, and the economic growth slowed down. You see the
+
+963
+00:53:58,480 --> 00:54:04,839
+stock market decline, the
+
+964
+00:54:00,880 --> 00:54:08,960
+interest rate increase, the balance sheet decrease, the stock market decline, the
+
+965
+00:54:04,839 --> 00:54:10,920
+hawkish policy, and then the stock market growth, which is now
+
+966
+00:54:08,960 --> 00:54:14,920
+due to other issues, such as the fact that we did
+
+967
+00:54:10,920 --> 00:54:17,200
+not have a recession, and also the issue of technology and
+
+968
+00:54:14,920 --> 00:54:19,960
+other issues. Recently, we have had a growth in the
+
+969
+00:54:17,200 --> 00:54:23,160
+stock market. Now,
+
+970
+00:54:19,960 --> 00:54:25,880
+how does the bond market affect the market from
+
+971
+00:54:23,160 --> 00:54:28,559
+monetary policies? If the policies are hawkish, we
+
+972
+00:54:25,880 --> 00:54:31,440
+have an increase in the borrowing rate and the growth rate of
+
+973
+00:54:28,559 --> 00:54:35,440
+its returns. Guys, when the policy becomes hawkish,
+
+974
+00:54:31,440 --> 00:54:37,799
+meaning the interest rate goes up, for example, let me give you an example,
+
+975
+00:54:35,440 --> 00:54:41,280
+consider the repo, it
+
+976
+00:54:37,799 --> 00:54:43,480
+becomes attractive. So
+
+977
+00:54:41,280 --> 00:54:46,319
+investors have one of their options, which can
+
+978
+00:54:43,480 --> 00:54:48,760
+be repo, which has become more attractive. What does this cause?
+
+979
+00:54:46,319 --> 00:54:51,680
+If an auction is
+
+980
+00:54:48,760 --> 00:54:54,359
+held by the US government to
+
+981
+00:54:51,680 --> 00:54:56,480
+issue new debt and provide financing,
+
+982
+00:54:54,359 --> 00:55:00,160
+investors will not do it with those previous rates. The
+
+983
+00:54:56,480 --> 00:55:04,040
+interest rate has easily gone up. The
+
+984
+00:55:00,160 --> 00:55:07,760
+RIPA rate has become attractive. Now, if I am going to buy
+
+985
+00:55:04,040 --> 00:55:11,400
+bonds for the sale of US bonds, I will buy US bonds.  If it's
+
+986
+00:55:07,760 --> 00:55:14,200
+US bonds, I want a higher rate, I want a
+
+987
+00:55:11,400 --> 00:55:17,280
+higher profit, so an increase in
+
+988
+00:55:14,200 --> 00:55:19,319
+interest rates or a hockey policy will cause a growth in yields.
+
+989
+00:55:17,280 --> 00:55:23,720
+See here. Direct coalition.
+
+990
+00:55:19,319 --> 00:55:27,559
+Direct coalition.
+
+991
+00:55:23,720 --> 00:55:31,400
+Direct coalition. Direct coalition. Declining interest rates. Declining
+
+992
+00:55:27,559 --> 00:55:34,160
+bond yields and lowering interest rates. The Dovish policy will cause a
+
+993
+00:55:31,400 --> 00:55:36,520
+decrease in borrowing rates and a decrease in bond yields.
+
+994
+00:55:34,160 --> 00:55:40,799
+When interest rates go down,
+
+995
+00:55:36,520 --> 00:55:42,839
+investment options will decrease. And there, if the
+
+996
+00:55:40,799 --> 00:55:45,799
+government auctions bonds,
+
+997
+00:55:42,839 --> 00:55:49,440
+investors will respond to that auction with lower rates,
+
+998
+00:55:45,799 --> 00:55:53,240
+creating demand. How does the exchange rate
+
+999
+00:55:49,440 --> 00:55:57,160
+and monetary policy affect the land rate?
+
+1000
+00:55:53,240 --> 00:56:00,440
+If we increase interest rates,
+
+1001
+00:55:57,160 --> 00:56:03,160
+currency growth will occur. Interest rates will decrease.
+
+1002
+00:56:00,440 --> 00:56:06,720
+Currency will fall. Increasing interest rates is good for a
+
+1003
+00:56:03,160 --> 00:56:09,079
+currency. Why is it because both the interest rate in
+
+1004
+00:56:06,720 --> 00:56:10,760
+that economy is higher? Foreign investors will
+
+1005
+00:56:09,079 --> 00:56:15,440
+
+1006
+00:56:10,760 --> 00:56:18,599
+come to that economy. And because there is a shortage of that money,
+
+1007
+00:56:15,440 --> 00:56:21,880
+meaning a shortage of dollar liquidity, for example, or a shortage of
+
+1008
+00:56:18,599 --> 00:56:25,559
+euro liquidity. Because in the
+
+1009
+00:56:21,880 --> 00:56:28,440
+hockey policy, the central bank comes in and reduces liquidity and
+
+1010
+00:56:25,559 --> 00:56:31,680
+collects money, for example. One
+
+1011
+00:56:28,440 --> 00:56:34,359
+of the solutions is the repo, reverse repo.  Money comes
+
+1012
+00:56:31,680 --> 00:56:37,079
+to the Fed and the money in the economy that always
+
+1013
+00:56:34,359 --> 00:56:41,200
+increases in value when the money supply decreases. The
+
+1014
+00:56:37,079 --> 00:56:43,920
+Dow Jones policy of lowering interest rates to lower the
+
+1015
+00:56:41,200 --> 00:56:47,839
+country's currency.
+
+1016
+00:56:43,920 --> 00:56:53,000
+But the more important issue in the forex market for us
+
+1017
+00:56:47,839 --> 00:56:56,240
+is the interest rate difference. The interest rate difference in the
+
+1018
+00:56:53,000 --> 00:56:58,720
+previous slide here you
+
+1019
+00:56:56,240 --> 00:57:03,760
+see a direct correlation between the US interest rate and the
+
+1020
+00:56:58,720 --> 00:57:07,839
+DXW, which is the dollar index.
+
+1021
+00:57:03,760 --> 00:57:10,799
+Well, I didn't tell you this in the previous slide. Here, the
+
+1022
+00:57:07,839 --> 00:57:14,359
+first slide of the stock market is the SMP index.
+
+1023
+00:57:10,799 --> 00:57:17,839
+Here we have the 10-year US Treasury
+
+1024
+00:57:14,359 --> 00:57:21,720
+and here we have the DXW, the dollar index.
+
+1025
+00:57:17,839 --> 00:57:25,280
+Well, the dollar index means, well, the
+
+1026
+00:57:21,720 --> 00:57:28,720
+value of the dollar. Look at the direct correlation, but in
+
+1027
+00:57:25,280 --> 00:57:32,559
+some places you see it reversed. The reason
+
+1028
+00:57:28,720 --> 00:57:35,359
+is that the more important issue for us than the interest rate is the
+
+1029
+00:57:32,559 --> 00:57:38,160
+interest rate difference between two countries because we are doing
+
+1030
+00:57:35,359 --> 00:57:40,680
+a trade. We are buying the euro.
+
+1031
+00:57:38,160 --> 00:57:43,839
+For example, we are selling the dollar or we are selling the euro and
+
+1032
+00:57:40,680 --> 00:57:50,079
+buying the dollar. Here, a
+
+1033
+00:57:43,839 --> 00:57:53,799
+trade is being done between two currencies. So the
+
+1034
+00:57:50,079 --> 00:57:58,119
+interest rate difference between two countries has a better correlation or you can
+
+1035
+00:57:53,799 --> 00:58:00,319
+say it has a greater impact on the volatility of that currency.
+
+1036
+00:57:58,119 --> 00:58:02,920
+The DXW, you know.  You see, here is the
+
+1037
+00:58:00,319 --> 00:58:06,960
+dollar index. I'll define my dollar index here. The
+
+1038
+00:58:02,920 --> 00:58:11,880
+dollar index is a basket
+
+1039
+00:58:06,960 --> 00:58:18,960
+of the dollar's parity against various currencies,
+
+1040
+00:58:11,880 --> 00:58:24,119
+which is 57 euros, 13 yen, about 12 pounds,
+
+1041
+00:58:18,960 --> 00:58:28,799
+9 Canadian dollars, Swiss francs, and
+
+1042
+00:58:24,119 --> 00:58:32,039
+Swedish krona. These are the most important currencies. The euro is
+
+1043
+00:58:28,799 --> 00:58:36,160
+57. So when we talk about the dollar index,
+
+1044
+00:58:32,039 --> 00:58:39,280
+most of the euro is the dollar. And here you
+
+1045
+00:58:36,160 --> 00:58:43,039
+
+1046
+00:58:39,280 --> 00:58:47,440
+see the difference between US and European bonds compared to the dollar. The euro, which
+
+1047
+00:58:43,039 --> 00:58:50,720
+can be said here, is USD/EUR, which means
+
+1048
+00:58:47,440 --> 00:58:53,839
+DX/EUR is equal to USD/EUR. Why do
+
+1049
+00:58:50,720 --> 00:58:56,079
+you see the coalition because the dollar is against the euro?
+
+1050
+00:58:53,839 --> 00:58:58,680
+I'll give you another example.
+
+1051
+00:58:56,079 --> 00:59:02,039
+Just see, it doesn't work for the dollar. Here
+
+1052
+00:58:58,680 --> 00:59:05,680
+you see the British pound, the
+
+1053
+00:59:02,039 --> 00:59:08,720
+Australian dollar, and the difference in UK/Australian interest rates.
+
+1054
+00:59:05,680 --> 00:59:11,880
+Direct coalition means you can see the
+
+1055
+00:59:08,720 --> 00:59:14,079
+long-term trend in the forex market. We can
+
+1056
+00:59:11,880 --> 00:59:16,440
+say that this is the interest rate issue.
+
+1057
+00:59:14,079 --> 00:59:18,520
+One of the important factors is this interest rate issue
+
+1058
+00:59:16,440 --> 00:59:22,599
+that determines it.
+
+1059
+00:59:18,520 --> 00:59:25,400
+But well, we've learned so far about the
+
+1060
+00:59:22,599 --> 00:59:27,559
+interest rate, its impact, monetary policies, its impact on
+
+1061
+00:59:25,400 --> 00:59:30,359
+our markets, the game about repo,
+
+1062
+00:59:27,559 --> 00:59:34,359
+how the rate goes.  Hawkeye's policy changes,
+
+1063
+00:59:30,359 --> 00:59:36,720
+but let's see
+
+1064
+00:59:34,359 --> 00:59:40,039
+what's actually happening in the market, what these lamb prices are
+
+1065
+00:59:36,720 --> 00:59:42,920
+and how they are regulated.  Where is it set and
+
+1066
+00:59:40,039 --> 00:59:46,720
+how do we deal with this factor in general?
+
+1067
+00:59:42,920 --> 00:59:50,440
+Events related
+
+1068
+00:59:46,720 --> 00:59:54,039
+to the central bank. We deal with these. There
+
+1069
+00:59:50,440 --> 00:59:57,559
+is an economic calendar where you have different data.
+
+1070
+00:59:54,039 --> 00:59:59,520
+For the central bank, we also have a calendar. We have
+
+1071
+00:59:57,559 --> 01:00:03,000
+events that are
+
+1072
+00:59:59,520 --> 01:00:07,720
+very important to us. Central bank meetings, which have
+
+1073
+01:00:03,000 --> 01:00:11,160
+8 monthly meetings a year. The Federal Reserve has a
+
+1074
+01:00:07,720 --> 01:00:14,520
+picture of it here. For example,
+
+1075
+01:00:11,160 --> 01:00:18,640
+look at the March 21 meeting, March 22, May
+
+1076
+01:00:14,520 --> 01:00:22,760
+meeting, June, July, September, October and
+
+1077
+01:00:18,640 --> 01:00:25,520
+December. You can say that it is every month and a half. Every
+
+1078
+01:00:22,760 --> 01:00:28,799
+month and a half, you can say that it is
+
+1079
+01:00:25,520 --> 01:00:30,319
+regular. We have a statement of economic forecast, the
+
+1080
+01:00:28,799 --> 01:00:34,559
+ 
+
+1081
+01:00:30,319 --> 01:00:37,039
+speeches of the central bank president that are made in that meeting.
+
+1082
+01:00:34,559 --> 01:00:41,240
+That is, we have a specific day and time.
+
+1083
+01:00:37,039 --> 01:00:43,559
+For example, the US central bank meetings are usually held on
+
+1084
+01:00:41,240 --> 01:00:47,760
+Wednesdays at
+
+1085
+01:00:43,559 --> 01:00:49,960
+9:30. First of all, the central bank statement
+
+1086
+01:00:47,760 --> 01:00:52,039
+is published about the economy. They explain what the
+
+1087
+01:00:49,960 --> 01:00:54,920
+economic conditions are like, what growth is like, what
+
+1088
+01:00:52,039 --> 01:00:57,039
+inflation is like, what
+
+1089
+01:00:54,920 --> 01:01:00,720
+ 
+
+1090
+01:00:57,039 --> 01:01:03,160
+employment is like, what policies are like, what are
+
+1091
+01:01:00,720 --> 01:01:06,520
+their forecasts? We have a statement. We
+
+1092
+01:01:03,160 --> 01:01:10,440
+have an economic forecast, which is the economic forecast for each
+
+1093
+01:01:06,520 --> 01:01:14,160
+meeting.  For example, in March
+
+1094
+01:01:10,440 --> 01:01:16,599
+we have projection material, in June we
+
+1095
+01:01:14,160 --> 01:01:20,400
+have this again, but in May or
+
+1096
+01:01:16,599 --> 01:01:23,559
+January and February we did not have this, that is, every three
+
+1097
+01:01:20,400 --> 01:01:25,880
+months, every quarter, every quarter, we
+
+1098
+01:01:23,559 --> 01:01:29,720
+have the economic forecasts of the Central Bank, and the speech of the
+
+1099
+01:01:25,880 --> 01:01:33,280
+Central Bank Governor, which takes place after the release of the statement and
+
+1100
+01:01:29,720 --> 01:01:36,760
+economic forecast, we are
+
+1101
+01:01:33,280 --> 01:01:40,240
+very busy with these meetings. It is a very important topic.
+
+1102
+01:01:36,760 --> 01:01:43,599
+Volatility increases a lot and we
+
+1103
+01:01:40,240 --> 01:01:46,440
+are present in the market during these fluctuations. Contrary to
+
+1104
+01:01:43,599 --> 01:01:49,039
+many who say that there is no presence
+
+1105
+01:01:46,440 --> 01:01:53,000
+in the market during the news because they do not know the fundamentals and
+
+1106
+01:01:49,039 --> 01:01:54,839
+ignore this factor, but we are present
+
+1107
+01:01:53,000 --> 01:01:58,240
+in the market. The most
+
+1108
+01:01:54,839 --> 01:02:01,359
+important part of the market is there. If I
+
+1109
+01:01:58,240 --> 01:02:04,279
+am not there, I will lose the month. If I am not there, I will
+
+1110
+01:02:01,359 --> 01:02:07,799
+lose the seventh. I will lose the trading week.
+
+1111
+01:02:04,279 --> 01:02:10,520
+News is like blood in the veins of the market. If I am
+
+1112
+01:02:07,799 --> 01:02:13,319
+not there during the news, when will I be
+
+1113
+01:02:10,520 --> 01:02:16,359
+present? That news that
+
+1114
+01:02:13,319 --> 01:02:20,039
+shows me which way the market is going to
+
+1115
+01:02:16,359 --> 01:02:21,640
+move and the speeches of the members, which
+
+1116
+01:02:20,039 --> 01:02:24,119
+ 
+
+1117
+01:02:21,640 --> 01:02:27,920
+can be said during our trading weeks, we usually
+
+1118
+01:02:24,119 --> 01:02:30,119
+have these talks of the members until we can say that there are 2
+
+1119
+01:02:27,920 --> 01:02:34,880
+weeks left until the meeting.  Since members
+
+1120
+01:02:30,119 --> 01:02:37,839
+no longer have the right to speak at any public event,
+
+1121
+01:02:34,880 --> 01:02:40,839
+we also have member speeches on a weekly basis. The
+
+1122
+01:02:37,839 --> 01:02:43,440
+different members of each central bank are
+
+1123
+01:02:40,839 --> 01:02:49,240
+made up of a number of members, for example, the Fed has 16
+
+1124
+01:02:43,440 --> 01:02:51,920
+members, the Bank of England has 9 members, yes, 9 to 9
+
+1125
+01:02:49,240 --> 01:02:56,160
+or 8 to 10, I don't know, one of them
+
+1126
+01:02:51,920 --> 01:02:58,440
+was an individual. The Bank of England
+
+1127
+01:02:56,160 --> 01:03:00,839
+has a number of members. The European Central Bank has
+
+1128
+01:02:58,440 --> 01:03:05,079
+more members because they have
+
+1129
+01:03:00,839 --> 01:03:09,000
+representatives from different countries and they give speeches.
+
+1130
+01:03:05,079 --> 01:03:11,160
+Now, let's look at the latest forecast of the US Federal
+
+1131
+01:03:09,000 --> 01:03:13,039
+
+1132
+01:03:11,160 --> 01:03:16,640
+ 
+
+1133
+01:03:13,039 --> 01:03:20,960
+
+1134
+01:03:16,640 --> 01:03:23,599
+
+1135
+01:03:20,960 --> 01:03:25,799
+
+1136
+01:03:23,599 --> 01:03:27,760
+Reserve. Here, I'll bring this, for example, a statement and forecast. Sorry, guys. It's the central bank's forecast. You can see the PDF from the US. This
+
+1137
+01:03:25,799 --> 01:03:30,319
+has a specific pattern for each bank. For example, the
+
+1138
+01:03:27,760 --> 01:03:33,480
+New Zealand Central Bank publishes this quarterly. It
+
+1139
+01:03:30,319 --> 01:03:37,039
+has a PDF of 80 pages. It's a
+
+1140
+01:03:33,480 --> 01:03:39,319
+really great PDF that
+
+1141
+01:03:37,039 --> 01:03:41,960
+examines all the factors. It looks at how the
+
+1142
+01:03:39,319 --> 01:03:44,720
+housing market is, how the economic growth is, how
+
+1143
+01:03:41,960 --> 01:03:47,880
+this market works, inflation, the
+
+1144
+01:03:44,720 --> 01:03:50,160
+wage rate, it explains everything. It's very interesting.  A
+
+1145
+01:03:47,880 --> 01:03:52,680
+bank, for example, the Bank of England
+
+1146
+01:03:50,160 --> 01:03:55,079
+publishes a PDF. The European Central Bank
+
+1147
+01:03:52,680 --> 01:03:57,599
+usually doesn't do this. It means it publishes something
+
+1148
+01:03:55,079 --> 01:04:00,720
+simple. It's a simple text.
+
+1149
+01:03:57,599 --> 01:04:04,440
+For example, our outlook for 2025 looks like this.
+
+1150
+01:04:00,720 --> 01:04:06,839
+Each bank has its own format. But
+
+1151
+01:04:04,440 --> 01:04:10,920
+here you see the
+
+1152
+01:04:06,839 --> 01:04:13,319
+famous dot plot chart for the US Federal Reserve.
+
+1153
+01:04:10,920 --> 01:04:15,680
+Here you see the
+
+1154
+01:04:13,319 --> 01:04:18,960
+central bank's projection or forecast. The dot plot
+
+1155
+01:04:15,680 --> 01:04:21,960
+is a PDF section that
+
+1156
+01:04:18,960 --> 01:04:25,279
+came in the form of dots. They determined their own interest rate forecast.
+
+1157
+01:04:21,960 --> 01:04:28,160
+What is it? Members 16
+
+1158
+01:04:25,279 --> 01:04:32,880
+to 10 said, "Sir, I expect the
+
+1159
+01:04:28,160 --> 01:04:35,319
+interest rate for year 2 to be, for example, 25 here,
+
+1160
+01:04:32,880 --> 01:04:37,319
+3.30 to 3.25." Each of them
+
+1161
+01:04:35,319 --> 01:04:40,920
+gave an opinion. These were collected in the form of dots
+
+1162
+01:04:37,319 --> 01:04:46,480
+and came here.
+
+1163
+01:04:40,920 --> 01:04:51,799
+But the most important table is the table on the second or
+
+1164
+01:04:46,480 --> 01:04:55,279
+third page. Here is Table 1. That first table.
+
+1165
+01:04:51,799 --> 01:05:00,079
+I'll bring it up again. Here, we can say that all
+
+1166
+01:04:55,279 --> 01:05:05,359
+we need is that the guys,
+
+1167
+01:05:00,079 --> 01:05:07,520
+each of the members, give their opinions. We generally
+
+1168
+01:05:05,359 --> 01:05:10,599
+ 
+
+1169
+01:05:07,520 --> 01:05:13,119
+average the opinions.  We see, this
+
+1170
+01:05:10,599 --> 01:05:16,119
+part of the chart is very important for us. I drew this part
+
+1171
+01:05:13,119 --> 01:05:19,119
+badly. This part of the chart is from the rest.
+
+1172
+01:05:16,119 --> 01:05:22,200
+Now, what about the range of fluctuations? For example, they
+
+1173
+01:05:19,119 --> 01:05:25,240
+said about GDP that they said in 2023 it would be 0.5%,
+
+1174
+01:05:22,200 --> 01:05:29,920
+that high. The person who was very optimistic
+
+1175
+01:05:25,240 --> 01:05:33,200
+said 2.5% in 2024 and 2.2% of this
+
+1176
+01:05:29,920 --> 01:05:36,359
+level. We have nothing to do with it. Or, for example, we have
+
+1177
+01:05:33,200 --> 01:05:37,400
+nothing to do with the average or the middle. This is the
+
+1178
+01:05:36,359 --> 01:05:42,319
+ 
+
+1179
+01:05:37,400 --> 01:05:43,920
+average of the opinions that is important for us. The change in the GDP
+
+1180
+01:05:42,319 --> 01:05:46,279
+means the change that we can have in the GDP.
+
+1181
+01:05:43,920 --> 01:05:50,640
+This is the central bank's forecast. The
+
+1182
+01:05:46,279 --> 01:05:54,559
+members of the central bank, guys, how will monetary policy
+
+1183
+01:05:50,640 --> 01:05:59,480
+change? The central bank's goal is to
+
+1184
+01:05:54,559 --> 01:06:03,160
+control inflation. Its goal is employment. Its goal is growth. It
+
+1185
+01:05:59,480 --> 01:06:06,079
+monitors these and then adopts a policy.
+
+1186
+01:06:03,160 --> 01:06:11,680
+If inflation is high, it makes
+
+1187
+01:06:06,079 --> 01:06:15,000
+its policy contractionary. If inflation is
+
+1188
+01:06:11,680 --> 01:06:18,760
+low, it makes its policy
+
+1189
+01:06:15,000 --> 01:06:23,200
+expansionary. It follows it. The central bank
+
+1190
+01:06:18,760 --> 01:06:26,680
+monitors this economy and then
+
+1191
+01:06:23,200 --> 01:06:29,359
+adopts a policy. So the central bank's forecast is very
+
+1192
+01:06:26,680 --> 01:06:33,200
+important. It shows what the members think about the future.
+
+1193
+01:06:29,359 --> 01:06:36,799
+What will the members vote on the interest rate in the future?
+
+1194
+01:06:33,200 --> 01:06:40,839
+So it is very important. Here is a
+
+1195
+01:06:36,799 --> 01:06:44,160
+point in the economic data. We
+
+1196
+01:06:40,839 --> 01:06:47,039
+look at them from the perspective of the central bank. One
+
+1197
+01:06:44,160 --> 01:06:50,119
+of the factors in economic data is the
+
+1198
+01:06:47,039 --> 01:06:51,960
+central bank. The view that the central bank
+
+1199
+01:06:50,119 --> 01:06:56,839
+has on the data. We should look at it the same way.
+
+1200
+01:06:51,960 --> 01:06:59,520
+If the data causes the central bank to move towards the
+
+1201
+01:06:56,839 --> 01:07:02,359
+policies that it indicates, we price that move in the
+
+1202
+01:06:59,520 --> 01:07:05,079
+market. This is where the issue of
+
+1203
+01:07:02,359 --> 01:07:06,799
+expectations arises. Here is where a fundamental analyst
+
+1204
+01:07:05,079 --> 01:07:11,279
+ 
+
+1205
+01:07:06,799 --> 01:07:15,240
+looks at the future. The future. The view is that this is how it
+
+1206
+01:07:11,279 --> 01:07:20,599
+happens. Where are interest rates going to go in the future? It is
+
+1207
+01:07:15,240 --> 01:07:24,079
+very important. Very important. Very important. Which way are interest rates going to
+
+1208
+01:07:20,599 --> 01:07:27,279
+go in the future? The most important
+
+1209
+01:07:24,079 --> 01:07:30,079
+factor that we have in fundamentals. And
+
+1210
+01:07:27,279 --> 01:07:33,760
+this is where the issue of buying rumors and
+
+1211
+01:07:30,079 --> 01:07:36,960
+selling news happens. Many see rates going
+
+1212
+01:07:33,760 --> 01:07:39,920
+down. Why did the market grow because it was
+
+1213
+01:07:36,960 --> 01:07:43,119
+already priced in? Because the
+
+1214
+01:07:39,920 --> 01:07:46,119
+fundamental analyst can understand which direction the economy is going to go. The
+
+1215
+01:07:43,119 --> 01:07:49,960
+possible direction of the economy with a
+
+1216
+01:07:46,119 --> 01:07:52,359
+percentage. The central bank itself cannot say with certainty
+
+1217
+01:07:49,960 --> 01:07:55,039
+which direction the economy is going to go.  Now, I am a
+
+1218
+01:07:52,359 --> 01:07:58,160
+weaker analyst than the central bank,
+
+1219
+01:07:55,039 --> 01:08:01,440
+but I can predict where inflation will
+
+1220
+01:07:58,160 --> 01:08:05,880
+go, where growth will go, where employment will go, so it
+
+1221
+01:08:01,440 --> 01:08:07,799
+is a very important topic. This change in GDP
+
+1222
+01:08:05,880 --> 01:08:11,640
+means the change that we can have in GDP growth. The
+
+1223
+01:08:07,799 --> 01:08:15,759
+average opinion of the members in the
+
+1224
+01:08:11,640 --> 01:08:19,759
+June 2023 meeting was 1% economic growth in
+
+1225
+01:08:15,759 --> 01:08:26,000
+2023. Now, again, a very important point. How important is this
+
+1226
+01:08:19,759 --> 01:08:28,440
+slide? A very important point.
+
+1227
+01:08:26,000 --> 01:08:30,920
+What should our view be on these
+
+1228
+01:08:28,440 --> 01:08:35,000
+forecasts and on the monetary policies of the central bank in general? A
+
+1229
+01:08:30,920 --> 01:08:38,040
+comparative view. Not with that
+
+1230
+01:08:35,000 --> 01:08:40,960
+other currency. Now it is in its place. We said, pay
+
+1231
+01:08:38,040 --> 01:08:43,279
+attention to the euro, the dollar, the US
+
+1232
+01:08:40,960 --> 01:08:47,040
+central bank, pay attention to the European Central Bank. Both are
+
+1233
+01:08:43,279 --> 01:08:47,040
+important. Well,
+
+1234
+01:08:48,480 --> 01:08:57,359
+but what is the comparative view here? Comparison compared to the
+
+1235
+01:08:54,000 --> 01:09:00,440
+past, compared
+
+1236
+01:08:57,359 --> 01:09:03,719
+to yesterday, compared to last week, compared to last month,
+
+1237
+01:09:00,440 --> 01:09:06,719
+compared to the past statement, compared to the past forecast. Has
+
+1238
+01:09:03,719 --> 01:09:10,480
+the central bank been
+
+1239
+01:09:06,719 --> 01:09:13,480
+aggressive or indicated that it has  The
+
+1240
+01:09:10,480 --> 01:09:15,640
+
+1241
+01:09:13,480 --> 01:09:19,560
+
+1242
+01:09:15,640 --> 01:09:19,560
+
+1243
+01:09:19,640 --> 01:09:27,679
+central bank will be more aggressive than yesterday
+
+1244
+01:09:24,400 --> 01:09:30,759
+or the probability of it becoming more aggressive is
+
+1245
+01:09:27,679 --> 01:09:33,440
+higher. We are in a bear market. There is
+
+1246
+01:09:30,759 --> 01:09:37,520
+volatility. Here, economic data is again
+
+1247
+01:09:33,440 --> 01:09:41,319
+influential. Investors say, well,
+
+1248
+01:09:37,520 --> 01:09:44,480
+according to this data, central banks are probably
+
+1249
+01:09:41,319 --> 01:09:47,719
+more aggressive. So let's buy these assets,
+
+1250
+01:09:44,480 --> 01:09:50,839
+sell these assets. How
+
+1251
+01:09:47,719 --> 01:09:53,920
+important is this? On this very important point, we
+
+1252
+01:09:50,839 --> 01:09:56,800
+had a comparative look in this slide compared to the
+
+1253
+01:09:53,920 --> 01:10:00,560
+past, that is, yesterday, last week,
+
+1254
+01:09:56,800 --> 01:10:03,000
+last month, everything compared to the past. And
+
+1255
+01:10:00,560 --> 01:10:07,719
+another point was, what was the point of
+
+1256
+01:10:03,000 --> 01:10:10,440
+cheating? Another point was market expectations.
+
+1257
+01:10:07,719 --> 01:10:12,360
+This is a common discussion. Buy the news, sell it. That is, the
+
+1258
+01:10:10,440 --> 01:10:14,440
+market can predict what the central bank wants to decide in the future. The
+
+1259
+01:10:12,360 --> 01:10:17,280
+
+1260
+01:10:14,440 --> 01:10:21,080
+central bank itself comes and gives the proposed interest rate
+
+1261
+01:10:17,280 --> 01:10:23,320
+for the future. So, on the very important point,
+
+1262
+01:10:21,080 --> 01:10:25,960
+now we were reading the table and getting acquainted with it.
+
+1263
+01:10:23,320 --> 01:10:30,920
+We have 4 factors here,
+
+1264
+01:10:25,960 --> 01:10:34,880
+no, 5, yes, 5. GDP, GDP, which you know
+
+1265
+01:10:30,920 --> 01:10:37,520
+what it is: GDP growth,
+
+1266
+01:10:34,880 --> 01:10:41,679
+Applet rate,
+
+1267
+01:10:37,520 --> 01:10:44,360
+unemployment rate, PCA, which means US inflation,
+
+1268
+01:10:41,679 --> 01:10:46,640
+KPC, net inflation, all.  We will get to know them, don't
+
+1269
+01:10:44,360 --> 01:10:49,360
+worry, just without them, they
+
+1270
+01:10:46,640 --> 01:10:51,560
+are a major factor in fundamentals and
+
+1271
+01:10:49,360 --> 01:10:54,239
+are decisions of central banks. We have been
+
+1272
+01:10:51,560 --> 01:10:57,040
+talking about these things so far. The
+
+1273
+01:10:54,239 --> 01:11:00,560
+growth of the unemployment rate or
+
+1274
+01:10:57,040 --> 01:11:02,560
+employment, inflation, employment growth, inflation, employment growth,
+
+1275
+01:11:00,560 --> 01:11:05,880
+inflation. I have used these three words the most so far.
+
+1276
+01:11:02,560 --> 01:11:09,000
+That's it. That's it. In this
+
+1277
+01:11:05,880 --> 01:11:13,280
+projection or forecast of the central bank, so in
+
+1278
+01:11:09,000 --> 01:11:17,920
+this, he says his own forecast and the
+
+1279
+01:11:13,280 --> 01:11:21,000
+Federal Reserve's policy of the fund rate or the interest rate of the Federal
+
+1280
+01:11:17,920 --> 01:11:24,760
+Reserve or the US Federal Reserve comes in GDP. He
+
+1281
+01:11:21,000 --> 01:11:28,920
+says that I expect growth of 3% to 1% in
+
+1282
+01:11:24,760 --> 01:11:33,719
+2023. Now, what is the comparative view? He himself
+
+1283
+01:11:28,920 --> 01:11:38,159
+brought it here. The March projection means last quarter.
+
+1284
+01:11:33,719 --> 01:11:40,880
+This was the forecast. The 14th. That is, guys, the
+
+1285
+01:11:38,159 --> 01:11:44,600
+central bank updated its
+
+1286
+01:11:40,880 --> 01:11:48,320
+forecast of economic growth or
+
+1287
+01:11:44,600 --> 01:11:50,960
+GDP upward in June 2023. It was updated upward.
+
+1288
+01:11:48,320 --> 01:11:54,080
+Now what does this mean? Risk-taking
+
+1289
+01:11:50,960 --> 01:11:56,480
+means that positive events have happened. Now, this risk-
+
+1290
+01:11:54,080 --> 01:12:00,880
+taking is either priced in the market
+
+1291
+01:11:56,480 --> 01:12:04,920
+or not. When was it
+
+1292
+01:12:00,880 --> 01:12:08,080
+priced? When was it recognizable? That means that
+
+1293
+01:12:04,920 --> 01:12:11,520
+I, as an investor, realized
+
+1294
+01:12:08,080 --> 01:12:15,560
+that this is going to go in this direction. The economic conditions?  So
+
+1295
+01:12:11,520 --> 01:12:18,120
+now, the March 2024 projection means our
+
+1296
+01:12:15,560 --> 01:12:21,440
+previous forecast was 1.5 and 1. Now it's 1.1
+
+1297
+01:12:18,120 --> 01:12:24,920
+down. 2025 is
+
+1298
+01:12:21,440 --> 01:12:28,360
+down. Now the unemployment rate is 4.5
+
+1299
+01:12:24,920 --> 01:12:32,320
+and 1. Employment is better than 6.
+
+1300
+01:12:28,360 --> 01:12:36,600
+2024 in the previous forecast. Now in the
+
+1301
+01:12:32,320 --> 01:12:39,360
+June forecast, it's 1.5 and 1. Likewise, the PCA
+
+1302
+01:12:36,600 --> 01:12:41,679
+core PC, for example, core PC has become 3.6 and 6. I
+
+1303
+01:12:39,360 --> 01:12:46,199
+just want you to familiarize yourself with the table and how to
+
+1304
+01:12:41,679 --> 01:12:51,120
+read it. The Federal Funds Rate or the interest rate
+
+1305
+01:12:46,199 --> 01:12:56,639
+that members expect in the future has gone from 1.1 to 1.6. From 3.3 to 1.6. From 3.1 to
+
+1306
+01:12:51,120 --> 01:13:00,960
+
+1307
+01:12:56,639 --> 01:13:03,880
+1.6. From 3.1 to 1.1. Very,
+
+1308
+01:13:00,960 --> 01:13:07,120
+very important. Don't forget these two points: a
+
+1309
+01:13:03,880 --> 01:13:10,480
+comparative look at
+
+1310
+01:13:07,120 --> 01:13:13,000
+market expectations. This is from the central bank, which we work with a lot. We have a lot of work to do. We will
+
+1311
+01:13:10,480 --> 01:13:16,080
+
+1312
+01:13:13,000 --> 01:13:18,080
+continue to talk about it more.
+
+1313
+01:13:16,080 --> 01:13:21,360
+This was an introduction. Here we are learning. The
+
+1314
+01:13:18,080 --> 01:13:24,480
+practical part of the story remains. We want to
+
+1315
+01:13:21,360 --> 01:13:28,560
+work a lot with economic data. We
+
+1316
+01:13:24,480 --> 01:13:30,960
+need to master the language of data. They will be in the
+
+1317
+01:13:28,560 --> 01:13:33,320
+next videos. So far.  So you got to know the central bank, the
+
+1318
+01:13:30,960 --> 01:13:37,400
+previous slide, guys, make sure
+
+1319
+01:13:33,320 --> 01:13:40,880
+you review it again. It's very important. All
+
+1320
+01:13:37,400 --> 01:13:44,639
+the slides are next to the previous slide.
+
+1321
+01:13:40,880 --> 01:13:48,400
+This slide is so important. Now let's move on to
+
+1322
+01:13:44,639 --> 01:13:53,120
+fiscal policy. The government didn't pay attention to it. God forbid. We've been waiting
+
+1323
+01:13:48,400 --> 01:13:55,960
+here for an hour and a half
+
+1324
+01:13:53,120 --> 01:13:59,400
+to get to fiscal policy.
+
+1325
+01:13:55,960 --> 01:14:03,320
+Fiscal policy is not as important to us as monetary policy.
+
+1326
+01:13:59,400 --> 01:14:06,560
+Why is it because it's less discussed
+
+1327
+01:14:03,320 --> 01:14:10,000
+because the budget is approved annually, taxes
+
+1328
+01:14:06,560 --> 01:14:13,400
+are approved, or, for example, presidential elections
+
+1329
+01:14:10,000 --> 01:14:15,719
+happen. There, our fiscal policies are
+
+1330
+01:14:13,400 --> 01:14:19,600
+very important. Fiscal policy has two parts:
+
+1331
+01:14:15,719 --> 01:14:22,600
+taxes and spending. We
+
+1332
+01:14:19,600 --> 01:14:25,960
+have contractionary and expansionary fiscal policy here. Contractionary and expansionary are
+
+1333
+01:14:22,600 --> 01:14:29,760
+terms in chemistry. Contractionary means
+
+1334
+01:14:25,960 --> 01:14:33,800
+shrinking, expansionary means growing. This is a matter of volume.
+
+1335
+01:14:29,760 --> 01:14:37,280
+Contractionary policy means the economy becomes smaller. Expansionary policy means that the
+
+1336
+01:14:33,800 --> 01:14:40,440
+
+1337
+01:14:37,280 --> 01:14:42,560
+economy becomes bigger or there is more money.
+
+1338
+01:14:40,440 --> 01:14:46,800
+In
+
+1339
+01:14:42,560 --> 01:14:49,040
+economics, then, we have fiscal policy or fiscal policy. We have
+
+1340
+01:14:46,800 --> 01:14:53,520
+contractionary and expansionary fiscal policy, which is a fiscal policy of
+
+1341
+01:14:49,040 --> 01:14:55,520
+hockey and dowsing. Fiscal policy of hockey.  The
+
+1342
+01:14:53,520 --> 01:14:59,320
+government
+
+1343
+01:14:55,520 --> 01:15:02,840
+here is the government should increase the tax rate
+
+1344
+01:14:59,320 --> 01:15:06,159
+and reduce its spending so that it has the tools to
+
+1345
+01:15:02,840 --> 01:15:09,920
+spend taxes. If it raises taxes,
+
+1346
+01:15:06,159 --> 01:15:13,800
+this will cause its income to
+
+1347
+01:15:09,920 --> 01:15:17,520
+increase and increase. And when it reduces its spending, well, that
+
+1348
+01:15:13,800 --> 01:15:20,159
+means that the government is
+
+1349
+01:15:17,520 --> 01:15:23,480
+experiencing a contraction, this will cause a decrease in
+
+1350
+01:15:20,159 --> 01:15:25,920
+economic activity. The government itself
+
+1351
+01:15:23,480 --> 01:15:28,800
+is organizing a large part of economic activity, it is
+
+1352
+01:15:25,920 --> 01:15:31,920
+monitoring and
+
+1353
+01:15:28,800 --> 01:15:34,679
+causing it, and this is done through its own spending.
+
+1354
+01:15:31,920 --> 01:15:36,960
+Construction projects, for example, when they want to build a highway,
+
+1355
+01:15:34,679 --> 01:15:40,120
+a lot of jobs are created, the
+
+1356
+01:15:36,960 --> 01:15:43,239
+whole economy is moving, the whole industry
+
+1357
+01:15:40,120 --> 01:15:46,480
+has to produce. When spending decreases, it
+
+1358
+01:15:43,239 --> 01:15:49,560
+causes a decrease in economic activity.
+
+1359
+01:15:46,480 --> 01:15:52,480
+When taxes increase, it means that people
+
+1360
+01:15:49,560 --> 01:15:56,520
+have less money to spend. This causes a decrease in
+
+1361
+01:15:52,480 --> 01:15:59,800
+economic activity. So, contractionary fiscal policy
+
+1362
+01:15:56,520 --> 01:16:03,080
+or hockey means increasing taxes, which means
+
+1363
+01:15:59,800 --> 01:16:08,159
+taking more taxes from people and
+
+1364
+01:16:03,080 --> 01:16:11,239
+reducing spending. This is detrimental to the economy. How do
+
+1365
+01:16:08,159 --> 01:16:15,080
+we use fiscal policy? This is
+
+1366
+01:16:11,239 --> 01:16:18,960
+how contractionary fiscal policy or hockey  It is detrimental to
+
+1367
+01:16:15,080 --> 01:16:22,440
+the economy and the possibility of recession. There is a possibility of a
+
+1368
+01:16:18,960 --> 01:16:25,560
+decrease in economic growth. And for that
+
+1369
+01:16:22,440 --> 01:16:27,560
+economy, for the stock market, which is at
+
+1370
+01:16:25,560 --> 01:16:30,719
+risk, the stock market is a negative factor when it has this news.
+
+1371
+01:16:27,560 --> 01:16:34,199
+
+1372
+01:16:30,719 --> 01:16:36,440
+If the tax rate increases, the
+
+1373
+01:16:34,199 --> 01:16:39,400
+stock market is afraid. It says, "Wow,
+
+1374
+01:16:36,440 --> 01:16:42,520
+consumers are no longer spending anymore.
+
+1375
+01:16:39,400 --> 01:16:47,080
+Demand will decrease. Or when the government spends, the
+
+1376
+01:16:42,520 --> 01:16:50,199
+government budget will decrease. It will affect the profitability of companies. The
+
+1377
+01:16:47,080 --> 01:16:53,800
+decrease in economic activity. Now,
+
+1378
+01:16:50,199 --> 01:16:57,199
+how does the expansionary policy of the Dow Jones economy spend and increase
+
+1379
+01:16:53,800 --> 01:17:01,159
+taxes? For example, during the
+
+1380
+01:16:57,199 --> 01:17:04,679
+Covid period, the government spent heavily and
+
+1381
+01:17:01,159 --> 01:17:07,400
+increased spending. To some extent, it
+
+1382
+01:17:04,679 --> 01:17:10,120
+gave people a free check. It said, "Sir, spend this money,
+
+1383
+01:17:07,400 --> 01:17:13,000
+take your wallet. To
+
+1384
+01:17:10,120 --> 01:17:15,840
+stimulate demand. To prevent the economy from going into
+
+1385
+01:17:13,000 --> 01:17:21,080
+recession. To support it. So,
+
+1386
+01:17:15,840 --> 01:17:24,080
+fiscal policy also has an effect and causes economic growth or a
+
+1387
+01:17:21,080 --> 01:17:26,600
+decrease in economic growth. And here, the Dow Jones policy
+
+1388
+01:17:24,080 --> 01:17:29,520
+means reducing the cost of education.
+
+1389
+01:17:26,600 --> 01:17:32,360
+When taxes are reduced, people have more spending.
+
+1390
+01:17:29,520 --> 01:17:36,360
+People have more money to spend. And this
+
+1391
+01:17:32,360 --> 01:17:39,080
+means economic growth when  Taxation
+
+1392
+01:17:36,360 --> 01:17:41,280
+decreases, so more spending occurs on the part of the people.
+
+1393
+01:17:39,080 --> 01:17:44,159
+Increased demand increases
+
+1394
+01:17:41,280 --> 01:17:47,239
+economic growth. When government spending increases, this
+
+1395
+01:17:44,159 --> 01:17:49,880
+means economic growth. Remember, I
+
+1396
+01:17:47,239 --> 01:17:53,040
+explained growth to you in full earlier. I told you
+
+1397
+01:17:49,880 --> 01:17:56,480
+how the economy works, what is the economy like, how does the economy work? How does the
+
+1398
+01:17:53,040 --> 01:17:59,199
+economy affect people? How does the consumer
+
+1399
+01:17:56,480 --> 01:18:01,840
+affect the producer? I
+
+1400
+01:17:59,199 --> 01:18:05,520
+was here so that
+
+1401
+01:18:01,840 --> 01:18:08,120
+you can easily understand these topics.
+
+1402
+01:18:05,520 --> 01:18:11,520
+Well, the most important political events, guys, are the
+
+1403
+01:18:08,120 --> 01:18:15,199
+presidential elections, the presidential elections, the
+
+1404
+01:18:11,520 --> 01:18:18,199
+House of Representatives, and the Senate.
+
+1405
+01:18:15,199 --> 01:18:20,920
+In the United States, when we have elections for these, it is
+
+1406
+01:18:18,199 --> 01:18:23,920
+always about monetary policies.
+
+1407
+01:18:20,920 --> 01:18:27,280
+For example, in the United States, we have two parties, the
+
+1408
+01:18:23,920 --> 01:18:30,920
+Republican and the Democratic parties,
+
+1409
+01:18:27,280 --> 01:18:33,800
+whose policies are different in terms of their financial policies.
+
+1410
+01:18:30,920 --> 01:18:36,120
+For example, when the president is a
+
+1411
+01:18:33,800 --> 01:18:38,679
+Democrat, we expect one policy,
+
+1412
+01:18:36,120 --> 01:18:41,960
+when the president is a Republican, another policy, or when the House of
+
+1413
+01:18:38,679 --> 01:18:44,800
+Representatives or Senate is a Democrat or a
+
+1414
+01:18:41,960 --> 01:18:48,239
+Republican, this affects the approval of
+
+1415
+01:18:44,800 --> 01:18:50,960
+various packages, the approval of the budget, the approval of taxes, the
+
+1416
+01:18:48,239 --> 01:18:53,120
+approval of activities that the government wants to do,
+
+1417
+01:18:50,960 --> 01:18:55,440
+etc. So these are
+
+1418
+01:18:53,120 --> 01:18:59,159
+our most important political events. The
+
+1419
+01:18:55,440 --> 01:19:02,679
+approval of the budget.  And the government's annual tax plan
+
+1420
+01:18:59,159 --> 01:19:06,560
+is another one of the
+
+1421
+01:19:02,679 --> 01:19:08,960
+topics that are very important in fiscal policies.
+
+1422
+01:19:06,560 --> 01:19:11,080
+Fiscal policies, guys, this is how
+
+1423
+01:19:08,960 --> 01:19:13,760
+we look at it, whether it causes growth or
+
+1424
+01:19:11,080 --> 01:19:17,239
+recession. It causes growth or recession. That's how I want it to be.
+
+1425
+01:19:13,760 --> 01:19:21,000
+In this period, let's
+
+1426
+01:19:17,239 --> 01:19:23,760
+simplify the fundamentals. Let's simplify everything. No
+
+1427
+01:19:21,000 --> 01:19:25,400
+one has simplified the fundamentals. Everyone is
+
+1428
+01:19:23,760 --> 01:19:28,719
+running away from them. Let's simplify them.
+
+1429
+01:19:25,400 --> 01:19:31,800
+Fundamentals and fiscal policy are
+
+1430
+01:19:28,719 --> 01:19:34,320
+ultimately economic growth or economic growth. We can
+
+1431
+01:19:31,800 --> 01:19:36,199
+see how they affect prices.
+
+1432
+01:19:34,320 --> 01:19:38,520
+Now, let's get a little familiar with the Treasury. We
+
+1433
+01:19:36,199 --> 01:19:41,679
+have a slide show about the Treasury. The
+
+1434
+01:19:38,520 --> 01:19:44,880
+Treasury, guys, is responsible for issuing government bonds and
+
+1435
+01:19:41,679 --> 01:19:47,480
+debt. That is, financing the
+
+1436
+01:19:44,880 --> 01:19:51,400
+government with the Treasury. The Treasury can be said to be the
+
+1437
+01:19:47,480 --> 01:19:55,560
+government's accountant, in a way. And here
+
+1438
+01:19:51,400 --> 01:19:58,239
+you see the US government debt, which has been
+
+1439
+01:19:55,560 --> 01:20:02,040
+reduced by 32.33. Right now, I think
+
+1440
+01:19:58,239 --> 01:20:06,000
+we're talking about it. It's 33.33
+
+1441
+01:20:02,040 --> 01:20:10,520
+trillion dollars. The US government debt is
+
+1442
+01:20:06,000 --> 01:20:13,560
+the money they borrowed these years. They printed it, which
+
+1443
+01:20:10,520 --> 01:20:16,960
+means the bank.  The government has centralized it, which
+
+1444
+01:20:13,560 --> 01:20:20,199
+cannot print. The central bank has printed 8
+
+1445
+01:20:16,960 --> 01:20:23,239
+trillion. The central bank has given this. A quarter
+
+1446
+01:20:20,199 --> 01:20:26,719
+of this debt is in the hands of the central bank. The bonds
+
+1447
+01:20:23,239 --> 01:20:30,280
+that the government has issued are the government debt
+
+1448
+01:20:26,719 --> 01:20:34,360
+or the bonds that it has issued. I would like
+
+1449
+01:20:30,280 --> 01:20:36,520
+to present you who have this slide to
+
+1450
+01:20:34,360 --> 01:20:40,600
+know that it is facing
+
+1451
+01:20:36,520 --> 01:20:43,560
+up. And here you see the treasury account, that
+
+1452
+01:20:40,600 --> 01:20:45,679
+is, the amount of money that
+
+1453
+01:20:43,560 --> 01:20:48,080
+is in the treasury's pocket. Now with this money they pay the
+
+1454
+01:20:45,679 --> 01:20:50,960
+pensioners' salaries, they have different projects, they are
+
+1455
+01:20:48,080 --> 01:20:53,719
+spending different things in the government.
+
+1456
+01:20:50,960 --> 01:20:56,440
+And one of the parts that is
+
+1457
+01:20:53,719 --> 01:21:00,000
+important to us now, in the financial markets, sometimes it is
+
+1458
+01:20:56,440 --> 01:21:02,679
+important is whether the treasury account
+
+1459
+01:21:00,000 --> 01:21:05,520
+goes up or down. That is, how does the treasury auction
+
+1460
+01:21:02,679 --> 01:21:07,800
+bonds or issue bonds?
+
+1461
+01:21:05,520 --> 01:21:09,920
+How do they issue the bonds? They say, sir, we
+
+1462
+01:21:07,800 --> 01:21:13,600
+want to finance the government.
+
+1463
+01:21:09,920 --> 01:21:17,159
+Come buy these bonds,
+
+1464
+01:21:13,600 --> 01:21:19,679
+give money, and take them. This is the task of the
+
+1465
+01:21:17,159 --> 01:21:22,639
+treasury. And
+
+1466
+01:21:19,679 --> 01:21:25,320
+what is the treasury account for here?  It's important to us because the
+
+1467
+01:21:22,639 --> 01:21:29,280
+higher this account goes, the Treasury is
+
+1468
+01:21:25,320 --> 01:21:32,600
+auctioning more bonds. The more bonds are auctioned, the more
+
+1469
+01:21:29,280 --> 01:21:35,480
+liquidity is being collected from the economy and
+
+1470
+01:21:32,600 --> 01:21:38,639
+going to the Treasury. Guys, liquidity
+
+1471
+01:21:35,480 --> 01:21:42,159
+is one of the important factors in the markets.
+
+1472
+01:21:38,639 --> 01:21:45,000
+When liquidity in the economy is high, it
+
+1473
+01:21:42,159 --> 01:21:48,239
+causes inflation, asset prices rise, the
+
+1474
+01:21:45,000 --> 01:21:51,520
+stock market rises, everything becomes expensive.
+
+1475
+01:21:48,239 --> 01:21:54,560
+When liquidity decreases, economic growth
+
+1476
+01:21:51,520 --> 01:21:58,840
+decreases, market prices decrease, liquidity
+
+1477
+01:21:54,560 --> 01:22:01,480
+itself is an important factor. Liquidity is why the
+
+1478
+01:21:58,840 --> 01:22:04,880
+stock market has always been going up throughout history
+
+1479
+01:22:01,480 --> 01:22:08,560
+because liquidity has been increasing. Because we
+
+1480
+01:22:04,880 --> 01:22:10,600
+came here on the previous slide. Because here you see the
+
+1481
+01:22:08,560 --> 01:22:13,960
+debts of the US government because
+
+1482
+01:22:10,600 --> 01:22:16,639
+this money has been printed and put into the economy
+
+1483
+01:22:13,960 --> 01:22:19,719
+and this money has gone to assets,
+
+1484
+01:22:16,639 --> 01:22:22,840
+creating demand and increasing the value of assets. The
+
+1485
+01:22:19,719 --> 01:22:25,080
+value of money has decreased and assets have
+
+1486
+01:22:22,840 --> 01:22:28,400
+increased. We call this the
+
+1487
+01:22:25,080 --> 01:22:30,520
+liquidity term, one of the important factors. And when the
+
+1488
+01:22:28,400 --> 01:22:34,880
+Treasury account moves up, it
+
+1489
+01:22:30,520 --> 01:22:36,480
+means liquidity has decreased. Increased bond auctions
+
+1490
+01:22:34,880 --> 01:22:39,800
+reduce liquidity.
+
+1491
+01:22:36,480 --> 01:22:43,080
+Increased bond auctions become a decrease in liquidity, which means the
+
+1492
+01:22:39,800 --> 01:22:45,960
+account  When the Treasury grows, liquidity is
+
+1493
+01:22:43,080 --> 01:22:49,679
+collected from the markets and we have the risk and
+
+1494
+01:22:45,960 --> 01:22:51,960
+risk reduction. The increase in
+
+1495
+01:22:49,679 --> 01:22:54,920
+liquidity when the Treasury account decreases
+
+1496
+01:22:51,960 --> 01:22:56,760
+means that there is more liquidity in the markets and the risk-
+
+1497
+01:22:54,920 --> 01:23:00,440
+taking of the children. We do not deal with this factor every day,
+
+1498
+01:22:56,760 --> 01:23:03,199
+but sometimes it takes a trend and has an effect.
+
+1499
+01:23:00,440 --> 01:23:07,400
+For example, the Treasury announced that for the
+
+1500
+01:23:03,199 --> 01:23:09,920
+third quarter of 2023, I
+
+1501
+01:23:07,400 --> 01:23:12,840
+have a plan to increase the auction of bonds, and this
+
+1502
+01:23:09,920 --> 01:23:15,639
+means that liquidity can decrease from the markets.
+
+1503
+01:23:12,840 --> 01:23:19,560
+For example, the stock market
+
+1504
+01:23:15,639 --> 01:23:21,520
+reacted somewhat negatively to this news. This is from the
+
+1505
+01:23:19,560 --> 01:23:24,560
+Treasury and the
+
+1506
+01:23:21,520 --> 01:23:27,080
+topic of the Treasury account that you have in this
+
+1507
+01:23:24,560 --> 01:23:29,600
+slide. I hope it was
+
+1508
+01:23:27,080 --> 01:23:32,199
+useful for you. In this part, we
+
+1509
+01:23:29,600 --> 01:23:35,719
+talked about monetary and fiscal policies, which
+
+1510
+01:23:32,199 --> 01:23:39,800
+are very, very, very important topics in the
+
+1511
+01:23:35,719 --> 01:23:42,239
+markets. If these fundamental topics
+
+1512
+01:23:39,800 --> 01:23:46,159
+were useful to you, children, be sure to share this video with
+
+1513
+01:23:42,239 --> 01:23:50,679
+others. Give the name of the series and the link to the
+
+1514
+01:23:46,159 --> 01:23:53,480
+series. Let other children
+
+1515
+01:23:50,679 --> 01:23:56,239
+
+1516
+01:23:53,480 --> 01:24:02,040
+learn the fundamental topic.
+
+1517
+01:23:56,239 --> 01:24:05,719
+And it makes them lose less. This really makes
+
+1518
+01:24:02,040 --> 01:24:08,880
+this case, guys. Why? Because first of
+
+1519
+01:24:05,719 --> 01:24:11,679
+all, one thing is that first of all,
+
+1520
+01:24:08,880 --> 01:24:14,600
+traders learn in Iran that it is
+
+1521
+01:24:11,679 --> 01:24:18,560
+not as simple as me
+
+1522
+01:24:14,600 --> 01:24:21,400
+trying to make a profit in this market with a few lines and a technical strategy.
+
+1523
+01:24:18,560 --> 01:24:23,840
+This market
+
+1524
+01:24:21,400 --> 01:24:28,400
+has its own complexities. This makes many people not go to this
+
+1525
+01:24:23,840 --> 01:24:31,199
+market. Someone who cannot do that does not have enough effort, does
+
+1526
+01:24:28,400 --> 01:24:35,920
+not have enough perseverance, does not go to this market.
+
+1527
+01:24:31,199 --> 01:24:38,800
+The path becomes clear faster. They do not lose.
+
+1528
+01:24:35,920 --> 01:24:41,679
+Our friends and
+
+1529
+01:24:38,800 --> 01:24:45,239
+those around us and anyone who is struggling in this market.
+
+1530
+01:24:41,679 --> 01:24:48,679
+These discussions help them
+
+1531
+01:24:45,239 --> 01:24:51,000
+find their way more easily and
+
+1532
+01:24:48,679 --> 01:24:54,080
+learn. So if these videos were interesting to you, I will
+
+1533
+01:24:51,000 --> 01:24:57,760
+recommend these videos to others.
+
+1534
+01:24:54,080 --> 01:24:57,760
+I will say it again
+
+1535
+01:24:59,280 --> 01:25:08,600
+in our channel or group or Instagram channel,
+
+1536
+01:25:04,119 --> 01:25:11,480
+which is my direct message. I am responsible myself.
+
+1537
+01:25:08,600 --> 01:25:14,760
+You can contact me. Now, if you
+
+1538
+01:25:11,480 --> 01:25:19,840
+want someone, no problem. My Telegram ID
+
+1539
+01:25:14,760 --> 01:25:23,159
+is Alireza Madadhi. Finally, it is Iger.
+
+1540
+01:25:19,840 --> 01:25:25,840
+And I would like to invite you to come if you have any questions.
+
+1541
+01:25:23,159 --> 01:25:27,920
+Your prayers are good. It
+
+1542
+01:25:25,840 --> 01:25:30,760
+can be in  The final sections will help me a lot to
+
+1543
+01:25:27,920 --> 01:25:33,440
+
+1544
+01:25:30,760 --> 01:25:36,000
+know the issues you need to know more about and where
+
+1545
+01:25:33,440 --> 01:25:38,880
+your problems lie, so I can cover them more for you.
+
+1546
+01:25:36,000 --> 01:25:38,880
+ 
+
